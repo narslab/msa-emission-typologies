@@ -9,8 +9,9 @@ import time
 from datetime import timedelta
 import os
 from joblib import Parallel, delayed
+import multiprocessing
 
-ox.config(timeout=100000)
+ox.settings.timeout=100000
 
 # https://stackoverflow.com/a/4676482/3023033
 def flatten(TheList):
@@ -27,7 +28,6 @@ def flatten(TheList):
 		listIsNested = keepChecking     #determine if outer loop exits
 		TheList = Temp[:]
 	return TheList
-
 
 def get_msa_municipality_list_df(save=True):
 	msa_df = pd.read_csv('../../data/raw/metrolist.csv', engine='python', header=None, skipfooter=5)
@@ -129,7 +129,8 @@ def get_msa_network_stats(df, msa, save=True):
 if __name__ == "__main__":
 	start = time.time()
 	df = get_msa_municipality_list_df(True)
-	Parallel(n_jobs=4)(
+	#ncpus = multiprocessing.cpu_count() - 1
+	Parallel(n_jobs=2)(
 		delayed(get_msa_network_stats)(df, i) for i in df.index
 		)
 	elapsed = (time.time() - start)
