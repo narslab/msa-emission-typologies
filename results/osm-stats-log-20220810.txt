@@ -1,0 +1,1153 @@
+Processing MSA: Akron, OH; Municipalities:  ['Portage County, OH', 'Summit County, OH']
+calculating Akron, OH stats
+saving Akron, OH
+Processing MSA: Alexandria, LA; Municipalities:  ['Grant County, LA', 'Rapides County, LA']
+Nominatim geocoder returned 0 results for query "Rapides County, LA"
+Alexandria, LA skipped
+Processing MSA: Allentown-Bethlehem-Easton, PA-NJ; Municipalities:  ['Warren County, NJ', 'Carbon County, PA', 'Lehigh County, PA', 'Northampton County, PA']
+calculating Allentown-Bethlehem-Easton, PA-NJ stats
+saving Allentown-Bethlehem-Easton, PA-NJ
+Processing MSA: Appleton, WI; Municipalities:  ['Calumet County, WI', 'Outagamie County, WI']
+calculating Appleton, WI stats
+saving Appleton, WI
+Processing MSA: Atlanta-Sandy Springs-Alpharetta, GA; Municipalities:  ['Barrow County, GA', 'Bartow County, GA', 'Butts County, GA', 'Carroll County, GA', 'Cherokee County, GA', 'Clayton County, GA', 'Cobb County, GA', 'Coweta County, GA', 'Dawson County, GA', 'DeKalb County, GA', 'Douglas County, GA', 'Fayette County, GA', 'Forsyth County, GA', 'Fulton County, GA', 'Gwinnett County, GA', 'Haralson County, GA', 'Heard County, GA', 'Henry County, GA', 'Jasper County, GA', 'Lamar County, GA', 'Meriwether County, GA', 'Morgan County, GA', 'Newton County, GA', 'Paulding County, GA', 'Pickens County, GA', 'Pike County, GA', 'Rockdale County, GA', 'Spalding County, GA', 'Walton County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fulton+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc33d9f6890>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Atlanta-Sandy Springs-Alpharetta, GA skipped
+Processing MSA: Atlantic City-Hammonton, NJ; Municipalities:  ['Atlantic County, NJ']
+calculating Atlantic City-Hammonton, NJ stats
+saving Atlantic City-Hammonton, NJ
+Processing MSA: Austin-Round Rock-Georgetown, TX; Municipalities:  ['Bastrop County, TX', 'Caldwell County, TX', 'Hays County, TX', 'Travis County, TX', 'Williamson County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Caldwell+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc333114550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Austin-Round Rock-Georgetown, TX skipped
+Processing MSA: Bakersfield, CA; Municipalities:  ['Kern County, CA']
+calculating Bakersfield, CA stats
+saving Bakersfield, CA
+Processing MSA: Bismarck, ND; Municipalities:  ['Burleigh County, ND', 'Morton County, ND', 'Oliver County, ND']
+calculating Bismarck, ND stats
+saving Bismarck, ND
+Processing MSA: Bloomington, IN; Municipalities:  ['Monroe County, IN', 'Owen County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Owen+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc33fb47d60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Bloomington, IN skipped
+Processing MSA: Bloomsburg-Berwick, PA; Municipalities:  ['Columbia County, PA', 'Montour County, PA']
+calculating Bloomsburg-Berwick, PA stats
+saving Bloomsburg-Berwick, PA
+Processing MSA: Boulder, CO; Municipalities:  ['Boulder County, CO']
+calculating Boulder, CO stats
+saving Boulder, CO
+Processing MSA: Bowling Green, KY; Municipalities:  ['Allen County, KY', 'Butler County, KY', 'Edmonson County, KY', 'Warren County, KY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Edmonson+County%2C+KY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc318bafd60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Bowling Green, KY skipped
+Processing MSA: Bremerton-Silverdale-Port Orchard, WA; Municipalities:  ['Kitsap County, WA']
+calculating Bremerton-Silverdale-Port Orchard, WA stats
+saving Bremerton-Silverdale-Port Orchard, WA
+Processing MSA: Brownsville-Harlingen, TX; Municipalities:  ['Cameron County, TX']
+calculating Brownsville-Harlingen, TX stats
+saving Brownsville-Harlingen, TX
+Processing MSA: Burlington-South Burlington, VT; Municipalities:  ['Chittenden County, VT', 'Franklin County, VT', 'Grand Isle County, VT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chittenden+County%2C+VT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc30f597790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Burlington-South Burlington, VT skipped
+Processing MSA: California-Lexington Park, MD; Municipalities:  ["St. Mary's County, MD"]
+calculating California-Lexington Park, MD stats
+saving California-Lexington Park, MD
+Processing MSA: Canton-Massillon, OH; Municipalities:  ['Carroll County, OH', 'Stark County, OH']
+calculating Canton-Massillon, OH stats
+saving Canton-Massillon, OH
+Processing MSA: Carson City, NV; Municipalities:  ['Carson City, NV']
+calculating Carson City, NV stats
+saving Carson City, NV
+Processing MSA: Cedar Rapids, IA; Municipalities:  ['Benton County, IA', 'Jones County, IA', 'Linn County, IA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jones+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc2f77773a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cedar Rapids, IA skipped
+Processing MSA: Chambersburg-Waynesboro, PA; Municipalities:  ['Franklin County, PA']
+calculating Chambersburg-Waynesboro, PA stats
+saving Chambersburg-Waynesboro, PA
+Processing MSA: Champaign-Urbana, IL; Municipalities:  ['Champaign County, IL', 'Piatt County, IL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Piatt+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc33314ada0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Champaign-Urbana, IL skipped
+Processing MSA: Charleston, WV; Municipalities:  ['Boone County, WV', 'Clay County, WV', 'Jackson County, WV', 'Kanawha County, WV', 'Lincoln County, WV']
+calculating Charleston, WV stats
+saving Charleston, WV
+Processing MSA: Charlotte-Concord-Gastonia, NC-SC; Municipalities:  ['Anson County, NC', 'Cabarrus County, NC', 'Gaston County, NC', 'Iredell County, NC', 'Lincoln County, NC', 'Mecklenburg County, NC', 'Rowan County, NC', 'Union County, NC', 'Chester County, SC', 'Lancaster County, SC', 'York County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Anson+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc305cc6500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Charlotte-Concord-Gastonia, NC-SC skipped
+Processing MSA: Charlottesville, VA; Municipalities:  ['Fluvanna County, VA', 'Greene County, VA', 'Nelson County, VA', 'Albemarle County, VA', 'Charlottesville, VA']
+calculating Charlottesville, VA stats
+saving Charlottesville, VA
+Processing MSA: Columbus, OH; Municipalities:  ['Delaware County, OH', 'Fairfield County, OH', 'Franklin County, OH', 'Hocking County, OH', 'Licking County, OH', 'Madison County, OH', 'Morrow County, OH', 'Perry County, OH', 'Pickaway County, OH', 'Union County, OH']
+calculating Columbus, OH stats
+saving Columbus, OH
+Processing MSA: Dalton, GA; Municipalities:  ['Murray County, GA', 'Whitfield County, GA']
+calculating Dalton, GA stats
+saving Dalton, GA
+Processing MSA: Davenport-Moline-Rock Island, IA-IL; Municipalities:  ['Henry County, IL', 'Mercer County, IL', 'Rock Island County, IL', 'Scott County, IA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Henry+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Davenport-Moline-Rock Island, IA-IL skipped
+Processing MSA: Dayton-Kettering, OH; Municipalities:  ['Greene County, OH', 'Miami County, OH', 'Montgomery County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Greene+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305540>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Dayton-Kettering, OH skipped
+Processing MSA: Decatur, AL; Municipalities:  ['Lawrence County, AL', 'Morgan County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lawrence+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3046a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Decatur, AL skipped
+Processing MSA: Decatur, IL; Municipalities:  ['Macon County, IL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Macon+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Decatur, IL skipped
+Processing MSA: Deltona-Daytona Beach-Ormond Beach, FL; Municipalities:  ['Flagler County, FL', 'Volusia County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Volusia+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Deltona-Daytona Beach-Ormond Beach, FL skipped
+Processing MSA: Denver-Aurora-Lakewood, CO; Municipalities:  ['Adams County, CO', 'Arapahoe County, CO', 'Broomfield County, CO', 'Clear Creek County, CO', 'Denver County, CO', 'Douglas County, CO', 'Elbert County, CO', 'Gilpin County, CO', 'Jefferson County, CO', 'Park County, CO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Adams+County%2C+CO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Denver-Aurora-Lakewood, CO skipped
+Processing MSA: Des Moines-West Des Moines, IA; Municipalities:  ['Dallas County, IA', 'Guthrie County, IA', 'Jasper County, IA', 'Madison County, IA', 'Polk County, IA', 'Warren County, IA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Dallas+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Des Moines-West Des Moines, IA skipped
+Processing MSA: Detroit-Warren-Dearborn, MI; Municipalities:  ['Lapeer County, MI', 'Livingston County, MI', 'Macomb County, MI', 'Oakland County, MI', 'St. Clair County, MI', 'Wayne County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lapeer+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Detroit-Warren-Dearborn, MI skipped
+Processing MSA: Dothan, AL; Municipalities:  ['Geneva County, AL', 'Henry County, AL', 'Houston County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Geneva+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3062f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Dothan, AL skipped
+Processing MSA: Dover, DE; Municipalities:  ['Kent County, DE']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Kent+County%2C+DE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305570>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Dover, DE skipped
+Processing MSA: Dubuque, IA; Municipalities:  ['Dubuque County, IA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Dubuque+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3068f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Dubuque, IA skipped
+Processing MSA: Duluth, MN-WI; Municipalities:  ['Carlton County, MN', 'Lake County, MN', 'St. Louis County, MN', 'Douglas County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Carlton+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Duluth, MN-WI skipped
+Processing MSA: Durham-Chapel Hill, NC; Municipalities:  ['Chatham County, NC', 'Durham County, NC', 'Granville County, NC', 'Orange County, NC', 'Person County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chatham+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Durham-Chapel Hill, NC skipped
+Processing MSA: East Stroudsburg, PA; Municipalities:  ['Monroe County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Monroe+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+East Stroudsburg, PA skipped
+Processing MSA: Eau Claire, WI; Municipalities:  ['Chippewa County, WI', 'Eau Claire County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chippewa+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Eau Claire, WI skipped
+Processing MSA: El Centro, CA; Municipalities:  ['Imperial County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Imperial+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3066e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+El Centro, CA skipped
+Processing MSA: Elizabethtown-Fort Knox, KY; Municipalities:  ['Hardin County, KY', 'Larue County, KY', 'Meade County, KY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hardin+County%2C+KY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Elizabethtown-Fort Knox, KY skipped
+Processing MSA: Elkhart-Goshen, IN; Municipalities:  ['Elkhart County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Elkhart+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Elkhart-Goshen, IN skipped
+Processing MSA: Elmira, NY; Municipalities:  ['Chemung County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chemung+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Elmira, NY skipped
+Processing MSA: El Paso, TX; Municipalities:  ['El Paso County, TX', 'Hudspeth County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=El+Paso+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306230>: Failed to establish a new connection: [Errno 111] Connection refused'))
+El Paso, TX skipped
+Processing MSA: Enid, OK; Municipalities:  ['Garfield County, OK']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Garfield+County%2C+OK (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Enid, OK skipped
+Processing MSA: Erie, PA; Municipalities:  ['Erie County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Erie+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Erie, PA skipped
+Processing MSA: Eugene-Springfield, OR; Municipalities:  ['Lane County, OR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lane+County%2C+OR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Eugene-Springfield, OR skipped
+Processing MSA: Evansville, IN-KY; Municipalities:  ['Posey County, IN', 'Vanderburgh County, IN', 'Warrick County, IN', 'Henderson County, KY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Posey+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Evansville, IN-KY skipped
+Processing MSA: Fairbanks, AK; Municipalities:  ['Fairbanks North Star Borough County, AK']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fairbanks+North+Star+Borough+County%2C+AK (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fairbanks, AK skipped
+Processing MSA: Fargo, ND-MN; Municipalities:  ['Clay County, MN', 'Cass County, ND']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clay+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fargo, ND-MN skipped
+Processing MSA: Farmington, NM; Municipalities:  ['San Juan County, NM']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=San+Juan+County%2C+NM (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3046a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Farmington, NM skipped
+Processing MSA: Fayetteville, NC; Municipalities:  ['Cumberland County, NC', 'Harnett County, NC', 'Hoke County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cumberland+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3051b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fayetteville, NC skipped
+Processing MSA: Fayetteville-Springdale-Rogers, AR; Municipalities:  ['Benton County, AR', 'Madison County, AR', 'Washington County, AR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Benton+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fayetteville-Springdale-Rogers, AR skipped
+Processing MSA: Flagstaff, AZ; Municipalities:  ['Coconino County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Coconino+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Flagstaff, AZ skipped
+Processing MSA: Flint, MI; Municipalities:  ['Genesee County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Genesee+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305ab0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Flint, MI skipped
+Processing MSA: Florence, SC; Municipalities:  ['Darlington County, SC', 'Florence County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Darlington+County%2C+SC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Florence, SC skipped
+Processing MSA: Florence-Muscle Shoals, AL; Municipalities:  ['Colbert County, AL', 'Lauderdale County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Colbert+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305540>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Florence-Muscle Shoals, AL skipped
+Processing MSA: Fond du Lac, WI; Municipalities:  ['Fond du Lac County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fond+du+Lac+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3056c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fond du Lac, WI skipped
+Processing MSA: Fort Collins, CO; Municipalities:  ['Larimer County, CO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Larimer+County%2C+CO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fort Collins, CO skipped
+Processing MSA: Fort Smith, AR-OK; Municipalities:  ['Crawford County, AR', 'Franklin County, AR', 'Sebastian County, AR', 'Sequoyah County, OK']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Crawford+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305c60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fort Smith, AR-OK skipped
+Processing MSA: Fort Wayne, IN; Municipalities:  ['Allen County, IN', 'Whitley County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Allen+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306200>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fort Wayne, IN skipped
+Processing MSA: Fresno, CA; Municipalities:  ['Fresno County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fresno+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Fresno, CA skipped
+Processing MSA: Gadsden, AL; Municipalities:  ['Etowah County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Etowah+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3078e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Gadsden, AL skipped
+Processing MSA: Gainesville, FL; Municipalities:  ['Alachua County, FL', 'Gilchrist County, FL', 'Levy County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Alachua+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Gainesville, FL skipped
+Processing MSA: Gainesville, GA; Municipalities:  ['Hall County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hall+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305c30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Gainesville, GA skipped
+Processing MSA: Gettysburg, PA; Municipalities:  ['Adams County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Adams+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3044c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Gettysburg, PA skipped
+Processing MSA: Glens Falls, NY; Municipalities:  ['Warren County, NY', 'Washington County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Warren+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305a80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Glens Falls, NY skipped
+Processing MSA: Goldsboro, NC; Municipalities:  ['Wayne County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Wayne+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Goldsboro, NC skipped
+Processing MSA: Grand Forks, ND-MN; Municipalities:  ['Polk County, MN', 'Grand Forks County, ND']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Polk+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306e30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Grand Forks, ND-MN skipped
+Processing MSA: Grand Island, NE; Municipalities:  ['Hall County, NE', 'Howard County, NE', 'Merrick County, NE']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hall+County%2C+NE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Grand Island, NE skipped
+Processing MSA: Grand Junction, CO; Municipalities:  ['Mesa County, CO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Mesa+County%2C+CO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Grand Junction, CO skipped
+Processing MSA: Grand Rapids-Kentwood, MI; Municipalities:  ['Ionia County, MI', 'Kent County, MI', 'Montcalm County, MI', 'Ottawa County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Ionia+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Grand Rapids-Kentwood, MI skipped
+Processing MSA: Grants Pass, OR; Municipalities:  ['Josephine County, OR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Josephine+County%2C+OR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3051b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Grants Pass, OR skipped
+Processing MSA: Great Falls, MT; Municipalities:  ['Cascade County, MT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cascade+County%2C+MT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305600>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Great Falls, MT skipped
+Processing MSA: Greeley, CO; Municipalities:  ['Weld County, CO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Weld+County%2C+CO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Greeley, CO skipped
+Processing MSA: Green Bay, WI; Municipalities:  ['Brown County, WI', 'Kewaunee County, WI', 'Oconto County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Brown+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Green Bay, WI skipped
+Processing MSA: Greensboro-High Point, NC; Municipalities:  ['Guilford County, NC', 'Randolph County, NC', 'Rockingham County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Guilford+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Greensboro-High Point, NC skipped
+Processing MSA: Greenville, NC; Municipalities:  ['Pitt County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Pitt+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Greenville, NC skipped
+Processing MSA: Greenville-Anderson, SC; Municipalities:  ['Anderson County, SC', 'Greenville County, SC', 'Laurens County, SC', 'Pickens County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Anderson+County%2C+SC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306230>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Greenville-Anderson, SC skipped
+Processing MSA: Gulfport-Biloxi, MS; Municipalities:  ['Hancock County, MS', 'Harrison County, MS', 'Jackson County, MS', 'Stone County, MS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hancock+County%2C+MS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3072b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Gulfport-Biloxi, MS skipped
+Processing MSA: Hagerstown-Martinsburg, MD-WV; Municipalities:  ['Washington County, MD', 'Berkeley County, WV', 'Morgan County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Washington+County%2C+MD (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3055a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hagerstown-Martinsburg, MD-WV skipped
+Processing MSA: Hammond, LA; Municipalities:  ['Tangipahoa County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Tangipahoa+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hammond, LA skipped
+Processing MSA: Hanford-Corcoran, CA; Municipalities:  ['Kings County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Kings+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3067a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hanford-Corcoran, CA skipped
+Processing MSA: Harrisburg-Carlisle, PA; Municipalities:  ['Cumberland County, PA', 'Dauphin County, PA', 'Perry County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cumberland+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3078e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Harrisburg-Carlisle, PA skipped
+Processing MSA: Harrisonburg, VA; Municipalities:  ['Rockingham County, VA', 'Harrisonburg, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Rockingham+County%2C+VA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Harrisonburg, VA skipped
+Processing MSA: Hartford-East Hartford-Middletown, CT; Municipalities:  ['Hartford County, CT', 'Middlesex County, CT', 'Tolland County, CT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hartford+County%2C+CT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hartford-East Hartford-Middletown, CT skipped
+Processing MSA: Hattiesburg, MS; Municipalities:  ['Covington County, MS', 'Forrest County, MS', 'Lamar County, MS', 'Perry County, MS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Covington+County%2C+MS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hattiesburg, MS skipped
+Processing MSA: Hickory-Lenoir-Morganton, NC; Municipalities:  ['Alexander County, NC', 'Burke County, NC', 'Caldwell County, NC', 'Catawba County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Alexander+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hickory-Lenoir-Morganton, NC skipped
+Processing MSA: Hilton Head Island-Bluffton, SC; Municipalities:  ['Beaufort County, SC', 'Jasper County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Beaufort+County%2C+SC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305540>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hilton Head Island-Bluffton, SC skipped
+Processing MSA: Hinesville, GA; Municipalities:  ['Liberty County, GA', 'Long County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Liberty+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306e30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hinesville, GA skipped
+Processing MSA: Homosassa Springs, FL; Municipalities:  ['Citrus County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Citrus+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Homosassa Springs, FL skipped
+Processing MSA: Hot Springs, AR; Municipalities:  ['Garland County, AR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Garland+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Hot Springs, AR skipped
+Processing MSA: Houma-Thibodaux, LA; Municipalities:  ['Lafourche County, LA', 'Terrebonne County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lafourche+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305b70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Houma-Thibodaux, LA skipped
+Processing MSA: Houston-The Woodlands-Sugar Land, TX; Municipalities:  ['Austin County, TX', 'Brazoria County, TX', 'Chambers County, TX', 'Fort Bend County, TX', 'Galveston County, TX', 'Harris County, TX', 'Liberty County, TX', 'Montgomery County, TX', 'Waller County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Austin+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Houston-The Woodlands-Sugar Land, TX skipped
+Processing MSA: Huntington-Ashland, WV-KY-OH; Municipalities:  ['Boyd County, KY', 'Carter County, KY', 'Greenup County, KY', 'Lawrence County, OH', 'Cabell County, WV', 'Putnam County, WV', 'Wayne County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Boyd+County%2C+KY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Huntington-Ashland, WV-KY-OH skipped
+Processing MSA: Huntsville, AL; Municipalities:  ['Limestone County, AL', 'Madison County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Limestone+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Huntsville, AL skipped
+Processing MSA: Idaho Falls, ID; Municipalities:  ['Bonneville County, ID', 'Butte County, ID', 'Jefferson County, ID']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bonneville+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Idaho Falls, ID skipped
+Processing MSA: Indianapolis-Carmel-Anderson, IN; Municipalities:  ['Boone County, IN', 'Brown County, IN', 'Hamilton County, IN', 'Hancock County, IN', 'Hendricks County, IN', 'Johnson County, IN', 'Madison County, IN', 'Marion County, IN', 'Morgan County, IN', 'Putnam County, IN', 'Shelby County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Boone+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3048b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Indianapolis-Carmel-Anderson, IN skipped
+Processing MSA: Iowa City, IA; Municipalities:  ['Johnson County, IA', 'Washington County, IA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Johnson+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306200>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Iowa City, IA skipped
+Processing MSA: Ithaca, NY; Municipalities:  ['Tompkins County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Tompkins+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Ithaca, NY skipped
+Processing MSA: Jackson, MI; Municipalities:  ['Jackson County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jackson+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jackson, MI skipped
+Processing MSA: Jackson, MS; Municipalities:  ['Copiah County, MS', 'Hinds County, MS', 'Holmes County, MS', 'Madison County, MS', 'Rankin County, MS', 'Simpson County, MS', 'Yazoo County, MS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Copiah+County%2C+MS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305ab0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jackson, MS skipped
+Processing MSA: Jackson, TN; Municipalities:  ['Chester County, TN', 'Crockett County, TN', 'Gibson County, TN', 'Madison County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chester+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jackson, TN skipped
+Processing MSA: Jacksonville, FL; Municipalities:  ['Baker County, FL', 'Clay County, FL', 'Duval County, FL', 'Nassau County, FL', 'St. Johns County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Baker+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jacksonville, FL skipped
+Processing MSA: Jacksonville, NC; Municipalities:  ['Onslow County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Onslow+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jacksonville, NC skipped
+Processing MSA: Janesville-Beloit, WI; Municipalities:  ['Rock County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Rock+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Janesville-Beloit, WI skipped
+Processing MSA: Jefferson City, MO; Municipalities:  ['Callaway County, MO', 'Cole County, MO', 'Moniteau County, MO', 'Osage County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Callaway+County%2C+MO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jefferson City, MO skipped
+Processing MSA: Johnson City, TN; Municipalities:  ['Carter County, TN', 'Unicoi County, TN', 'Washington County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Carter+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Johnson City, TN skipped
+Processing MSA: Johnstown, PA; Municipalities:  ['Cambria County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cambria+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306a10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Johnstown, PA skipped
+Processing MSA: Jonesboro, AR; Municipalities:  ['Craighead County, AR', 'Poinsett County, AR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Craighead+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Jonesboro, AR skipped
+Processing MSA: Joplin, MO; Municipalities:  ['Jasper County, MO', 'Newton County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jasper+County%2C+MO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Joplin, MO skipped
+Processing MSA: Kahului-Wailuku-Lahaina, HI; Municipalities:  ['Maui County, HI', 'Kalawao County, HI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Maui+County%2C+HI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kahului-Wailuku-Lahaina, HI skipped
+Processing MSA: Kalamazoo-Portage, MI; Municipalities:  ['Kalamazoo County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Kalamazoo+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kalamazoo-Portage, MI skipped
+Processing MSA: Kankakee, IL; Municipalities:  ['Kankakee County, IL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Kankakee+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kankakee, IL skipped
+Processing MSA: Kansas City, MO-KS; Municipalities:  ['Johnson County, KS', 'Leavenworth County, KS', 'Linn County, KS', 'Miami County, KS', 'Wyandotte County, KS', 'Bates County, MO', 'Caldwell County, MO', 'Cass County, MO', 'Clay County, MO', 'Clinton County, MO', 'Jackson County, MO', 'Lafayette County, MO', 'Platte County, MO', 'Ray County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Johnson+County%2C+KS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305c60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kansas City, MO-KS skipped
+Processing MSA: Kennewick-Richland, WA; Municipalities:  ['Benton County, WA', 'Franklin County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Benton+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3077c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kennewick-Richland, WA skipped
+Processing MSA: Killeen-Temple, TX; Municipalities:  ['Bell County, TX', 'Coryell County, TX', 'Lampasas County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bell+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3056c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Killeen-Temple, TX skipped
+Processing MSA: Kingsport-Bristol, TN-VA; Municipalities:  ['Hawkins County, TN', 'Sullivan County, TN', 'Scott County, VA', 'Washington County, VA', 'Bristol, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hawkins+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kingsport-Bristol, TN-VA skipped
+Processing MSA: Kingston, NY; Municipalities:  ['Ulster County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Ulster+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kingston, NY skipped
+Processing MSA: Knoxville, TN; Municipalities:  ['Anderson County, TN', 'Blount County, TN', 'Campbell County, TN', 'Knox County, TN', 'Loudon County, TN', 'Morgan County, TN', 'Roane County, TN', 'Union County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Anderson+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Knoxville, TN skipped
+Processing MSA: Kokomo, IN; Municipalities:  ['Howard County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Howard+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Kokomo, IN skipped
+Processing MSA: La Crosse-Onalaska, WI-MN; Municipalities:  ['Houston County, MN', 'La Crosse County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Houston+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+La Crosse-Onalaska, WI-MN skipped
+Processing MSA: Lafayette, LA; Municipalities:  ['Acadia County, LA', 'Iberia County, LA', 'Lafayette County, LA', 'St. Martin County, LA', 'Vermilion County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Acadia+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lafayette, LA skipped
+Processing MSA: Lafayette-West Lafayette, IN; Municipalities:  ['Benton County, IN', 'Carroll County, IN', 'Tippecanoe County, IN', 'Warren County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Benton+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lafayette-West Lafayette, IN skipped
+Processing MSA: Lake Charles, LA; Municipalities:  ['Calcasieu County, LA', 'Cameron County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Calcasieu+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304610>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lake Charles, LA skipped
+Processing MSA: Lake Havasu City-Kingman, AZ; Municipalities:  ['Mohave County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Mohave+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lake Havasu City-Kingman, AZ skipped
+Processing MSA: Lakeland-Winter Haven, FL; Municipalities:  ['Polk County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Polk+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lakeland-Winter Haven, FL skipped
+Processing MSA: Lancaster, PA; Municipalities:  ['Lancaster County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lancaster+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3069b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lancaster, PA skipped
+Processing MSA: Lansing-East Lansing, MI; Municipalities:  ['Clinton County, MI', 'Eaton County, MI', 'Ingham County, MI', 'Shiawassee County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clinton+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305540>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lansing-East Lansing, MI skipped
+Processing MSA: Laredo, TX; Municipalities:  ['Webb County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Webb+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Laredo, TX skipped
+Processing MSA: Las Cruces, NM; Municipalities:  ['Doña Ana County, NM']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Do%C3%B1a+Ana+County%2C+NM (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Las Cruces, NM skipped
+Processing MSA: Las Vegas-Henderson-Paradise, NV; Municipalities:  ['Clark County, NV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clark+County%2C+NV (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Las Vegas-Henderson-Paradise, NV skipped
+Processing MSA: Lawrence, KS; Municipalities:  ['Douglas County, KS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Douglas+County%2C+KS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3044c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lawrence, KS skipped
+Processing MSA: Lawton, OK; Municipalities:  ['Comanche County, OK', 'Cotton County, OK']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Comanche+County%2C+OK (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306230>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lawton, OK skipped
+Processing MSA: Lebanon, PA; Municipalities:  ['Lebanon County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lebanon+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3062f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lebanon, PA skipped
+Processing MSA: Lewiston, ID-WA; Municipalities:  ['Nez Perce County, ID', 'Asotin County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Nez+Perce+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305a80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lewiston, ID-WA skipped
+Processing MSA: Lewiston-Auburn, ME; Municipalities:  ['Androscoggin County, ME']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Androscoggin+County%2C+ME (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lewiston-Auburn, ME skipped
+Processing MSA: Lexington-Fayette, KY; Municipalities:  ['Bourbon County, KY', 'Clark County, KY', 'Fayette County, KY', 'Jessamine County, KY', 'Scott County, KY', 'Woodford County, KY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bourbon+County%2C+KY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lexington-Fayette, KY skipped
+Processing MSA: Lima, OH; Municipalities:  ['Allen County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Allen+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3067a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lima, OH skipped
+Processing MSA: Lincoln, NE; Municipalities:  ['Lancaster County, NE', 'Seward County, NE']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lancaster+County%2C+NE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305b70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lincoln, NE skipped
+Processing MSA: Little Rock-North Little Rock-Conway, AR; Municipalities:  ['Faulkner County, AR', 'Grant County, AR', 'Lonoke County, AR', 'Perry County, AR', 'Pulaski County, AR', 'Saline County, AR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Faulkner+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305c30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Little Rock-North Little Rock-Conway, AR skipped
+Processing MSA: Logan, UT-ID; Municipalities:  ['Franklin County, ID', 'Cache County, UT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Franklin+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3043a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Logan, UT-ID skipped
+Processing MSA: Longview, TX; Municipalities:  ['Gregg County, TX', 'Harrison County, TX', 'Rusk County, TX', 'Upshur County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Gregg+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3051b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Longview, TX skipped
+Processing MSA: Longview, WA; Municipalities:  ['Cowlitz County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cowlitz+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305750>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Longview, WA skipped
+Processing MSA: Los Angeles-Long Beach-Anaheim, CA; Municipalities:  ['Los Angeles County, CA', 'Orange County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Los+Angeles+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Los Angeles-Long Beach-Anaheim, CA skipped
+Processing MSA: Louisville/Jefferson County, KY-IN; Municipalities:  ['Clark County, IN', 'Floyd County, IN', 'Harrison County, IN', 'Washington County, IN', 'Bullitt County, KY', 'Henry County, KY', 'Jefferson County, KY', 'Oldham County, KY', 'Shelby County, KY', 'Spencer County, KY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clark+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306860>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Louisville/Jefferson County, KY-IN skipped
+Processing MSA: Lubbock, TX; Municipalities:  ['Crosby County, TX', 'Lubbock County, TX', 'Lynn County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Crosby+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306a70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lubbock, TX skipped
+Processing MSA: Lynchburg, VA; Municipalities:  ['Amherst County, VA', 'Appomattox County, VA', 'Bedford County, VA', 'Campbell County, VA', 'Lynchburg, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Amherst+County%2C+VA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Lynchburg, VA skipped
+Processing MSA: Macon-Bibb County, GA; Municipalities:  ['Bibb County, GA', 'Crawford County, GA', 'Jones County, GA', 'Monroe County, GA', 'Twiggs County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bibb+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305720>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Macon-Bibb County, GA skipped
+Processing MSA: Madera, CA; Municipalities:  ['Madera County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Madera+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Madera, CA skipped
+Processing MSA: Madison, WI; Municipalities:  ['Columbia County, WI', 'Dane County, WI', 'Green County, WI', 'Iowa County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Columbia+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3046a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Madison, WI skipped
+Processing MSA: Manchester-Nashua, NH; Municipalities:  ['Hillsborough County, NH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hillsborough+County%2C+NH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Manchester-Nashua, NH skipped
+Processing MSA: Manhattan, KS; Municipalities:  ['Geary County, KS', 'Pottawatomie County, KS', 'Riley County, KS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Geary+County%2C+KS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3050f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Manhattan, KS skipped
+Processing MSA: Mankato, MN; Municipalities:  ['Blue Earth County, MN', 'Nicollet County, MN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Blue+Earth+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Mankato, MN skipped
+Processing MSA: Mansfield, OH; Municipalities:  ['Richland County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Richland+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Mansfield, OH skipped
+Processing MSA: McAllen-Edinburg-Mission, TX; Municipalities:  ['Hidalgo County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hidalgo+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+McAllen-Edinburg-Mission, TX skipped
+Processing MSA: Medford, OR; Municipalities:  ['Jackson County, OR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jackson+County%2C+OR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Medford, OR skipped
+Processing MSA: Memphis, TN-MS-AR; Municipalities:  ['Crittenden County, AR', 'DeSoto County, MS', 'Marshall County, MS', 'Tate County, MS', 'Tunica County, MS', 'Fayette County, TN', 'Shelby County, TN', 'Tipton County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Crittenden+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3043a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Memphis, TN-MS-AR skipped
+Processing MSA: Merced, CA; Municipalities:  ['Merced County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Merced+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306200>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Merced, CA skipped
+Processing MSA: Miami-Fort Lauderdale-Pompano Beach, FL; Municipalities:  ['Broward County, FL', 'Miami-Dade County, FL', 'Palm Beach County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Broward+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305540>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Miami-Fort Lauderdale-Pompano Beach, FL skipped
+Processing MSA: Michigan City-La Porte, IN; Municipalities:  ['LaPorte County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=LaPorte+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Michigan City-La Porte, IN skipped
+Processing MSA: Midland, MI; Municipalities:  ['Midland County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Midland+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3048b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Midland, MI skipped
+Processing MSA: Midland, TX; Municipalities:  ['Martin County, TX', 'Midland County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Martin+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3077c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Midland, TX skipped
+Processing MSA: Milwaukee-Waukesha, WI; Municipalities:  ['Milwaukee County, WI', 'Ozaukee County, WI', 'Washington County, WI', 'Waukesha County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Milwaukee+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Milwaukee-Waukesha, WI skipped
+Processing MSA: Minneapolis-St. Paul-Bloomington, MN-WI; Municipalities:  ['Anoka County, MN', 'Carver County, MN', 'Chisago County, MN', 'Dakota County, MN', 'Hennepin County, MN', 'Isanti County, MN', 'Le Sueur County, MN', 'Mille Lacs County, MN', 'Ramsey County, MN', 'Scott County, MN', 'Sherburne County, MN', 'Washington County, MN', 'Wright County, MN', 'Pierce County, WI', 'St. Croix County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Anoka+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Minneapolis-St. Paul-Bloomington, MN-WI skipped
+Processing MSA: Missoula, MT; Municipalities:  ['Missoula County, MT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Missoula+County%2C+MT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Missoula, MT skipped
+Processing MSA: Mobile, AL; Municipalities:  ['Mobile County, AL', 'Washington County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Mobile+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3051b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Mobile, AL skipped
+Processing MSA: Modesto, CA; Municipalities:  ['Stanislaus County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Stanislaus+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Modesto, CA skipped
+Processing MSA: Monroe, LA; Municipalities:  ['Morehouse County, LA', 'Ouachita County, LA', 'Union County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Morehouse+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305ab0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Monroe, LA skipped
+Processing MSA: Monroe, MI; Municipalities:  ['Monroe County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Monroe+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Monroe, MI skipped
+Processing MSA: Montgomery, AL; Municipalities:  ['Autauga County, AL', 'Elmore County, AL', 'Lowndes County, AL', 'Montgomery County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Autauga+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Montgomery, AL skipped
+Processing MSA: Morgantown, WV; Municipalities:  ['Monongalia County, WV', 'Preston County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Monongalia+County%2C+WV (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3056c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Morgantown, WV skipped
+Processing MSA: Morristown, TN; Municipalities:  ['Grainger County, TN', 'Hamblen County, TN', 'Jefferson County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Grainger+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Morristown, TN skipped
+Processing MSA: Mount Vernon-Anacortes, WA; Municipalities:  ['Skagit County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Skagit+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Mount Vernon-Anacortes, WA skipped
+Processing MSA: Muncie, IN; Municipalities:  ['Delaware County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Delaware+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Muncie, IN skipped
+Processing MSA: Muskegon, MI; Municipalities:  ['Muskegon County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Muskegon+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Muskegon, MI skipped
+Processing MSA: Myrtle Beach-Conway-North Myrtle Beach, SC-NC; Municipalities:  ['Brunswick County, NC', 'Horry County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Brunswick+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Myrtle Beach-Conway-North Myrtle Beach, SC-NC skipped
+Processing MSA: Napa, CA; Municipalities:  ['Napa County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Napa+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3072b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Napa, CA skipped
+Processing MSA: Naples-Marco Island, FL; Municipalities:  ['Collier County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Collier+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3043a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Naples-Marco Island, FL skipped
+Processing MSA: Nashville-Davidson--Murfreesboro--Franklin, TN; Municipalities:  ['Cannon County, TN', 'Cheatham County, TN', 'Davidson County, TN', 'Dickson County, TN', 'Macon County, TN', 'Maury County, TN', 'Robertson County, TN', 'Rutherford County, TN', 'Smith County, TN', 'Sumner County, TN', 'Trousdale County, TN', 'Williamson County, TN', 'Wilson County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cannon+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305960>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Nashville-Davidson--Murfreesboro--Franklin, TN skipped
+Processing MSA: New Bern, NC; Municipalities:  ['Craven County, NC', 'Jones County, NC', 'Pamlico County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Craven+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+New Bern, NC skipped
+Processing MSA: New Haven-Milford, CT; Municipalities:  ['New Haven County, CT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=New+Haven+County%2C+CT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+New Haven-Milford, CT skipped
+Processing MSA: New Orleans-Metairie, LA; Municipalities:  ['Jefferson County, LA', 'Orleans County, LA', 'Plaquemines County, LA', 'St. Bernard County, LA', 'St. Charles County, LA', 'St. James County, LA', 'St. John the Baptist County, LA', 'St. Tammany County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jefferson+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305210>: Failed to establish a new connection: [Errno 111] Connection refused'))
+New Orleans-Metairie, LA skipped
+Processing MSA: New York-Newark-Jersey City, NY-NJ-PA; Municipalities:  ['Bergen County, NJ', 'Essex County, NJ', 'Hudson County, NJ', 'Hunterdon County, NJ', 'Middlesex County, NJ', 'Monmouth County, NJ', 'Morris County, NJ', 'Ocean County, NJ', 'Passaic County, NJ', 'Somerset County, NJ', 'Sussex County, NJ', 'Union County, NJ', 'Bronx County, NY', 'Kings County, NY', 'Nassau County, NY', 'New York County, NY', 'Putnam County, NY', 'Queens County, NY', 'Richmond County, NY', 'Rockland County, NY', 'Suffolk County, NY', 'Westchester County, NY', 'Pike County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bergen+County%2C+NJ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+New York-Newark-Jersey City, NY-NJ-PA skipped
+Processing MSA: Niles, MI; Municipalities:  ['Berrien County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Berrien+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Niles, MI skipped
+Processing MSA: North Port-Sarasota-Bradenton, FL; Municipalities:  ['Manatee County, FL', 'Sarasota County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Manatee+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+North Port-Sarasota-Bradenton, FL skipped
+Processing MSA: Norwich-New London, CT; Municipalities:  ['New London County, CT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=New+London+County%2C+CT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Norwich-New London, CT skipped
+Processing MSA: Ocala, FL; Municipalities:  ['Marion County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Marion+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305600>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Ocala, FL skipped
+Processing MSA: Ocean City, NJ; Municipalities:  ['Cape May County, NJ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cape+May+County%2C+NJ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3062f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Ocean City, NJ skipped
+Processing MSA: Odessa, TX; Municipalities:  ['Ector County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Ector+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Odessa, TX skipped
+Processing MSA: Ogden-Clearfield, UT; Municipalities:  ['Box Elder County, UT', 'Davis County, UT', 'Morgan County, UT', 'Weber County, UT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Box+Elder+County%2C+UT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3069b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Ogden-Clearfield, UT skipped
+Processing MSA: Oklahoma City, OK; Municipalities:  ['Canadian County, OK', 'Cleveland County, OK', 'Grady County, OK', 'Lincoln County, OK', 'Logan County, OK', 'McClain County, OK', 'Oklahoma County, OK']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Canadian+County%2C+OK (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305570>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Oklahoma City, OK skipped
+Processing MSA: Olympia-Lacey-Tumwater, WA; Municipalities:  ['Thurston County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Thurston+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306560>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Olympia-Lacey-Tumwater, WA skipped
+Processing MSA: Omaha-Council Bluffs, NE-IA; Municipalities:  ['Harrison County, IA', 'Mills County, IA', 'Pottawattamie County, IA', 'Cass County, NE', 'Douglas County, NE', 'Sarpy County, NE', 'Saunders County, NE', 'Washington County, NE']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Harrison+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Omaha-Council Bluffs, NE-IA skipped
+Processing MSA: Orlando-Kissimmee-Sanford, FL; Municipalities:  ['Lake County, FL', 'Orange County, FL', 'Osceola County, FL', 'Seminole County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lake+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Orlando-Kissimmee-Sanford, FL skipped
+Processing MSA: Oshkosh-Neenah, WI; Municipalities:  ['Winnebago County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Winnebago+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306860>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Oshkosh-Neenah, WI skipped
+Processing MSA: Owensboro, KY; Municipalities:  ['Daviess County, KY', 'Hancock County, KY', 'McLean County, KY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Daviess+County%2C+KY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Owensboro, KY skipped
+Processing MSA: Oxnard-Thousand Oaks-Ventura, CA; Municipalities:  ['Ventura County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Ventura+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Oxnard-Thousand Oaks-Ventura, CA skipped
+Processing MSA: Palm Bay-Melbourne-Titusville, FL; Municipalities:  ['Brevard County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Brevard+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Palm Bay-Melbourne-Titusville, FL skipped
+Processing MSA: Panama City, FL; Municipalities:  ['Bay County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bay+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Panama City, FL skipped
+Processing MSA: Parkersburg-Vienna, WV; Municipalities:  ['Wirt County, WV', 'Wood County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Wirt+County%2C+WV (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Parkersburg-Vienna, WV skipped
+Processing MSA: Pensacola-Ferry Pass-Brent, FL; Municipalities:  ['Escambia County, FL', 'Santa Rosa County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Escambia+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Pensacola-Ferry Pass-Brent, FL skipped
+Processing MSA: Peoria, IL; Municipalities:  ['Fulton County, IL', 'Marshall County, IL', 'Peoria County, IL', 'Stark County, IL', 'Tazewell County, IL', 'Woodford County, IL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fulton+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305ab0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Peoria, IL skipped
+Processing MSA: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD; Municipalities:  ['New Castle County, DE', 'Cecil County, MD', 'Burlington County, NJ', 'Camden County, NJ', 'Gloucester County, NJ', 'Salem County, NJ', 'Bucks County, PA', 'Chester County, PA', 'Delaware County, PA', 'Montgomery County, PA', 'Philadelphia County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=New+Castle+County%2C+DE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD skipped
+Processing MSA: Phoenix-Mesa-Chandler, AZ; Municipalities:  ['Maricopa County, AZ', 'Pinal County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Maricopa+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3051b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Phoenix-Mesa-Chandler, AZ skipped
+Processing MSA: Pine Bluff, AR; Municipalities:  ['Cleveland County, AR', 'Jefferson County, AR', 'Lincoln County, AR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cleveland+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3056c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Pine Bluff, AR skipped
+Processing MSA: Pittsburgh, PA; Municipalities:  ['Allegheny County, PA', 'Armstrong County, PA', 'Beaver County, PA', 'Butler County, PA', 'Fayette County, PA', 'Washington County, PA', 'Westmoreland County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Allegheny+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3050c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Pittsburgh, PA skipped
+Processing MSA: Pittsfield, MA; Municipalities:  ['Berkshire County, MA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Berkshire+County%2C+MA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Pittsfield, MA skipped
+Processing MSA: Pocatello, ID; Municipalities:  ['Bannock County, ID', 'Power County, ID']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bannock+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Pocatello, ID skipped
+Processing MSA: Portland-South Portland, ME; Municipalities:  ['Cumberland County, ME', 'Sagadahoc County, ME', 'York County, ME']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cumberland+County%2C+ME (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Portland-South Portland, ME skipped
+Processing MSA: Portland-Vancouver-Hillsboro, OR-WA; Municipalities:  ['Clackamas County, OR', 'Columbia County, OR', 'Multnomah County, OR', 'Washington County, OR', 'Yamhill County, OR', 'Clark County, WA', 'Skamania County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clackamas+County%2C+OR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307610>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Portland-Vancouver-Hillsboro, OR-WA skipped
+Processing MSA: Port St. Lucie, FL; Municipalities:  ['Martin County, FL', 'St. Lucie County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Martin+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Port St. Lucie, FL skipped
+Processing MSA: Poughkeepsie-Newburgh-Middletown, NY; Municipalities:  ['Dutchess County, NY', 'Orange County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Dutchess+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Poughkeepsie-Newburgh-Middletown, NY skipped
+Processing MSA: Prescott Valley-Prescott, AZ; Municipalities:  ['Yavapai County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Yavapai+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Prescott Valley-Prescott, AZ skipped
+Processing MSA: Providence-Warwick, RI-MA; Municipalities:  ['Bristol County, MA', 'Bristol County, RI', 'Kent County, RI', 'Newport County, RI', 'Providence County, RI', 'Washington County, RI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bristol+County%2C+MA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3050c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Providence-Warwick, RI-MA skipped
+Processing MSA: Provo-Orem, UT; Municipalities:  ['Juab County, UT', 'Utah County, UT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Juab+County%2C+UT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305180>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Provo-Orem, UT skipped
+Processing MSA: Pueblo, CO; Municipalities:  ['Pueblo County, CO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Pueblo+County%2C+CO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3050f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Pueblo, CO skipped
+Processing MSA: Punta Gorda, FL; Municipalities:  ['Charlotte County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Charlotte+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3066e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Punta Gorda, FL skipped
+Processing MSA: Racine, WI; Municipalities:  ['Racine County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Racine+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306560>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Racine, WI skipped
+Processing MSA: Raleigh-Cary, NC; Municipalities:  ['Franklin County, NC', 'Johnston County, NC', 'Wake County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Franklin+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Raleigh-Cary, NC skipped
+Processing MSA: Rapid City, SD; Municipalities:  ['Meade County, SD', 'Pennington County, SD']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Meade+County%2C+SD (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305210>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Rapid City, SD skipped
+Processing MSA: Reading, PA; Municipalities:  ['Berks County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Berks+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Reading, PA skipped
+Processing MSA: Redding, CA; Municipalities:  ['Shasta County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Shasta+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3060e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Redding, CA skipped
+Processing MSA: Reno, NV; Municipalities:  ['Storey County, NV', 'Washoe County, NV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Storey+County%2C+NV (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Reno, NV skipped
+Processing MSA: Richmond, VA; Municipalities:  ['Amelia County, VA', 'Charles City County, VA', 'Chesterfield County, VA', 'Goochland County, VA', 'Hanover County, VA', 'Henrico County, VA', 'King and Queen County, VA', 'King William County, VA', 'New Kent County, VA', 'Powhatan County, VA', 'Sussex County, VA', 'Richmond, VA', 'Dinwiddie County, VA', 'Colonial Heights, VA', 'Petersburg, VA', 'Prince George County, VA', 'Hopewell, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Amelia+County%2C+VA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3051b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Richmond, VA skipped
+Processing MSA: Riverside-San Bernardino-Ontario, CA; Municipalities:  ['Riverside County, CA', 'San Bernardino County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Riverside+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3077c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Riverside-San Bernardino-Ontario, CA skipped
+Processing MSA: Roanoke, VA; Municipalities:  ['Botetourt County, VA', 'Craig County, VA', 'Franklin County, VA', 'Roanoke, VA', 'Roanoke County, VA', 'Salem, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Botetourt+County%2C+VA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Roanoke, VA skipped
+Processing MSA: Rochester, MN; Municipalities:  ['Dodge County, MN', 'Fillmore County, MN', 'Olmsted County, MN', 'Wabasha County, MN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Dodge+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Rochester, MN skipped
+Processing MSA: Rochester, NY; Municipalities:  ['Livingston County, NY', 'Monroe County, NY', 'Ontario County, NY', 'Orleans County, NY', 'Wayne County, NY', 'Yates County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Livingston+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Rochester, NY skipped
+Processing MSA: Rockford, IL; Municipalities:  ['Boone County, IL', 'Winnebago County, IL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Boone+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Rockford, IL skipped
+Processing MSA: Rocky Mount, NC; Municipalities:  ['Edgecombe County, NC', 'Nash County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Edgecombe+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Rocky Mount, NC skipped
+Processing MSA: Rome, GA; Municipalities:  ['Floyd County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Floyd+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Rome, GA skipped
+Processing MSA: Sacramento-Roseville-Folsom, CA; Municipalities:  ['El Dorado County, CA', 'Placer County, CA', 'Sacramento County, CA', 'Yolo County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=El+Dorado+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sacramento-Roseville-Folsom, CA skipped
+Processing MSA: Saginaw, MI; Municipalities:  ['Saginaw County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Saginaw+County%2C+MI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Saginaw, MI skipped
+Processing MSA: St. Cloud, MN; Municipalities:  ['Benton County, MN', 'Stearns County, MN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Benton+County%2C+MN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+St. Cloud, MN skipped
+Processing MSA: St. George, UT; Municipalities:  ['Washington County, UT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Washington+County%2C+UT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+St. George, UT skipped
+Processing MSA: St. Joseph, MO-KS; Municipalities:  ['Doniphan County, KS', 'Andrew County, MO', 'Buchanan County, MO', 'DeKalb County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Doniphan+County%2C+KS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+St. Joseph, MO-KS skipped
+Processing MSA: St. Louis, MO-IL; Municipalities:  ['Bond County, IL', 'Calhoun County, IL', 'Clinton County, IL', 'Jersey County, IL', 'Macoupin County, IL', 'Madison County, IL', 'Monroe County, IL', 'St. Clair County, IL', 'Franklin County, MO', 'Jefferson County, MO', 'Lincoln County, MO', 'St. Charles County, MO', 'St. Louis County, MO', 'Warren County, MO', 'St. Louis, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bond+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3066e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+St. Louis, MO-IL skipped
+Processing MSA: Salem, OR; Municipalities:  ['Marion County, OR', 'Polk County, OR']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Marion+County%2C+OR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307f40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Salem, OR skipped
+Processing MSA: Salinas, CA; Municipalities:  ['Monterey County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Monterey+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Salinas, CA skipped
+Processing MSA: Salisbury, MD-DE; Municipalities:  ['Sussex County, DE', 'Somerset County, MD', 'Wicomico County, MD', 'Worcester County, MD']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Sussex+County%2C+DE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Salisbury, MD-DE skipped
+Processing MSA: Salt Lake City, UT; Municipalities:  ['Salt Lake County, UT', 'Tooele County, UT']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Salt+Lake+County%2C+UT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Salt Lake City, UT skipped
+Processing MSA: San Angelo, TX; Municipalities:  ['Irion County, TX', 'Sterling County, TX', 'Tom Green County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Irion+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+San Angelo, TX skipped
+Processing MSA: San Antonio-New Braunfels, TX; Municipalities:  ['Atascosa County, TX', 'Bandera County, TX', 'Bexar County, TX', 'Comal County, TX', 'Guadalupe County, TX', 'Kendall County, TX', 'Medina County, TX', 'Wilson County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Atascosa+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+San Antonio-New Braunfels, TX skipped
+Processing MSA: San Diego-Chula Vista-Carlsbad, CA; Municipalities:  ['San Diego County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=San+Diego+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+San Diego-Chula Vista-Carlsbad, CA skipped
+Processing MSA: San Francisco-Oakland-Berkeley, CA; Municipalities:  ['Alameda County, CA', 'Contra Costa County, CA', 'Marin County, CA', 'San Francisco County, CA', 'San Mateo County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Alameda+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3067a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+San Francisco-Oakland-Berkeley, CA skipped
+Processing MSA: San Jose-Sunnyvale-Santa Clara, CA; Municipalities:  ['San Benito County, CA', 'Santa Clara County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=San+Benito+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+San Jose-Sunnyvale-Santa Clara, CA skipped
+Processing MSA: San Luis Obispo-Paso Robles, CA; Municipalities:  ['San Luis Obispo County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=San+Luis+Obispo+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+San Luis Obispo-Paso Robles, CA skipped
+Processing MSA: Santa Cruz-Watsonville, CA; Municipalities:  ['Santa Cruz County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Santa+Cruz+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305750>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Santa Cruz-Watsonville, CA skipped
+Processing MSA: Santa Fe, NM; Municipalities:  ['Santa Fe County, NM']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Santa+Fe+County%2C+NM (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Santa Fe, NM skipped
+Processing MSA: Santa Maria-Santa Barbara, CA; Municipalities:  ['Santa Barbara County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Santa+Barbara+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Santa Maria-Santa Barbara, CA skipped
+Processing MSA: Santa Rosa-Petaluma, CA; Municipalities:  ['Sonoma County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Sonoma+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Santa Rosa-Petaluma, CA skipped
+Processing MSA: Savannah, GA; Municipalities:  ['Bryan County, GA', 'Chatham County, GA', 'Effingham County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bryan+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3044c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Savannah, GA skipped
+Processing MSA: Scranton--Wilkes-Barre, PA; Municipalities:  ['Lackawanna County, PA', 'Luzerne County, PA', 'Wyoming County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lackawanna+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Processing MSA: Abilene, TX; Municipalities:  ['Callahan County, TX', 'Jones County, TX', 'Taylor County, TX']
+calculating Abilene, TX stats
+saving Abilene, TX
+Processing MSA: Albuquerque, NM; Municipalities:  ['Bernalillo County, NM', 'Sandoval County, NM', 'Torrance County, NM', 'Valencia County, NM']
+calculating Albuquerque, NM stats
+saving Albuquerque, NM
+Processing MSA: Barnstable Town, MA; Municipalities:  ['Barnstable County, MA']
+calculating Barnstable Town, MA stats
+saving Barnstable Town, MA
+Processing MSA: Bend, OR; Municipalities:  ['Deschutes County, OR']
+calculating Bend, OR stats
+saving Bend, OR
+Processing MSA: Birmingham-Hoover, AL; Municipalities:  ['Bibb County, AL', 'Blount County, AL', 'Chilton County, AL', 'Jefferson County, AL', 'St. Clair County, AL', 'Shelby County, AL']
+calculating Birmingham-Hoover, AL stats
+saving Birmingham-Hoover, AL
+Processing MSA: Brunswick, GA; Municipalities:  ['Brantley County, GA', 'Glynn County, GA', 'McIntosh County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Brantley+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d6c6d0310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Brunswick, GA skipped
+Processing MSA: Buffalo-Cheektowaga, NY; Municipalities:  ['Erie County, NY', 'Niagara County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Niagara+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d6c6d32e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Buffalo-Cheektowaga, NY skipped
+Processing MSA: Burlington, NC; Municipalities:  ['Alamance County, NC']
+calculating Burlington, NC stats
+saving Burlington, NC
+Processing MSA: Casper, WY; Municipalities:  ['Natrona County, WY']
+calculating Casper, WY stats
+saving Casper, WY
+Processing MSA: Chattanooga, TN-GA; Municipalities:  ['Catoosa County, GA', 'Dade County, GA', 'Walker County, GA', 'Hamilton County, TN', 'Marion County, TN', 'Sequatchie County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Catoosa+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d977d7bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Chattanooga, TN-GA skipped
+Processing MSA: Cheyenne, WY; Municipalities:  ['Laramie County, WY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Laramie+County%2C+WY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d977d4f40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cheyenne, WY skipped
+Processing MSA: Chicago-Naperville-Elgin, IL-IN-WI; Municipalities:  ['Cook County, IL', 'DeKalb County, IL', 'DuPage County, IL', 'Grundy County, IL', 'Kane County, IL', 'Kendall County, IL', 'Lake County, IL', 'McHenry County, IL', 'Will County, IL', 'Jasper County, IN', 'Lake County, IN', 'Newton County, IN', 'Porter County, IN', 'Kenosha County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Porter+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d977d6ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Chicago-Naperville-Elgin, IL-IN-WI skipped
+Processing MSA: Chico, CA; Municipalities:  ['Butte County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Butte+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d977d48b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Chico, CA skipped
+Processing MSA: Cincinnati, OH-KY-IN; Municipalities:  ['Dearborn County, IN', 'Franklin County, IN', 'Ohio County, IN', 'Union County, IN', 'Boone County, KY', 'Bracken County, KY', 'Campbell County, KY', 'Gallatin County, KY', 'Grant County, KY', 'Kenton County, KY', 'Pendleton County, KY', 'Brown County, OH', 'Butler County, OH', 'Clermont County, OH', 'Hamilton County, OH', 'Warren County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Dearborn+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d977d7d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cincinnati, OH-KY-IN skipped
+Processing MSA: Clarksville, TN-KY; Municipalities:  ['Christian County, KY', 'Trigg County, KY', 'Montgomery County, TN', 'Stewart County, TN']
+calculating Clarksville, TN-KY stats
+saving Clarksville, TN-KY
+Processing MSA: Cleveland, TN; Municipalities:  ['Bradley County, TN', 'Polk County, TN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Polk+County%2C+TN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3dcf393310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cleveland, TN skipped
+Processing MSA: Cleveland-Elyria, OH; Municipalities:  ['Cuyahoga County, OH', 'Geauga County, OH', 'Lake County, OH', 'Lorain County, OH', 'Medina County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Geauga+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3dcf390040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cleveland-Elyria, OH skipped
+Processing MSA: Coeur d'Alene, ID; Municipalities:  ['Kootenai County, ID']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Kootenai+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3dcf3915d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Coeur d'Alene, ID skipped
+Processing MSA: College Station-Bryan, TX; Municipalities:  ['Brazos County, TX', 'Burleson County, TX', 'Robertson County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Brazos+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3dcf390b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+College Station-Bryan, TX skipped
+Processing MSA: Colorado Springs, CO; Municipalities:  ['El Paso County, CO', 'Teller County, CO']
+calculating Colorado Springs, CO stats
+saving Colorado Springs, CO
+Processing MSA: Cumberland, MD-WV; Municipalities:  ['Allegany County, MD', 'Mineral County, WV']
+calculating Cumberland, MD-WV stats
+saving Cumberland, MD-WV
+Processing MSA: Danville, IL; Municipalities:  ['Vermilion County, IL']
+calculating Danville, IL stats
+saving Danville, IL
+Processing MSA: Daphne-Fairhope-Foley, AL; Municipalities:  ['Baldwin County, AL']
+calculating Daphne-Fairhope-Foley, AL stats
+saving Daphne-Fairhope-Foley, AL
+Processing MSA: Sheboygan, WI; Municipalities:  ['Sheboygan County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Sheboygan+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61db0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Scranton--Wilkes-Barre, PA skipped
+Processing MSA: Seattle-Tacoma-Bellevue, WA; Municipalities:  ['King County, WA', 'Pierce County, WA', 'Snohomish County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=King+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Seattle-Tacoma-Bellevue, WA skipped
+Processing MSA: Sebastian-Vero Beach, FL; Municipalities:  ['Indian River County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Indian+River+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sebastian-Vero Beach, FL skipped
+Processing MSA: Sebring-Avon Park, FL; Municipalities:  ['Highlands County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Highlands+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3060e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sebring-Avon Park, FL skipped
+Processing MSA: Sherman-Denison, TX; Municipalities:  ['Grayson County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Grayson+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305ab0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sherman-Denison, TX skipped
+Processing MSA: Sierra Vista-Douglas, AZ; Municipalities:  ['Cochise County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cochise+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sierra Vista-Douglas, AZ skipped
+Processing MSA: Sioux Falls, SD; Municipalities:  ['Lincoln County, SD', 'McCook County, SD', 'Minnehaha County, SD', 'Turner County, SD']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lincoln+County%2C+SD (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305c60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sioux Falls, SD skipped
+Processing MSA: Spartanburg, SC; Municipalities:  ['Spartanburg County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Spartanburg+County%2C+SC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Spartanburg, SC skipped
+Processing MSA: Springfield, IL; Municipalities:  ['Menard County, IL', 'Sangamon County, IL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Menard+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Springfield, IL skipped
+Processing MSA: Springfield, MO; Municipalities:  ['Christian County, MO', 'Dallas County, MO', 'Greene County, MO', 'Polk County, MO', 'Webster County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Christian+County%2C+MO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307610>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Springfield, MO skipped
+Processing MSA: State College, PA; Municipalities:  ['Centre County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Centre+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+State College, PA skipped
+Processing MSA: Stockton, CA; Municipalities:  ['San Joaquin County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=San+Joaquin+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stockton, CA skipped
+Processing MSA: Syracuse, NY; Municipalities:  ['Madison County, NY', 'Onondaga County, NY', 'Oswego County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Madison+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Syracuse, NY skipped
+Processing MSA: Tampa-St. Petersburg-Clearwater, FL; Municipalities:  ['Hernando County, FL', 'Hillsborough County, FL', 'Pasco County, FL', 'Pinellas County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Hernando+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e307fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Tampa-St. Petersburg-Clearwater, FL skipped
+Processing MSA: Texarkana, TX-AR; Municipalities:  ['Little River County, AR', 'Miller County, AR', 'Bowie County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Little+River+County%2C+AR (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Texarkana, TX-AR skipped
+Processing MSA: Toledo, OH; Municipalities:  ['Fulton County, OH', 'Lucas County, OH', 'Ottawa County, OH', 'Wood County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fulton+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305c30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Toledo, OH skipped
+Processing MSA: Trenton-Princeton, NJ; Municipalities:  ['Mercer County, NJ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Mercer+County%2C+NJ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306200>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Trenton-Princeton, NJ skipped
+Processing MSA: Tulsa, OK; Municipalities:  ['Creek County, OK', 'Okmulgee County, OK', 'Osage County, OK', 'Pawnee County, OK', 'Rogers County, OK', 'Tulsa County, OK', 'Wagoner County, OK']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Creek+County%2C+OK (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3077c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sheboygan, WI skipped
+Processing MSA: Shreveport-Bossier City, LA; Municipalities:  ['Bossier County, LA', 'Caddo County, LA', 'De Soto County, LA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Bossier+County%2C+LA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Shreveport-Bossier City, LA skipped
+Processing MSA: Sioux City, IA-NE-SD; Municipalities:  ['Woodbury County, IA', 'Dakota County, NE', 'Dixon County, NE', 'Union County, SD']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Woodbury+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e634c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sioux City, IA-NE-SD skipped
+Processing MSA: South Bend-Mishawaka, IN-MI; Municipalities:  ['St. Joseph County, IN', 'Cass County, MI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=St.+Joseph+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+South Bend-Mishawaka, IN-MI skipped
+Processing MSA: Spokane-Spokane Valley, WA; Municipalities:  ['Spokane County, WA', 'Stevens County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Spokane+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Spokane-Spokane Valley, WA skipped
+Processing MSA: Springfield, MA; Municipalities:  ['Franklin County, MA', 'Hampden County, MA', 'Hampshire County, MA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Franklin+County%2C+MA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61330>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Springfield, MA skipped
+Processing MSA: Springfield, OH; Municipalities:  ['Clark County, OH']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clark+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62d40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Springfield, OH skipped
+Processing MSA: Staunton, VA; Municipalities:  ['Augusta County, VA', 'Staunton, VA', 'Waynesboro, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Augusta+County%2C+VA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e614b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Staunton, VA skipped
+Processing MSA: Sumter, SC; Municipalities:  ['Clarendon County, SC', 'Sumter County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clarendon+County%2C+SC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61e70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sumter, SC skipped
+Processing MSA: Tallahassee, FL; Municipalities:  ['Gadsden County, FL', 'Jefferson County, FL', 'Leon County, FL', 'Wakulla County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Gadsden+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Tallahassee, FL skipped
+Processing MSA: Terre Haute, IN; Municipalities:  ['Clay County, IN', 'Parke County, IN', 'Sullivan County, IN', 'Vermillion County, IN', 'Vigo County, IN']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Clay+County%2C+IN (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Terre Haute, IN skipped
+Processing MSA: The Villages, FL; Municipalities:  ['Sumter County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Sumter+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e63be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+The Villages, FL skipped
+Processing MSA: Topeka, KS; Municipalities:  ['Jackson County, KS', 'Jefferson County, KS', 'Osage County, KS', 'Shawnee County, KS', 'Wabaunsee County, KS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jackson+County%2C+KS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e63010>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Topeka, KS skipped
+Processing MSA: Tucson, AZ; Municipalities:  ['Pima County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Pima+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e63e20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Tucson, AZ skipped
+Processing MSA: Tuscaloosa, AL; Municipalities:  ['Greene County, AL', 'Hale County, AL', 'Pickens County, AL', 'Tuscaloosa County, AL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Greene+County%2C+AL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61f00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Tuscaloosa, AL skipped
+Processing MSA: Tyler, TX; Municipalities:  ['Smith County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Smith+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e612a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Tyler, TX skipped
+Processing MSA: Utica-Rome, NY; Municipalities:  ['Herkimer County, NY', 'Oneida County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Herkimer+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e618a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Utica-Rome, NY skipped
+Processing MSA: Vallejo, CA; Municipalities:  ['Solano County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Solano+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e630d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Vallejo, CA skipped
+Processing MSA: Vineland-Bridgeton, NJ; Municipalities:  ['Cumberland County, NJ']
+Tulsa, OK skipped
+Processing MSA: Twin Falls, ID; Municipalities:  ['Jerome County, ID', 'Twin Falls County, ID']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jerome+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3055a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Twin Falls, ID skipped
+Processing MSA: Urban Honolulu, HI; Municipalities:  ['Honolulu County, HI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Honolulu+County%2C+HI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3048b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Urban Honolulu, HI skipped
+Processing MSA: Valdosta, GA; Municipalities:  ['Brooks County, GA', 'Echols County, GA', 'Lanier County, GA', 'Lowndes County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Brooks+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3044c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Valdosta, GA skipped
+Processing MSA: Victoria, TX; Municipalities:  ['Goliad County, TX', 'Victoria County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Goliad+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Victoria, TX skipped
+Processing MSA: Virginia Beach-Norfolk-Newport News, VA-NC; Municipalities:  ['Camden County, NC', 'Currituck County, NC', 'Gates County, NC', 'Gloucester County, VA', 'Isle of Wight County, VA', 'Mathews County, VA', 'Chesapeake, VA', 'Hampton, VA', 'Newport News, VA', 'Norfolk, VA', 'Portsmouth, VA', 'Suffolk, VA', 'Virginia Beach, VA', 'James City County, VA', 'Williamsburg,, VA', 'Southampton County, VA', 'Franklin, VA', 'York County, VA', 'Poquoson, VA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Camden+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3072b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Virginia Beach-Norfolk-Newport News, VA-NC skipped
+Processing MSA: Waco, TX; Municipalities:  ['Falls County, TX', 'McLennan County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Falls+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Waco, TX skipped
+Processing MSA: Warner Robins, GA; Municipalities:  ['Houston County, GA', 'Peach County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Houston+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Warner Robins, GA skipped
+Processing MSA: Waterloo-Cedar Falls, IA; Municipalities:  ['Black Hawk County, IA', 'Bremer County, IA', 'Grundy County, IA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Black+Hawk+County%2C+IA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e305930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Waterloo-Cedar Falls, IA skipped
+Processing MSA: Wausau-Weston, WI; Municipalities:  ['Lincoln County, WI', 'Marathon County, WI']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lincoln+County%2C+WI (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e304460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Wausau-Weston, WI skipped
+Processing MSA: Wenatchee, WA; Municipalities:  ['Chelan County, WA', 'Douglas County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chelan+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3047c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Wenatchee, WA skipped
+Processing MSA: Wichita, KS; Municipalities:  ['Butler County, KS', 'Harvey County, KS', 'Sedgwick County, KS', 'Sumner County, KS']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Butler+County%2C+KS (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306620>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Wichita, KS skipped
+Processing MSA: Williamsport, PA; Municipalities:  ['Lycoming County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lycoming+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3043a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Williamsport, PA skipped
+Processing MSA: Winchester, VA-WV; Municipalities:  ['Frederick County, VA', 'Winchester, VA', 'Hampshire County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Frederick+County%2C+VA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Winchester, VA-WV skipped
+Processing MSA: Worcester, MA-CT; Municipalities:  ['Windham County, CT', 'Worcester County, MA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Windham+County%2C+CT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Worcester, MA-CT skipped
+Processing MSA: York-Hanover, PA; Municipalities:  ['York County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=York+County%2C+PA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e3057e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+York-Hanover, PA skipped
+Processing MSA: Yuba City, CA; Municipalities:  ['Sutter County, CA', 'Yuba County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Sutter+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc32e306650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Yuba City, CA skipped
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Cumberland+County%2C+NJ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61db0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Vineland-Bridgeton, NJ skipped
+Processing MSA: Visalia, CA; Municipalities:  ['Tulare County, CA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Tulare+County%2C+CA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e60c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Visalia, CA skipped
+Processing MSA: Walla Walla, WA; Municipalities:  ['Walla Walla County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Walla+Walla+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e61660>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Walla Walla, WA skipped
+Processing MSA: Washington-Arlington-Alexandria, DC-VA-MD-WV; Municipalities:  ['District of Columbia County, DC', 'Calvert County, MD', 'Charles County, MD', 'Frederick County, MD', 'Montgomery County, MD', "Prince George's County, MD", 'Arlington County, VA', 'Clarke County, VA', 'Culpeper County, VA', 'Fauquier County, VA', 'Loudoun County, VA', 'Madison County, VA', 'Rappahannock County, VA', 'Stafford County, VA', 'Warren County, VA', 'Alexandria, VA', 'Fairfax County, VA', 'Fairfax, VA', 'Falls Church, VA', 'Prince William County, VA', 'Manassas, VA', 'Manassas Park, VA', 'Spotsylvania County, VA', 'Fredericksburg, VA', 'Jefferson County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=District+of+Columbia+County%2C+DC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e60e20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Washington-Arlington-Alexandria, DC-VA-MD-WV skipped
+Processing MSA: Watertown-Fort Drum, NY; Municipalities:  ['Jefferson County, NY']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jefferson+County%2C+NY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e60520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Watertown-Fort Drum, NY skipped
+Processing MSA: Weirton-Steubenville, WV-OH; Municipalities:  ['Jefferson County, OH', 'Brooke County, WV', 'Hancock County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Jefferson+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e621a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Weirton-Steubenville, WV-OH skipped
+Processing MSA: Wheeling, WV-OH; Municipalities:  ['Belmont County, OH', 'Marshall County, WV', 'Ohio County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Belmont+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Wheeling, WV-OH skipped
+Processing MSA: Wichita Falls, TX; Municipalities:  ['Archer County, TX', 'Clay County, TX', 'Wichita County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Archer+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e628c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Wichita Falls, TX skipped
+Processing MSA: Wilmington, NC; Municipalities:  ['New Hanover County, NC', 'Pender County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=New+Hanover+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e601c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Wilmington, NC skipped
+Processing MSA: Winston-Salem, NC; Municipalities:  ['Davidson County, NC', 'Davie County, NC', 'Forsyth County, NC', 'Stokes County, NC', 'Yadkin County, NC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Davidson+County%2C+NC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e60c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Winston-Salem, NC skipped
+Processing MSA: Yakima, WA; Municipalities:  ['Yakima County, WA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Yakima+County%2C+WA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e62320>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Yakima, WA skipped
+Processing MSA: Youngstown-Warren-Boardman, OH-PA; Municipalities:  ['Mahoning County, OH', 'Trumbull County, OH', 'Mercer County, PA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Mahoning+County%2C+OH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e63c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Youngstown-Warren-Boardman, OH-PA skipped
+Processing MSA: Yuma, AZ; Municipalities:  ['Yuma County, AZ']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Yuma+County%2C+AZ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3db7e63d60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Yuma, AZ skipped
+Processing MSA: Albany, GA; Municipalities:  ['Dougherty County, GA', 'Lee County, GA', 'Terrell County, GA', 'Worth County, GA']
+calculating Albany, GA stats
+saving Albany, GA
+Processing MSA: Albany-Schenectady-Troy, NY; Municipalities:  ['Albany County, NY', 'Rensselaer County, NY', 'Saratoga County, NY', 'Schenectady County, NY', 'Schoharie County, NY']
+calculating Albany-Schenectady-Troy, NY stats
+saving Albany-Schenectady-Troy, NY
+Processing MSA: Anniston-Oxford, AL; Municipalities:  ['Calhoun County, AL']
+calculating Anniston-Oxford, AL stats
+saving Anniston-Oxford, AL
+Processing MSA: Asheville, NC; Municipalities:  ['Buncombe County, NC', 'Haywood County, NC', 'Henderson County, NC', 'Madison County, NC']
+calculating Asheville, NC stats
+saving Asheville, NC
+Processing MSA: Auburn-Opelika, AL; Municipalities:  ['Lee County, AL']
+calculating Auburn-Opelika, AL stats
+saving Auburn-Opelika, AL
+Processing MSA: Baltimore-Columbia-Towson, MD; Municipalities:  ['Anne Arundel County, MD', 'Baltimore County, MD', 'Carroll County, MD', 'Harford County, MD', 'Howard County, MD', "Queen Anne's County, MD", 'Baltimore, MD']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Baltimore+County%2C+MD (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5db97df820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Baltimore-Columbia-Towson, MD skipped
+Processing MSA: Bangor, ME; Municipalities:  ['Penobscot County, ME']
+calculating Bangor, ME stats
+saving Bangor, ME
+Processing MSA: Beckley, WV; Municipalities:  ['Fayette County, WV', 'Raleigh County, WV']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Fayette+County%2C+WV (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5d5038aef0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Beckley, WV skipped
+Processing MSA: Bellingham, WA; Municipalities:  ['Whatcom County, WA']
+calculating Bellingham, WA stats
+saving Bellingham, WA
+Processing MSA: Binghamton, NY; Municipalities:  ['Broome County, NY', 'Tioga County, NY']
+calculating Binghamton, NY stats
+saving Binghamton, NY
+Processing MSA: Blacksburg-Christiansburg, VA; Municipalities:  ['Giles County, VA', 'Pulaski County, VA', 'Montgomery County, VA', 'Radford, VA']
+calculating Blacksburg-Christiansburg, VA stats
+saving Blacksburg-Christiansburg, VA
+Processing MSA: Bloomington, IL; Municipalities:  ['McLean County, IL']
+calculating Bloomington, IL stats
+saving Bloomington, IL
+Processing MSA: Boise City, ID; Municipalities:  ['Ada County, ID', 'Boise County, ID', 'Canyon County, ID', 'Gem County, ID', 'Owyhee County, ID']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Boise+County%2C+ID (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5d50388760>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Boise City, ID skipped
+Processing MSA: Boston-Cambridge-Newton, MA-NH; Municipalities:  ['Essex County, MA', 'Middlesex County, MA', 'Norfolk County, MA', 'Plymouth County, MA', 'Suffolk County, MA', 'Rockingham County, NH', 'Strafford County, NH']
+calculating Boston-Cambridge-Newton, MA-NH stats
+saving Boston-Cambridge-Newton, MA-NH
+Network stats completed in (h/m/s/ms): 1:32:34.881111
+Processing MSA: Albany-Lebanon, OR; Municipalities:  ['Linn County, OR']
+calculating Albany-Lebanon, OR stats
+saving Albany-Lebanon, OR
+Processing MSA: Altoona, PA; Municipalities:  ['Blair County, PA']
+calculating Altoona, PA stats
+saving Altoona, PA
+Processing MSA: Amarillo, TX; Municipalities:  ['Armstrong County, TX', 'Carson County, TX', 'Oldham County, TX', 'Potter County, TX', 'Randall County, TX']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Armstrong+County%2C+TX (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91e78cdc60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Amarillo, TX skipped
+Processing MSA: Ames, IA; Municipalities:  ['Boone County, IA', 'Story County, IA']
+calculating Ames, IA stats
+saving Ames, IA
+Processing MSA: Anchorage, AK; Municipalities:  ['Anchorage Municipality County, AK', 'Matanuska-Susitna Borough County, AK']
+Nominatim could not geocode query "Anchorage Municipality County, AK" to polygonal boundaries
+Anchorage, AK skipped
+Processing MSA: Ann Arbor, MI; Municipalities:  ['Washtenaw County, MI']
+calculating Ann Arbor, MI stats
+saving Ann Arbor, MI
+Processing MSA: Athens-Clarke County, GA; Municipalities:  ['Clarke County, GA', 'Madison County, GA', 'Oconee County, GA', 'Oglethorpe County, GA']
+calculating Athens-Clarke County, GA stats
+saving Athens-Clarke County, GA
+Processing MSA: Augusta-Richmond County, GA-SC; Municipalities:  ['Burke County, GA', 'Columbia County, GA', 'Lincoln County, GA', 'McDuffie County, GA', 'Richmond County, GA', 'Aiken County, SC', 'Edgefield County, SC']
+calculating Augusta-Richmond County, GA-SC stats
+saving Augusta-Richmond County, GA-SC
+Processing MSA: Baton Rouge, LA; Municipalities:  ['Ascension County, LA', 'Assumption County, LA', 'East Baton Rouge County, LA', 'East Feliciana County, LA', 'Iberville County, LA', 'Livingston County, LA', 'Pointe Coupee County, LA', 'St. Helena County, LA', 'West Baton Rouge County, LA', 'West Feliciana County, LA']
+Nominatim could not geocode query "Assumption County, LA" to polygonal boundaries
+Baton Rouge, LA skipped
+Processing MSA: Battle Creek, MI; Municipalities:  ['Calhoun County, MI']
+calculating Battle Creek, MI stats
+saving Battle Creek, MI
+Processing MSA: Bay City, MI; Municipalities:  ['Bay County, MI']
+calculating Bay City, MI stats
+saving Bay City, MI
+Processing MSA: Beaumont-Port Arthur, TX; Municipalities:  ['Hardin County, TX', 'Jefferson County, TX', 'Orange County, TX']
+calculating Beaumont-Port Arthur, TX stats
+saving Beaumont-Port Arthur, TX
+Processing MSA: Billings, MT; Municipalities:  ['Carbon County, MT', 'Stillwater County, MT', 'Yellowstone County, MT']
+calculating Billings, MT stats
+saving Billings, MT
+Processing MSA: Bridgeport-Stamford-Norwalk, CT; Municipalities:  ['Fairfield County, CT']
+calculating Bridgeport-Stamford-Norwalk, CT stats
+saving Bridgeport-Stamford-Norwalk, CT
+Processing MSA: Cape Coral-Fort Myers, FL; Municipalities:  ['Lee County, FL']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Lee+County%2C+FL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91d00ae710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cape Coral-Fort Myers, FL skipped
+Processing MSA: Cape Girardeau, MO-IL; Municipalities:  ['Alexander County, IL', 'Bollinger County, MO', 'Cape Girardeau County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Alexander+County%2C+IL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91d00ad630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Cape Girardeau, MO-IL skipped
+Processing MSA: Carbondale-Marion, IL; Municipalities:  ['Jackson County, IL', 'Johnson County, IL', 'Williamson County, IL']
+calculating Carbondale-Marion, IL stats
+saving Carbondale-Marion, IL
+Processing MSA: Charleston-North Charleston, SC; Municipalities:  ['Berkeley County, SC', 'Charleston County, SC', 'Dorchester County, SC']
+calculating Charleston-North Charleston, SC stats
+saving Charleston-North Charleston, SC
+Processing MSA: Columbia, MO; Municipalities:  ['Boone County, MO', 'Cooper County, MO', 'Howard County, MO']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Boone+County%2C+MO (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f915848fb50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Columbia, MO skipped
+Processing MSA: Columbia, SC; Municipalities:  ['Calhoun County, SC', 'Fairfield County, SC', 'Kershaw County, SC', 'Lexington County, SC', 'Richland County, SC', 'Saluda County, SC']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Calhoun+County%2C+SC (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f915848f9a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Columbia, SC skipped
+Processing MSA: Columbus, GA-AL; Municipalities:  ['Russell County, AL', 'Chattahoochee County, GA', 'Harris County, GA', 'Marion County, GA', 'Muscogee County, GA', 'Stewart County, GA', 'Talbot County, GA']
+HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=json&polygon_geojson=1&dedupe=0&limit=50&q=Chattahoochee+County%2C+GA (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f915848f3d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Columbus, GA-AL skipped
+Processing MSA: Columbus, IN; Municipalities:  ['Bartholomew County, IN']
+calculating Columbus, IN stats
+saving Columbus, IN
+Processing MSA: Corpus Christi, TX; Municipalities:  ['Nueces County, TX', 'San Patricio County, TX']
+calculating Corpus Christi, TX stats
+saving Corpus Christi, TX
+Processing MSA: Corvallis, OR; Municipalities:  ['Benton County, OR']
+calculating Corvallis, OR stats
+saving Corvallis, OR
+Processing MSA: Crestview-Fort Walton Beach-Destin, FL; Municipalities:  ['Okaloosa County, FL', 'Walton County, FL']
+calculating Crestview-Fort Walton Beach-Destin, FL stats
+saving Crestview-Fort Walton Beach-Destin, FL
+Processing MSA: Dallas-Fort Worth-Arlington, TX; Municipalities:  ['Collin County, TX', 'Dallas County, TX', 'Denton County, TX', 'Ellis County, TX', 'Hunt County, TX', 'Johnson County, TX', 'Kaufman County, TX', 'Parker County, TX', 'Rockwall County, TX', 'Tarrant County, TX', 'Wise County, TX']
+calculating Dallas-Fort Worth-Arlington, TX stats
+saving Dallas-Fort Worth-Arlington, TX

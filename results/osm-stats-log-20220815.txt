@@ -1,0 +1,1153 @@
+Processing MSA: Akron, OH; Municipalities:  ['Portage County, OH', 'Summit County, OH']
+calculating Akron, OH stats
+saving Akron, OH
+Processing MSA: Albany-Schenectady-Troy, NY; Municipalities:  ['Albany County, NY', 'Rensselaer County, NY', 'Saratoga County, NY', 'Schenectady County, NY', 'Schoharie County, NY']
+calculating Albany-Schenectady-Troy, NY stats
+saving Albany-Schenectady-Troy, NY
+Processing MSA: Alexandria, LA; Municipalities:  ['Grant County, LA', 'Rapides County, LA']
+Nominatim geocoder returned 0 results for query "Rapides County, LA"
+Alexandria, LA skipped
+Processing MSA: Allentown-Bethlehem-Easton, PA-NJ; Municipalities:  ['Warren County, NJ', 'Carbon County, PA', 'Lehigh County, PA', 'Northampton County, PA']
+calculating Allentown-Bethlehem-Easton, PA-NJ stats
+saving Allentown-Bethlehem-Easton, PA-NJ
+Processing MSA: Ames, IA; Municipalities:  ['Boone County, IA', 'Story County, IA']
+calculating Ames, IA stats
+saving Ames, IA
+Processing MSA: Anchorage, AK; Municipalities:  ['Anchorage Municipality County, AK', 'Matanuska-Susitna Borough County, AK']
+Nominatim could not geocode query "Anchorage Municipality County, AK" to polygonal boundaries
+Anchorage, AK skipped
+Processing MSA: Ann Arbor, MI; Municipalities:  ['Washtenaw County, MI']
+calculating Ann Arbor, MI stats
+saving Ann Arbor, MI
+Processing MSA: Anniston-Oxford, AL; Municipalities:  ['Calhoun County, AL']
+calculating Anniston-Oxford, AL stats
+saving Anniston-Oxford, AL
+Processing MSA: Appleton, WI; Municipalities:  ['Calumet County, WI', 'Outagamie County, WI']
+calculating Appleton, WI stats
+saving Appleton, WI
+Processing MSA: Asheville, NC; Municipalities:  ['Buncombe County, NC', 'Haywood County, NC', 'Henderson County, NC', 'Madison County, NC']
+calculating Asheville, NC stats
+saving Asheville, NC
+Processing MSA: Atlantic City-Hammonton, NJ; Municipalities:  ['Atlantic County, NJ']
+calculating Atlantic City-Hammonton, NJ stats
+saving Atlantic City-Hammonton, NJ
+Processing MSA: Auburn-Opelika, AL; Municipalities:  ['Lee County, AL']
+calculating Auburn-Opelika, AL stats
+saving Auburn-Opelika, AL
+Processing MSA: Augusta-Richmond County, GA-SC; Municipalities:  ['Burke County, GA', 'Columbia County, GA', 'Lincoln County, GA', 'McDuffie County, GA', 'Richmond County, GA', 'Aiken County, SC', 'Edgefield County, SC']
+calculating Augusta-Richmond County, GA-SC stats
+saving Augusta-Richmond County, GA-SC
+Processing MSA: Austin-Round Rock-Georgetown, TX; Municipalities:  ['Bastrop County, TX', 'Caldwell County, TX', 'Hays County, TX', 'Travis County, TX', 'Williamson County, TX']
+calculating Austin-Round Rock-Georgetown, TX stats
+saving Austin-Round Rock-Georgetown, TX
+Processing MSA: Bakersfield, CA; Municipalities:  ['Kern County, CA']
+calculating Bakersfield, CA stats
+saving Bakersfield, CA
+Processing MSA: Baltimore-Columbia-Towson, MD; Municipalities:  ['Anne Arundel County, MD', 'Baltimore County, MD', 'Carroll County, MD', 'Harford County, MD', 'Howard County, MD', "Queen Anne's County, MD", 'Baltimore, MD']
+calculating Baltimore-Columbia-Towson, MD stats
+saving Baltimore-Columbia-Towson, MD
+Processing MSA: Bismarck, ND; Municipalities:  ['Burleigh County, ND', 'Morton County, ND', 'Oliver County, ND']
+calculating Bismarck, ND stats
+saving Bismarck, ND
+Processing MSA: Blacksburg-Christiansburg, VA; Municipalities:  ['Giles County, VA', 'Pulaski County, VA', 'Montgomery County, VA', 'Radford, VA']
+calculating Blacksburg-Christiansburg, VA stats
+saving Blacksburg-Christiansburg, VA
+Processing MSA: Bloomington, IL; Municipalities:  ['McLean County, IL']
+calculating Bloomington, IL stats
+saving Bloomington, IL
+Processing MSA: Bloomington, IN; Municipalities:  ['Monroe County, IN', 'Owen County, IN']
+calculating Bloomington, IN stats
+saving Bloomington, IN
+Processing MSA: Bloomsburg-Berwick, PA; Municipalities:  ['Columbia County, PA', 'Montour County, PA']
+calculating Bloomsburg-Berwick, PA stats
+saving Bloomsburg-Berwick, PA
+Processing MSA: Boise City, ID; Municipalities:  ['Ada County, ID', 'Boise County, ID', 'Canyon County, ID', 'Gem County, ID', 'Owyhee County, ID']
+calculating Boise City, ID stats
+saving Boise City, ID
+Processing MSA: Boulder, CO; Municipalities:  ['Boulder County, CO']
+calculating Boulder, CO stats
+saving Boulder, CO
+Processing MSA: Bowling Green, KY; Municipalities:  ['Allen County, KY', 'Butler County, KY', 'Edmonson County, KY', 'Warren County, KY']
+calculating Bowling Green, KY stats
+saving Bowling Green, KY
+Processing MSA: Bremerton-Silverdale-Port Orchard, WA; Municipalities:  ['Kitsap County, WA']
+calculating Bremerton-Silverdale-Port Orchard, WA stats
+saving Bremerton-Silverdale-Port Orchard, WA
+Processing MSA: Bridgeport-Stamford-Norwalk, CT; Municipalities:  ['Fairfield County, CT']
+calculating Bridgeport-Stamford-Norwalk, CT stats
+saving Bridgeport-Stamford-Norwalk, CT
+Processing MSA: Brownsville-Harlingen, TX; Municipalities:  ['Cameron County, TX']
+calculating Brownsville-Harlingen, TX stats
+saving Brownsville-Harlingen, TX
+Processing MSA: Brunswick, GA; Municipalities:  ['Brantley County, GA', 'Glynn County, GA', 'McIntosh County, GA']
+calculating Brunswick, GA stats
+saving Brunswick, GA
+Processing MSA: Buffalo-Cheektowaga, NY; Municipalities:  ['Erie County, NY', 'Niagara County, NY']
+calculating Buffalo-Cheektowaga, NY stats
+saving Buffalo-Cheektowaga, NY
+Processing MSA: Cape Girardeau, MO-IL; Municipalities:  ['Alexander County, IL', 'Bollinger County, MO', 'Cape Girardeau County, MO']
+calculating Cape Girardeau, MO-IL stats
+saving Cape Girardeau, MO-IL
+Processing MSA: Carbondale-Marion, IL; Municipalities:  ['Jackson County, IL', 'Johnson County, IL', 'Williamson County, IL']
+calculating Carbondale-Marion, IL stats
+saving Carbondale-Marion, IL
+Processing MSA: Carson City, NV; Municipalities:  ['Carson City, NV']
+calculating Carson City, NV stats
+saving Carson City, NV
+Processing MSA: Cedar Rapids, IA; Municipalities:  ['Benton County, IA', 'Jones County, IA', 'Linn County, IA']
+calculating Cedar Rapids, IA stats
+saving Cedar Rapids, IA
+Processing MSA: Charleston, WV; Municipalities:  ['Boone County, WV', 'Clay County, WV', 'Jackson County, WV', 'Kanawha County, WV', 'Lincoln County, WV']
+calculating Charleston, WV stats
+saving Charleston, WV
+Processing MSA: Charlotte-Concord-Gastonia, NC-SC; Municipalities:  ['Anson County, NC', 'Cabarrus County, NC', 'Gaston County, NC', 'Iredell County, NC', 'Lincoln County, NC', 'Mecklenburg County, NC', 'Rowan County, NC', 'Union County, NC', 'Chester County, SC', 'Lancaster County, SC', 'York County, SC']
+calculating Charlotte-Concord-Gastonia, NC-SC stats
+saving Charlotte-Concord-Gastonia, NC-SC
+Processing MSA: Chico, CA; Municipalities:  ['Butte County, CA']
+calculating Chico, CA stats
+saving Chico, CA
+Processing MSA: Cincinnati, OH-KY-IN; Municipalities:  ['Dearborn County, IN', 'Franklin County, IN', 'Ohio County, IN', 'Union County, IN', 'Boone County, KY', 'Bracken County, KY', 'Campbell County, KY', 'Gallatin County, KY', 'Grant County, KY', 'Kenton County, KY', 'Pendleton County, KY', 'Brown County, OH', 'Butler County, OH', 'Clermont County, OH', 'Hamilton County, OH', 'Warren County, OH']
+calculating Cincinnati, OH-KY-IN stats
+saving Cincinnati, OH-KY-IN
+Processing MSA: Clarksville, TN-KY; Municipalities:  ['Christian County, KY', 'Trigg County, KY', 'Montgomery County, TN', 'Stewart County, TN']
+calculating Clarksville, TN-KY stats
+saving Clarksville, TN-KY
+Processing MSA: Cleveland, TN; Municipalities:  ['Bradley County, TN', 'Polk County, TN']
+calculating Cleveland, TN stats
+saving Cleveland, TN
+Processing MSA: Cleveland-Elyria, OH; Municipalities:  ['Cuyahoga County, OH', 'Geauga County, OH', 'Lake County, OH', 'Lorain County, OH', 'Medina County, OH']
+calculating Cleveland-Elyria, OH stats
+saving Cleveland-Elyria, OH
+Processing MSA: Coeur d'Alene, ID; Municipalities:  ['Kootenai County, ID']
+calculating Coeur d'Alene, ID stats
+saving Coeur d'Alene, ID
+Processing MSA: Colorado Springs, CO; Municipalities:  ['El Paso County, CO', 'Teller County, CO']
+calculating Colorado Springs, CO stats
+saving Colorado Springs, CO
+Processing MSA: Columbia, MO; Municipalities:  Processing MSA: Abilene, TX; Municipalities:  ['Callahan County, TX', 'Jones County, TX', 'Taylor County, TX']
+calculating Abilene, TX stats
+saving Abilene, TX
+Processing MSA: Albany, GA; Municipalities:  ['Dougherty County, GA', 'Lee County, GA', 'Terrell County, GA', 'Worth County, GA']
+calculating Albany, GA stats
+saving Albany, GA
+Processing MSA: Albany-Lebanon, OR; Municipalities:  ['Linn County, OR']
+calculating Albany-Lebanon, OR stats
+saving Albany-Lebanon, OR
+Processing MSA: Albuquerque, NM; Municipalities:  ['Bernalillo County, NM', 'Sandoval County, NM', 'Torrance County, NM', 'Valencia County, NM']
+calculating Albuquerque, NM stats
+saving Albuquerque, NM
+Processing MSA: Altoona, PA; Municipalities:  ['Blair County, PA']
+calculating Altoona, PA stats
+saving Altoona, PA
+Processing MSA: Amarillo, TX; Municipalities:  ['Armstrong County, TX', 'Carson County, TX', 'Oldham County, TX', 'Potter County, TX', 'Randall County, TX']
+calculating Amarillo, TX stats
+saving Amarillo, TX
+Processing MSA: Athens-Clarke County, GA; Municipalities:  ['Clarke County, GA', 'Madison County, GA', 'Oconee County, GA', 'Oglethorpe County, GA']
+calculating Athens-Clarke County, GA stats
+saving Athens-Clarke County, GA
+Processing MSA: Atlanta-Sandy Springs-Alpharetta, GA; Municipalities:  ['Barrow County, GA', 'Bartow County, GA', 'Butts County, GA', 'Carroll County, GA', 'Cherokee County, GA', 'Clayton County, GA', 'Cobb County, GA', 'Coweta County, GA', 'Dawson County, GA', 'DeKalb County, GA', 'Douglas County, GA', 'Fayette County, GA', 'Forsyth County, GA', 'Fulton County, GA', 'Gwinnett County, GA', 'Haralson County, GA', 'Heard County, GA', 'Henry County, GA', 'Jasper County, GA', 'Lamar County, GA', 'Meriwether County, GA', 'Morgan County, GA', 'Newton County, GA', 'Paulding County, GA', 'Pickens County, GA', 'Pike County, GA', 'Rockdale County, GA', 'Spalding County, GA', 'Walton County, GA']
+calculating Atlanta-Sandy Springs-Alpharetta, GA stats
+saving Atlanta-Sandy Springs-Alpharetta, GA
+Processing MSA: Bangor, ME; Municipalities:  ['Penobscot County, ME']
+calculating Bangor, ME stats
+saving Bangor, ME
+Processing MSA: Barnstable Town, MA; Municipalities:  ['Barnstable County, MA']
+calculating Barnstable Town, MA stats
+saving Barnstable Town, MA
+Processing MSA: Baton Rouge, LA; Municipalities:  ['Ascension County, LA', 'Assumption County, LA', 'East Baton Rouge County, LA', 'East Feliciana County, LA', 'Iberville County, LA', 'Livingston County, LA', 'Pointe Coupee County, LA', 'St. Helena County, LA', 'West Baton Rouge County, LA', 'West Feliciana County, LA']
+Nominatim could not geocode query "Assumption County, LA" to polygonal boundaries
+Baton Rouge, LA skipped
+Processing MSA: Battle Creek, MI; Municipalities:  ['Calhoun County, MI']
+calculating Battle Creek, MI stats
+saving Battle Creek, MI
+Processing MSA: Bay City, MI; Municipalities:  ['Bay County, MI']
+calculating Bay City, MI stats
+saving Bay City, MI
+Processing MSA: Beaumont-Port Arthur, TX; Municipalities:  ['Hardin County, TX', 'Jefferson County, TX', 'Orange County, TX']
+calculating Beaumont-Port Arthur, TX stats
+saving Beaumont-Port Arthur, TX
+Processing MSA: Beckley, WV; Municipalities:  ['Fayette County, WV', 'Raleigh County, WV']
+calculating Beckley, WV stats
+saving Beckley, WV
+Processing MSA: Bellingham, WA; Municipalities:  ['Whatcom County, WA']
+calculating Bellingham, WA stats
+saving Bellingham, WA
+Processing MSA: Bend, OR; Municipalities:  ['Deschutes County, OR']
+calculating Bend, OR stats
+saving Bend, OR
+Processing MSA: Billings, MT; Municipalities:  ['Carbon County, MT', 'Stillwater County, MT', 'Yellowstone County, MT']
+calculating Billings, MT stats
+saving Billings, MT
+Processing MSA: Binghamton, NY; Municipalities:  ['Broome County, NY', 'Tioga County, NY']
+calculating Binghamton, NY stats
+saving Binghamton, NY
+Processing MSA: Birmingham-Hoover, AL; Municipalities:  ['Bibb County, AL', 'Blount County, AL', 'Chilton County, AL', 'Jefferson County, AL', 'St. Clair County, AL', 'Shelby County, AL']
+calculating Birmingham-Hoover, AL stats
+saving Birmingham-Hoover, AL
+Processing MSA: Boston-Cambridge-Newton, MA-NH; Municipalities:  ['Essex County, MA', 'Middlesex County, MA', 'Norfolk County, MA', 'Plymouth County, MA', 'Suffolk County, MA', 'Rockingham County, NH', 'Strafford County, NH']
+calculating Boston-Cambridge-Newton, MA-NH stats
+saving Boston-Cambridge-Newton, MA-NH
+Processing MSA: Burlington, NC; Municipalities:  ['Alamance County, NC']
+calculating Burlington, NC stats
+saving Burlington, NC
+Processing MSA: Burlington-South Burlington, VT; Municipalities:  ['Chittenden County, VT', 'Franklin County, VT', 'Grand Isle County, VT']
+calculating Burlington-South Burlington, VT stats
+saving Burlington-South Burlington, VT
+Processing MSA: California-Lexington Park, MD; Municipalities:  ["St. Mary's County, MD"]
+calculating California-Lexington Park, MD stats
+saving California-Lexington Park, MD
+Processing MSA: Canton-Massillon, OH; Municipalities:  ['Carroll County, OH', 'Stark County, OH']
+calculating Canton-Massillon, OH stats
+saving Canton-Massillon, OH
+Processing MSA: Cape Coral-Fort Myers, FL; Municipalities:  ['Lee County, FL']
+calculating Cape Coral-Fort Myers, FL stats
+saving Cape Coral-Fort Myers, FL
+Processing MSA: Casper, WY; Municipalities:  ['Natrona County, WY']
+calculating Casper, WY stats
+saving Casper, WY
+Processing MSA: Chambersburg-Waynesboro, PA; Municipalities:  ['Franklin County, PA']
+calculating Chambersburg-Waynesboro, PA stats
+saving Chambersburg-Waynesboro, PA
+Processing MSA: Champaign-Urbana, IL; Municipalities:  ['Champaign County, IL', 'Piatt County, IL']
+calculating Champaign-Urbana, IL stats
+saving Champaign-Urbana, IL
+Processing MSA: Charleston-North Charleston, SC; Municipalities:  ['Berkeley County, SC', 'Charleston County, SC', 'Dorchester County, SC']
+calculating Charleston-North Charleston, SC stats
+saving Charleston-North Charleston, SC
+Processing MSA: Charlottesville, VA; Municipalities:  ['Fluvanna County, VA', 'Greene County, VA', 'Nelson County, VA', 'Albemarle County, VA', 'Charlottesville, VA']
+calculating Charlottesville, VA stats
+saving Charlottesville, VA
+Processing MSA: Chattanooga, TN-GA; Municipalities:  ['Catoosa County, GA', 'Dade County, GA', 'Walker County, GA', 'Hamilton County, TN', 'Marion County, TN', 'Sequatchie County, TN']
+calculating Chattanooga, TN-GA stats
+saving Chattanooga, TN-GA
+Processing MSA: Cheyenne, WY; Municipalities:  ['Laramie County, WY']
+calculating Cheyenne, WY stats
+saving Cheyenne, WY
+Processing MSA: Chicago-Naperville-Elgin, IL-IN-WI; Municipalities:  ['Cook County, IL', 'DeKalb County, IL', 'DuPage County, IL', 'Grundy County, IL', 'Kane County, IL', 'Kendall County, IL', 'Lake County, IL', 'McHenry County, IL', 'Will County, IL', 'Jasper County, IN', 'Lake County, IN', 'Newton County, IN', 'Porter County, IN', 'Kenosha County, WI']
+calculating Chicago-Naperville-Elgin, IL-IN-WI stats
+saving Chicago-Naperville-Elgin, IL-IN-WI
+Processing MSA: College Station-Bryan, TX; Municipalities:  ['Brazos County, TX', 'Burleson County, TX', 'Robertson County, TX']
+calculating College Station-Bryan, TX stats
+saving College Station-Bryan, TX
+Processing MSA: Columbia, SC; Municipalities:  ['Calhoun County, SC', 'Fairfield County, SC', 'Kershaw County, SC', 'Lexington County, SC', 'Richland County, SC', 'Saluda County, SC']
+calculating Columbia, SC stats
+saving Columbia, SC
+Processing MSA: Corpus Christi, TX; Municipalities:  ['Nueces County, TX', 'San Patricio County, TX']
+calculating Corpus Christi, TX stats
+saving Corpus Christi, TX
+Processing MSA: Corvallis, OR; Municipalities:  ['Benton County, OR']
+calculating Corvallis, OR stats
+saving Corvallis, OR
+Processing MSA: Crestview-Fort Walton Beach-Destin, FL; Municipalities:  ['Okaloosa County, FL', 'Walton County, FL']
+calculating Crestview-Fort Walton Beach-Destin, FL stats
+saving Crestview-Fort Walton Beach-Destin, FL
+Processing MSA: Cumberland, MD-WV; Municipalities:  ['Allegany County, MD', 'Mineral County, WV']
+calculating Cumberland, MD-WV stats
+saving Cumberland, MD-WV
+Processing MSA: Dallas-Fort Worth-Arlington, TX; Municipalities:  ['Collin County, TX', 'Dallas County, TX', 'Denton County, TX', 'Ellis County, TX', 'Hunt County, TX', 'Johnson County, TX', 'Kaufman County, TX', 'Parker County, TX', 'Rockwall County, TX', 'Tarrant County, TX', 'Wise County, TX']
+calculating Dallas-Fort Worth-Arlington, TX stats
+saving Dallas-Fort Worth-Arlington, TX
+Processing MSA: Des Moines-West Des Moines, IA; Municipalities:  ['Dallas County, IA', 'Guthrie County, IA', 'Jasper County, IA', 'Madison County, IA', 'Polk County, IA', 'Warren County, IA']
+calculating Des Moines-West Des Moines, IA stats
+saving Des Moines-West Des Moines, IA
+Processing MSA: Detroit-Warren-Dearborn, MI; Municipalities:  ['Lapeer County, MI', 'Livingston County, MI', 'Macomb County, MI', 'Oakland County, MI', 'St. Clair County, MI', 'Wayne County, MI']
+calculating Detroit-Warren-Dearborn, MI stats
+saving Detroit-Warren-Dearborn, MI
+Processing MSA: Dothan, AL; Municipalities:  ['Geneva County, AL', 'Henry County, AL', 'Houston County, AL']
+calculating Dothan, AL stats
+saving Dothan, AL
+Processing MSA: Dover, DE; Municipalities:  ['Kent County, DE']
+calculating Dover, DE stats
+saving Dover, DE
+Processing MSA: Dubuque, IA; Municipalities:  ['Dubuque County, IA']
+calculating Dubuque, IA stats
+saving Dubuque, IA
+Processing MSA: Duluth, MN-WI; Municipalities:  ['Carlton County, MN', 'Lake County, MN', 'St. Louis County, MN', 'Douglas County, WI']
+calculating Duluth, MN-WI stats
+saving Duluth, MN-WI
+Processing MSA: Durham-Chapel Hill, NC; Municipalities:  ['Chatham County, NC', 'Durham County, NC', 'Granville County, NC', 'Orange County, NC', 'Person County, NC']
+calculating Durham-Chapel Hill, NC stats
+saving Durham-Chapel Hill, NC
+Processing MSA: East Stroudsburg, PA; Municipalities:  ['Monroe County, PA']
+calculating East Stroudsburg, PA stats
+saving East Stroudsburg, PA
+Processing MSA: Eau Claire, WI; Municipalities:  ['Chippewa County, WI', 'Eau Claire County, WI']
+calculating Eau Claire, WI stats
+saving Eau Claire, WI
+Processing MSA: El Centro, CA; Municipalities:  ['Imperial County, CA']
+calculating El Centro, CA stats
+saving El Centro, CA
+Processing MSA: Elizabethtown-Fort Knox, KY; Municipalities:  ['Hardin County, KY', 'Larue County, KY', 'Meade County, KY']
+calculating Elizabethtown-Fort Knox, KY stats
+saving Elizabethtown-Fort Knox, KY
+Processing MSA: Elkhart-Goshen, IN; Municipalities:  ['Elkhart County, IN']
+calculating Elkhart-Goshen, IN stats
+saving Elkhart-Goshen, IN
+Processing MSA: Elmira, NY; Municipalities:  ['Chemung County, NY']
+calculating Elmira, NY stats
+saving Elmira, NY
+Processing MSA: El Paso, TX; Municipalities:  ['El Paso County, TX', 'Hudspeth County, TX']
+calculating El Paso, TX stats
+saving El Paso, TX
+Processing MSA: Enid, OK; Municipalities:  ['Garfield County, OK']
+calculating Enid, OK stats
+saving Enid, OK
+Processing MSA: Erie, PA; Municipalities:  ['Erie County, PA']
+calculating Erie, PA stats
+saving Erie, PA
+Processing MSA: Eugene-Springfield, OR; Municipalities:  ['Lane County, OR']
+calculating Eugene-Springfield, OR stats
+saving Eugene-Springfield, OR
+Processing MSA: Evansville, IN-KY; Municipalities:  ['Posey County, IN', 'Vanderburgh County, IN', 'Warrick County, IN', 'Henderson County, KY']
+calculating Evansville, IN-KY stats
+saving Evansville, IN-KY
+Processing MSA: Fairbanks, AK; Municipalities:  ['Fairbanks North Star Borough County, AK']
+Nominatim geocoder returned 0 results for query "Fairbanks North Star Borough County, AK"
+Fairbanks, AK skipped
+Processing MSA: Fargo, ND-MN; Municipalities:  ['Clay County, MN', 'Cass County, ND']
+calculating Fargo, ND-MN stats
+saving Fargo, ND-MN
+Processing MSA: Farmington, NM; Municipalities:  ['San Juan County, NM']
+calculating Farmington, NM stats
+saving Farmington, NM
+Processing MSA: Fayetteville, NC; Municipalities:  ['Cumberland County, NC', 'Harnett County, NC', 'Hoke County, NC']
+calculating Fayetteville, NC stats
+saving Fayetteville, NC
+Processing MSA: Fayetteville-Springdale-Rogers, AR; Municipalities:  ['Benton County, AR', 'Madison County, AR', 'Washington County, AR']
+calculating Fayetteville-Springdale-Rogers, AR stats
+saving Fayetteville-Springdale-Rogers, AR
+Processing MSA: Flagstaff, AZ; Municipalities:  ['Coconino County, AZ']
+calculating Flagstaff, AZ stats
+saving Flagstaff, AZ
+Processing MSA: Flint, MI; Municipalities:  ['Genesee County, MI']
+calculating Flint, MI stats
+saving Flint, MI
+Processing MSA: Florence, SC; Municipalities:  ['Darlington County, SC', 'Florence County, SC']
+calculating Florence, SC stats
+saving Florence, SC
+Processing MSA: Florence-Muscle Shoals, AL; Municipalities:  ['Colbert County, AL', 'Lauderdale County, AL']
+calculating Florence-Muscle Shoals, AL stats
+saving Florence-Muscle Shoals, AL
+Processing MSA: Fond du Lac, WI; Municipalities:  ['Fond du Lac County, WI']
+calculating Fond du Lac, WI stats
+saving Fond du Lac, WI
+Processing MSA: Fort Collins, CO; Municipalities:  ['Larimer County, CO']
+calculating Fort Collins, CO stats
+saving Fort Collins, CO
+Processing MSA: Fort Smith, AR-OK; Municipalities:  ['Crawford County, AR', 'Franklin County, AR', 'Sebastian County, AR', 'Sequoyah County, OK']
+calculating Fort Smith, AR-OK stats
+saving Fort Smith, AR-OK
+Processing MSA: Fort Wayne, IN; Municipalities:  ['Allen County, IN', 'Whitley County, IN']
+calculating Fort Wayne, IN stats
+saving Fort Wayne, IN
+Processing MSA: Fresno, CA; Municipalities:  ['Fresno County, CA']
+calculating Fresno, CA stats
+saving Fresno, CA
+Processing MSA: Gadsden, AL; Municipalities:  ['Etowah County, AL']
+calculating Gadsden, AL stats
+saving Gadsden, AL
+Processing MSA: Gainesville, FL; Municipalities:  ['Alachua County, FL', 'Gilchrist County, FL', 'Levy County, FL']
+calculating Gainesville, FL stats
+saving Gainesville, FL
+Processing MSA: Gainesville, GA; Municipalities:  ['Hall County, GA']
+calculating Gainesville, GA stats
+saving Gainesville, GA
+Processing MSA: Gettysburg, PA; Municipalities:  ['Adams County, PA']
+calculating Gettysburg, PA stats
+saving Gettysburg, PA
+Processing MSA: Glens Falls, NY; Municipalities:  ['Warren County, NY', 'Washington County, NY']
+calculating Glens Falls, NY stats
+saving Glens Falls, NY
+Processing MSA: Goldsboro, NC; Municipalities:  ['Wayne County, NC']
+calculating Goldsboro, NC stats
+saving Goldsboro, NC
+Processing MSA: Grand Forks, ND-MN; Municipalities:  ['Polk County, MN', 'Grand Forks County, ND']
+calculating Grand Forks, ND-MN stats
+saving Grand Forks, ND-MN
+Processing MSA: Grand Island, NE; Municipalities:  ['Hall County, NE', 'Howard County, NE', 'Merrick County, NE']
+calculating Grand Island, NE stats
+saving Grand Island, NE
+Processing MSA: Grand Junction, CO; Municipalities:  ['Mesa County, CO']
+calculating Grand Junction, CO stats
+saving Grand Junction, CO
+Processing MSA: Grand Rapids-Kentwood, MI; Municipalities:  ['Ionia County, MI', 'Kent County, MI', 'Montcalm County, MI', 'Ottawa County, MI']
+calculating Grand Rapids-Kentwood, MI stats
+saving Grand Rapids-Kentwood, MI
+Processing MSA: Grants Pass, OR; Municipalities:  ['Josephine County, OR']
+calculating Grants Pass, OR stats
+saving Grants Pass, OR
+Processing MSA: Great Falls, MT; Municipalities:  ['Cascade County, MT']
+calculating Great Falls, MT stats
+saving Great Falls, MT
+Processing MSA: Greeley, CO; Municipalities:  ['Weld County, CO']
+calculating Greeley, CO stats
+saving Greeley, CO
+Processing MSA: Green Bay, WI; Municipalities:  ['Brown County, WI', 'Kewaunee County, WI', 'Oconto County, WI']
+calculating Green Bay, WI stats
+saving Green Bay, WI
+Processing MSA: Greensboro-High Point, NC; Municipalities:  ['Guilford County, NC', 'Randolph County, NC', 'Rockingham County, NC']
+calculating Greensboro-High Point, NC stats
+saving Greensboro-High Point, NC
+Processing MSA: Greenville, NC; Municipalities:  ['Pitt County, NC']
+calculating Greenville, NC stats
+saving Greenville, NC
+Processing MSA: Greenville-Anderson, SC; Municipalities:  ['Anderson County, SC', 'Greenville County, SC', 'Laurens County, SC', 'Pickens County, SC']
+calculating Greenville-Anderson, SC stats
+saving Greenville-Anderson, SC
+Processing MSA: Gulfport-Biloxi, MS; Municipalities:  ['Boone County, MO', 'Cooper County, MO', 'Howard County, MO']
+calculating Columbia, MO stats
+saving Columbia, MO
+Processing MSA: Columbus, GA-AL; Municipalities:  ['Russell County, AL', 'Chattahoochee County, GA', 'Harris County, GA', 'Marion County, GA', 'Muscogee County, GA', 'Stewart County, GA', 'Talbot County, GA']
+calculating Columbus, GA-AL stats
+saving Columbus, GA-AL
+Processing MSA: Columbus, IN; Municipalities:  ['Bartholomew County, IN']
+calculating Columbus, IN stats
+saving Columbus, IN
+Processing MSA: Columbus, OH; Municipalities:  ['Delaware County, OH', 'Fairfield County, OH', 'Franklin County, OH', 'Hocking County, OH', 'Licking County, OH', 'Madison County, OH', 'Morrow County, OH', 'Perry County, OH', 'Pickaway County, OH', 'Union County, OH']
+calculating Columbus, OH stats
+saving Columbus, OH
+Processing MSA: Dalton, GA; Municipalities:  ['Murray County, GA', 'Whitfield County, GA']
+calculating Dalton, GA stats
+saving Dalton, GA
+Processing MSA: Danville, IL; Municipalities:  ['Vermilion County, IL']
+calculating Danville, IL stats
+saving Danville, IL
+Processing MSA: Daphne-Fairhope-Foley, AL; Municipalities:  ['Baldwin County, AL']
+calculating Daphne-Fairhope-Foley, AL stats
+saving Daphne-Fairhope-Foley, AL
+Processing MSA: Davenport-Moline-Rock Island, IA-IL; Municipalities:  ['Henry County, IL', 'Mercer County, IL', 'Rock Island County, IL', 'Scott County, IA']
+calculating Davenport-Moline-Rock Island, IA-IL stats
+saving Davenport-Moline-Rock Island, IA-IL
+Processing MSA: Dayton-Kettering, OH; Municipalities:  ['Greene County, OH', 'Miami County, OH', 'Montgomery County, OH']
+calculating Dayton-Kettering, OH stats
+saving Dayton-Kettering, OH
+Processing MSA: Decatur, AL; Municipalities:  ['Lawrence County, AL', 'Morgan County, AL']
+calculating Decatur, AL stats
+saving Decatur, AL
+Processing MSA: Decatur, IL; Municipalities:  ['Macon County, IL']
+calculating Decatur, IL stats
+saving Decatur, IL
+Processing MSA: Deltona-Daytona Beach-Ormond Beach, FL; Municipalities:  ['Flagler County, FL', 'Volusia County, FL']
+calculating Deltona-Daytona Beach-Ormond Beach, FL stats
+saving Deltona-Daytona Beach-Ormond Beach, FL
+Processing MSA: Denver-Aurora-Lakewood, CO; Municipalities:  ['Adams County, CO', 'Arapahoe County, CO', 'Broomfield County, CO', 'Clear Creek County, CO', 'Denver County, CO', 'Douglas County, CO', 'Elbert County, CO', 'Gilpin County, CO', 'Jefferson County, CO', 'Park County, CO']
+calculating Denver-Aurora-Lakewood, CO stats
+saving Denver-Aurora-Lakewood, CO
+Processing MSA: Hattiesburg, MS; Municipalities:  ['Covington County, MS', 'Forrest County, MS', 'Lamar County, MS', 'Perry County, MS']
+calculating Hattiesburg, MS stats
+saving Hattiesburg, MS
+Processing MSA: Hickory-Lenoir-Morganton, NC; Municipalities:  ['Alexander County, NC', 'Burke County, NC', 'Caldwell County, NC', 'Catawba County, NC']
+calculating Hickory-Lenoir-Morganton, NC stats
+saving Hickory-Lenoir-Morganton, NC
+Processing MSA: Hot Springs, AR; Municipalities:  ['Garland County, AR']
+calculating Hot Springs, AR stats
+saving Hot Springs, AR
+Processing MSA: Huntington-Ashland, WV-KY-OH; Municipalities:  ['Boyd County, KY', 'Carter County, KY', 'Greenup County, KY', 'Lawrence County, OH', 'Cabell County, WV', 'Putnam County, WV', 'Wayne County, WV']
+calculating Huntington-Ashland, WV-KY-OH stats
+saving Huntington-Ashland, WV-KY-OH
+Processing MSA: Huntsville, AL; Municipalities:  ['Limestone County, AL', 'Madison County, AL']
+calculating Huntsville, AL stats
+saving Huntsville, AL
+Processing MSA: Idaho Falls, ID; Municipalities:  ['Bonneville County, ID', 'Butte County, ID', 'Jefferson County, ID']
+calculating Idaho Falls, ID stats
+saving Idaho Falls, ID
+Processing MSA: Indianapolis-Carmel-Anderson, IN; Municipalities:  ['Boone County, IN', 'Brown County, IN', 'Hamilton County, IN', 'Hancock County, IN', 'Hendricks County, IN', 'Johnson County, IN', 'Madison County, IN', 'Marion County, IN', 'Morgan County, IN', 'Putnam County, IN', 'Shelby County, IN']
+calculating Indianapolis-Carmel-Anderson, IN stats
+saving Indianapolis-Carmel-Anderson, IN
+Processing MSA: Iowa City, IA; Municipalities:  ['Johnson County, IA', 'Washington County, IA']
+calculating Iowa City, IA stats
+saving Iowa City, IA
+Processing MSA: Ithaca, NY; Municipalities:  ['Tompkins County, NY']
+calculating Ithaca, NY stats
+saving Ithaca, NY
+Processing MSA: Jackson, MI; Municipalities:  ['Jackson County, MI']
+calculating Jackson, MI stats
+saving Jackson, MI
+Processing MSA: Jackson, MS; Municipalities:  ['Copiah County, MS', 'Hinds County, MS', 'Holmes County, MS', 'Madison County, MS', 'Rankin County, MS', 'Simpson County, MS', 'Yazoo County, MS']
+calculating Jackson, MS stats
+saving Jackson, MS
+Processing MSA: Jacksonville, NC; Municipalities:  ['Onslow County, NC']
+calculating Jacksonville, NC stats
+saving Jacksonville, NC
+Processing MSA: Janesville-Beloit, WI; Municipalities:  ['Rock County, WI']
+calculating Janesville-Beloit, WI stats
+saving Janesville-Beloit, WI
+Processing MSA: Jefferson City, MO; Municipalities:  ['Callaway County, MO', 'Cole County, MO', 'Moniteau County, MO', 'Osage County, MO']
+calculating Jefferson City, MO stats
+saving Jefferson City, MO
+Processing MSA: Johnson City, TN; Municipalities:  ['Carter County, TN', 'Unicoi County, TN', 'Washington County, TN']
+calculating Johnson City, TN stats
+saving Johnson City, TN
+Processing MSA: Jonesboro, AR; Municipalities:  ['Craighead County, AR', 'Poinsett County, AR']
+calculating Jonesboro, AR stats
+saving Jonesboro, AR
+Processing MSA: Kahului-Wailuku-Lahaina, HI; Municipalities:  ['Maui County, HI', 'Kalawao County, HI']
+calculating Kahului-Wailuku-Lahaina, HI stats
+saving Kahului-Wailuku-Lahaina, HI
+Processing MSA: Kankakee, IL; Municipalities:  ['Kankakee County, IL']
+calculating Kankakee, IL stats
+saving Kankakee, IL
+Processing MSA: Kansas City, MO-KS; Municipalities:  ['Johnson County, KS', 'Leavenworth County, KS', 'Linn County, KS', 'Miami County, KS', 'Wyandotte County, KS', 'Bates County, MO', 'Caldwell County, MO', 'Cass County, MO', 'Clay County, MO', 'Clinton County, MO', 'Jackson County, MO', 'Lafayette County, MO', 'Platte County, MO', 'Ray County, MO']
+calculating Kansas City, MO-KS stats
+saving Kansas City, MO-KS
+Processing MSA: Kokomo, IN; Municipalities:  ['Howard County, IN']
+calculating Kokomo, IN stats
+saving Kokomo, IN
+Processing MSA: La Crosse-Onalaska, WI-MN; Municipalities:  ['Houston County, MN', 'La Crosse County, WI']
+calculating La Crosse-Onalaska, WI-MN stats
+saving La Crosse-Onalaska, WI-MN
+Processing MSA: Lake Charles, LA; Municipalities:  ['Calcasieu County, LA', 'Cameron County, LA']
+Nominatim geocoder returned 0 results for query "Calcasieu County, LA"
+Lake Charles, LA skipped
+Processing MSA: Lake Havasu City-Kingman, AZ; Municipalities:  ['Mohave County, AZ']
+calculating Lake Havasu City-Kingman, AZ stats
+saving Lake Havasu City-Kingman, AZ
+Processing MSA: Lancaster, PA; Municipalities:  ['Lancaster County, PA']
+calculating Lancaster, PA stats
+saving Lancaster, PA
+Processing MSA: Laredo, TX; Municipalities:  ['Webb County, TX']
+calculating Laredo, TX stats
+saving Laredo, TX
+Processing MSA: Las Cruces, NM; Municipalities:  ['Doña Ana County, NM']
+calculating Las Cruces, NM stats
+saving Las Cruces, NM
+Processing MSA: Las Vegas-Henderson-Paradise, NV; Municipalities:  ['Clark County, NV']
+calculating Las Vegas-Henderson-Paradise, NV stats
+saving Las Vegas-Henderson-Paradise, NV
+Processing MSA: Lawrence, KS; Municipalities:  ['Douglas County, KS']
+calculating Lawrence, KS stats
+saving Lawrence, KS
+Processing MSA: Lawton, OK; Municipalities:  ['Comanche County, OK', 'Cotton County, OK']
+calculating Lawton, OK stats
+saving Lawton, OK
+Processing MSA: Lebanon, PA; Municipalities:  ['Lebanon County, PA']
+calculating Lebanon, PA stats
+saving Lebanon, PA
+Processing MSA: Lewiston, ID-WA; Municipalities:  ['Nez Perce County, ID', 'Asotin County, WA']
+calculating Lewiston, ID-WA stats
+saving Lewiston, ID-WA
+Processing MSA: Lewiston-Auburn, ME; Municipalities:  ['Androscoggin County, ME']
+calculating Lewiston-Auburn, ME stats
+saving Lewiston-Auburn, ME
+['Hancock County, MS', 'Harrison County, MS', 'Jackson County, MS', 'Stone County, MS']
+calculating Gulfport-Biloxi, MS stats
+saving Gulfport-Biloxi, MS
+Processing MSA: Hagerstown-Martinsburg, MD-WV; Municipalities:  ['Washington County, MD', 'Berkeley County, WV', 'Morgan County, WV']
+calculating Hagerstown-Martinsburg, MD-WV stats
+saving Hagerstown-Martinsburg, MD-WV
+Processing MSA: Hammond, LA; Municipalities:  ['Tangipahoa County, LA']
+Nominatim could not geocode query "Tangipahoa County, LA" to polygonal boundaries
+Hammond, LA skipped
+Processing MSA: Hanford-Corcoran, CA; Municipalities:  ['Kings County, CA']
+calculating Hanford-Corcoran, CA stats
+saving Hanford-Corcoran, CA
+Processing MSA: Harrisburg-Carlisle, PA; Municipalities:  ['Cumberland County, PA', 'Dauphin County, PA', 'Perry County, PA']
+calculating Harrisburg-Carlisle, PA stats
+saving Harrisburg-Carlisle, PA
+Processing MSA: Harrisonburg, VA; Municipalities:  ['Rockingham County, VA', 'Harrisonburg, VA']
+calculating Harrisonburg, VA stats
+saving Harrisonburg, VA
+Processing MSA: Hartford-East Hartford-Middletown, CT; Municipalities:  ['Hartford County, CT', 'Middlesex County, CT', 'Tolland County, CT']
+calculating Hartford-East Hartford-Middletown, CT stats
+saving Hartford-East Hartford-Middletown, CT
+Processing MSA: Hilton Head Island-Bluffton, SC; Municipalities:  ['Beaufort County, SC', 'Jasper County, SC']
+calculating Hilton Head Island-Bluffton, SC stats
+saving Hilton Head Island-Bluffton, SC
+Processing MSA: Hinesville, GA; Municipalities:  ['Liberty County, GA', 'Long County, GA']
+calculating Hinesville, GA stats
+saving Hinesville, GA
+Processing MSA: Homosassa Springs, FL; Municipalities:  ['Citrus County, FL']
+calculating Homosassa Springs, FL stats
+saving Homosassa Springs, FL
+Processing MSA: Houma-Thibodaux, LA; Municipalities:  ['Lafourche County, LA', 'Terrebonne County, LA']
+Nominatim geocoder returned 0 results for query "Lafourche County, LA"
+Houma-Thibodaux, LA skipped
+Processing MSA: Houston-The Woodlands-Sugar Land, TX; Municipalities:  ['Austin County, TX', 'Brazoria County, TX', 'Chambers County, TX', 'Fort Bend County, TX', 'Galveston County, TX', 'Harris County, TX', 'Liberty County, TX', 'Montgomery County, TX', 'Waller County, TX']
+calculating Houston-The Woodlands-Sugar Land, TX stats
+saving Houston-The Woodlands-Sugar Land, TX
+Processing MSA: Jackson, TN; Municipalities:  ['Chester County, TN', 'Crockett County, TN', 'Gibson County, TN', 'Madison County, TN']
+calculating Jackson, TN stats
+saving Jackson, TN
+Processing MSA: Jacksonville, FL; Municipalities:  ['Baker County, FL', 'Clay County, FL', 'Duval County, FL', 'Nassau County, FL', 'St. Johns County, FL']
+calculating Jacksonville, FL stats
+saving Jacksonville, FL
+Processing MSA: Johnstown, PA; Municipalities:  ['Cambria County, PA']
+calculating Johnstown, PA stats
+saving Johnstown, PA
+Processing MSA: Joplin, MO; Municipalities:  ['Jasper County, MO', 'Newton County, MO']
+calculating Joplin, MO stats
+saving Joplin, MO
+Processing MSA: Kalamazoo-Portage, MI; Municipalities:  ['Kalamazoo County, MI']
+calculating Kalamazoo-Portage, MI stats
+saving Kalamazoo-Portage, MI
+Processing MSA: Kennewick-Richland, WA; Municipalities:  ['Benton County, WA', 'Franklin County, WA']
+calculating Kennewick-Richland, WA stats
+saving Kennewick-Richland, WA
+Processing MSA: Killeen-Temple, TX; Municipalities:  ['Bell County, TX', 'Coryell County, TX', 'Lampasas County, TX']
+calculating Killeen-Temple, TX stats
+saving Killeen-Temple, TX
+Processing MSA: Kingsport-Bristol, TN-VA; Municipalities:  ['Hawkins County, TN', 'Sullivan County, TN', 'Scott County, VA', 'Washington County, VA', 'Bristol, VA']
+calculating Kingsport-Bristol, TN-VA stats
+saving Kingsport-Bristol, TN-VA
+Processing MSA: Kingston, NY; Municipalities:  ['Ulster County, NY']
+calculating Kingston, NY stats
+saving Kingston, NY
+Processing MSA: Knoxville, TN; Municipalities:  ['Anderson County, TN', 'Blount County, TN', 'Campbell County, TN', 'Knox County, TN', 'Loudon County, TN', 'Morgan County, TN', 'Roane County, TN', 'Union County, TN']
+calculating Knoxville, TN stats
+saving Knoxville, TN
+Processing MSA: Lafayette, LA; Municipalities:  ['Acadia County, LA', 'Iberia County, LA', 'Lafayette County, LA', 'St. Martin County, LA', 'Vermilion County, LA']
+Nominatim could not geocode query "Iberia County, LA" to polygonal boundaries
+Lafayette, LA skipped
+Processing MSA: Lafayette-West Lafayette, IN; Municipalities:  ['Benton County, IN', 'Carroll County, IN', 'Tippecanoe County, IN', 'Warren County, IN']
+calculating Lafayette-West Lafayette, IN stats
+saving Lafayette-West Lafayette, IN
+Processing MSA: Lakeland-Winter Haven, FL; Municipalities:  ['Polk County, FL']
+calculating Lakeland-Winter Haven, FL stats
+saving Lakeland-Winter Haven, FL
+Processing MSA: Lansing-East Lansing, MI; Municipalities:  ['Clinton County, MI', 'Eaton County, MI', 'Ingham County, MI', 'Shiawassee County, MI']
+calculating Lansing-East Lansing, MI stats
+saving Lansing-East Lansing, MI
+Processing MSA: Lincoln, NE; Municipalities:  ['Lancaster County, NE', 'Seward County, NE']
+calculating Lincoln, NE stats
+saving Lincoln, NE
+Processing MSA: Logan, UT-ID; Municipalities:  ['Franklin County, ID', 'Cache County, UT']
+calculating Logan, UT-ID stats
+saving Logan, UT-ID
+Processing MSA: Longview, TX; Municipalities:  ['Gregg County, TX', 'Harrison County, TX', 'Rusk County, TX', 'Upshur County, TX']
+calculating Longview, TX stats
+saving Longview, TX
+Processing MSA: Los Angeles-Long Beach-Anaheim, CA; Municipalities:  ['Los Angeles County, CA', 'Orange County, CA']
+calculating Los Angeles-Long Beach-Anaheim, CA stats
+saving Los Angeles-Long Beach-Anaheim, CA
+Processing MSA: Michigan City-La Porte, IN; Municipalities:  ['LaPorte County, IN']
+calculating Michigan City-La Porte, IN stats
+saving Michigan City-La Porte, IN
+Processing MSA: Midland, MI; Municipalities:  ['Midland County, MI']
+calculating Midland, MI stats
+saving Midland, MI
+Processing MSA: Midland, TX; Municipalities:  ['Martin County, TX', 'Midland County, TX']
+calculating Midland, TX stats
+saving Midland, TX
+Processing MSA: Milwaukee-Waukesha, WI; Municipalities:  ['Milwaukee County, WI', 'Ozaukee County, WI', 'Washington County, WI', 'Waukesha County, WI']
+Nominatim could not geocode query "Milwaukee County, WI" to polygonal boundaries
+Milwaukee-Waukesha, WI skipped
+Processing MSA: Minneapolis-St. Paul-Bloomington, MN-WI; Municipalities:  ['Anoka County, MN', 'Carver County, MN', 'Chisago County, MN', 'Dakota County, MN', 'Hennepin County, MN', 'Isanti County, MN', 'Le Sueur County, MN', 'Mille Lacs County, MN', 'Ramsey County, MN', 'Scott County, MN', 'Sherburne County, MN', 'Washington County, MN', 'Wright County, MN', 'Pierce County, WI', 'St. Croix County, WI']
+calculating Minneapolis-St. Paul-Bloomington, MN-WI stats
+saving Minneapolis-St. Paul-Bloomington, MN-WI
+Processing MSA: Monroe, MI; Municipalities:  ['Monroe County, MI']
+calculating Monroe, MI stats
+saving Monroe, MI
+Processing MSA: Montgomery, AL; Municipalities:  ['Autauga County, AL', 'Elmore County, AL', 'Lowndes County, AL', 'Montgomery County, AL']
+calculating Montgomery, AL stats
+saving Montgomery, AL
+Processing MSA: Morgantown, WV; Municipalities:  ['Monongalia County, WV', 'Preston County, WV']
+calculating Morgantown, WV stats
+saving Morgantown, WV
+Processing MSA: Morristown, TN; Municipalities:  ['Grainger County, TN', 'Hamblen County, TN', 'Jefferson County, TN']
+calculating Morristown, TN stats
+saving Morristown, TN
+Processing MSA: Mount Vernon-Anacortes, WA; Municipalities:  ['Skagit County, WA']
+calculating Mount Vernon-Anacortes, WA stats
+saving Mount Vernon-Anacortes, WA
+Processing MSA: Muncie, IN; Municipalities:  ['Delaware County, IN']
+calculating Muncie, IN stats
+saving Muncie, IN
+Processing MSA: Muskegon, MI; Municipalities:  ['Muskegon County, MI']
+calculating Muskegon, MI stats
+saving Muskegon, MI
+Processing MSA: Myrtle Beach-Conway-North Myrtle Beach, SC-NC; Municipalities:  ['Brunswick County, NC', 'Horry County, SC']
+calculating Myrtle Beach-Conway-North Myrtle Beach, SC-NC stats
+saving Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+Processing MSA: Lexington-Fayette, KY; Municipalities:  ['Bourbon County, KY', 'Clark County, KY', 'Fayette County, KY', 'Jessamine County, KY', 'Scott County, KY', 'Woodford County, KY']
+calculating Lexington-Fayette, KY stats
+saving Lexington-Fayette, KY
+Processing MSA: Lima, OH; Municipalities:  ['Allen County, OH']
+calculating Lima, OH stats
+saving Lima, OH
+Processing MSA: Little Rock-North Little Rock-Conway, AR; Municipalities:  ['Faulkner County, AR', 'Grant County, AR', 'Lonoke County, AR', 'Perry County, AR', 'Pulaski County, AR', 'Saline County, AR']
+calculating Little Rock-North Little Rock-Conway, AR stats
+saving Little Rock-North Little Rock-Conway, AR
+Processing MSA: Longview, WA; Municipalities:  ['Cowlitz County, WA']
+calculating Longview, WA stats
+saving Longview, WA
+Processing MSA: Louisville/Jefferson County, KY-IN; Municipalities:  ['Clark County, IN', 'Floyd County, IN', 'Harrison County, IN', 'Washington County, IN', 'Bullitt County, KY', 'Henry County, KY', 'Jefferson County, KY', 'Oldham County, KY', 'Shelby County, KY', 'Spencer County, KY']
+calculating Louisville/Jefferson County, KY-IN stats
+saving Louisville/Jefferson County, KY-IN
+Processing MSA: Lubbock, TX; Municipalities:  ['Crosby County, TX', 'Lubbock County, TX', 'Lynn County, TX']
+calculating Lubbock, TX stats
+saving Lubbock, TX
+Processing MSA: Lynchburg, VA; Municipalities:  ['Amherst County, VA', 'Appomattox County, VA', 'Bedford County, VA', 'Campbell County, VA', 'Lynchburg, VA']
+calculating Lynchburg, VA stats
+saving Lynchburg, VA
+Processing MSA: Macon-Bibb County, GA; Municipalities:  ['Bibb County, GA', 'Crawford County, GA', 'Jones County, GA', 'Monroe County, GA', 'Twiggs County, GA']
+calculating Macon-Bibb County, GA stats
+saving Macon-Bibb County, GA
+Processing MSA: Madera, CA; Municipalities:  ['Madera County, CA']
+calculating Madera, CA stats
+saving Madera, CA
+Processing MSA: Madison, WI; Municipalities:  ['Columbia County, WI', 'Dane County, WI', 'Green County, WI', 'Iowa County, WI']
+calculating Madison, WI stats
+saving Madison, WI
+Processing MSA: Manchester-Nashua, NH; Municipalities:  ['Hillsborough County, NH']
+calculating Manchester-Nashua, NH stats
+saving Manchester-Nashua, NH
+Processing MSA: Manhattan, KS; Municipalities:  ['Geary County, KS', 'Pottawatomie County, KS', 'Riley County, KS']
+calculating Manhattan, KS stats
+saving Manhattan, KS
+Processing MSA: Mankato, MN; Municipalities:  ['Blue Earth County, MN', 'Nicollet County, MN']
+calculating Mankato, MN stats
+saving Mankato, MN
+Processing MSA: Mansfield, OH; Municipalities:  ['Richland County, OH']
+calculating Mansfield, OH stats
+saving Mansfield, OH
+Processing MSA: McAllen-Edinburg-Mission, TX; Municipalities:  ['Hidalgo County, TX']
+calculating McAllen-Edinburg-Mission, TX stats
+saving McAllen-Edinburg-Mission, TX
+Processing MSA: Medford, OR; Municipalities:  ['Jackson County, OR']
+calculating Medford, OR stats
+saving Medford, OR
+Processing MSA: Memphis, TN-MS-AR; Municipalities:  ['Crittenden County, AR', 'DeSoto County, MS', 'Marshall County, MS', 'Tate County, MS', 'Tunica County, MS', 'Fayette County, TN', 'Shelby County, TN', 'Tipton County, TN']
+calculating Memphis, TN-MS-AR stats
+saving Memphis, TN-MS-AR
+Processing MSA: Merced, CA; Municipalities:  ['Merced County, CA']
+calculating Merced, CA stats
+saving Merced, CA
+Processing MSA: Miami-Fort Lauderdale-Pompano Beach, FL; Municipalities:  ['Broward County, FL', 'Miami-Dade County, FL', 'Palm Beach County, FL']
+calculating Miami-Fort Lauderdale-Pompano Beach, FL stats
+saving Miami-Fort Lauderdale-Pompano Beach, FL
+Processing MSA: Missoula, MT; Municipalities:  ['Missoula County, MT']
+calculating Missoula, MT stats
+saving Missoula, MT
+Processing MSA: Mobile, AL; Municipalities:  ['Mobile County, AL', 'Washington County, AL']
+calculating Mobile, AL stats
+saving Mobile, AL
+Processing MSA: Modesto, CA; Municipalities:  ['Stanislaus County, CA']
+calculating Modesto, CA stats
+saving Modesto, CA
+Processing MSA: Monroe, LA; Municipalities:  ['Morehouse County, LA', 'Ouachita County, LA', 'Union County, LA']
+calculating Monroe, LA stats
+saving Monroe, LA
+Processing MSA: Napa, CA; Municipalities:  ['Napa County, CA']
+calculating Napa, CA stats
+saving Napa, CA
+Processing MSA: Naples-Marco Island, FL; Municipalities:  ['Collier County, FL']
+calculating Naples-Marco Island, FL stats
+saving Naples-Marco Island, FL
+Processing MSA: New Bern, NC; Municipalities:  ['Craven County, NC', 'Jones County, NC', 'Pamlico County, NC']
+calculating New Bern, NC stats
+saving New Bern, NC
+Processing MSA: New Haven-Milford, CT; Municipalities:  ['New Haven County, CT']
+calculating New Haven-Milford, CT stats
+saving New Haven-Milford, CT
+Processing MSA: Niles, MI; Municipalities:  ['Berrien County, MI']
+calculating Niles, MI stats
+saving Niles, MI
+Processing MSA: North Port-Sarasota-Bradenton, FL; Municipalities:  ['Manatee County, FL', 'Sarasota County, FL']
+calculating North Port-Sarasota-Bradenton, FL stats
+saving North Port-Sarasota-Bradenton, FL
+Processing MSA: Norwich-New London, CT; Municipalities:  ['New London County, CT']
+calculating Norwich-New London, CT stats
+saving Norwich-New London, CT
+Processing MSA: Ocala, FL; Municipalities:  ['Marion County, FL']
+calculating Ocala, FL stats
+saving Ocala, FL
+Processing MSA: Ocean City, NJ; Municipalities:  ['Cape May County, NJ']
+calculating Ocean City, NJ stats
+saving Ocean City, NJ
+Processing MSA: Odessa, TX; Municipalities:  ['Ector County, TX']
+calculating Odessa, TX stats
+saving Odessa, TX
+Processing MSA: Ogden-Clearfield, UT; Municipalities:  ['Box Elder County, UT', 'Davis County, UT', 'Morgan County, UT', 'Weber County, UT']
+calculating Ogden-Clearfield, UT stats
+saving Ogden-Clearfield, UT
+Processing MSA: Oklahoma City, OK; Municipalities:  ['Canadian County, OK', 'Cleveland County, OK', 'Grady County, OK', 'Lincoln County, OK', 'Logan County, OK', 'McClain County, OK', 'Oklahoma County, OK']
+calculating Oklahoma City, OK stats
+saving Oklahoma City, OK
+Processing MSA: Olympia-Lacey-Tumwater, WA; Municipalities:  ['Thurston County, WA']
+calculating Olympia-Lacey-Tumwater, WA stats
+saving Olympia-Lacey-Tumwater, WA
+Processing MSA: Omaha-Council Bluffs, NE-IA; Municipalities:  ['Harrison County, IA', 'Mills County, IA', 'Pottawattamie County, IA', 'Cass County, NE', 'Douglas County, NE', 'Sarpy County, NE', 'Saunders County, NE', 'Washington County, NE']
+calculating Omaha-Council Bluffs, NE-IA stats
+saving Omaha-Council Bluffs, NE-IA
+Processing MSA: Orlando-Kissimmee-Sanford, FL; Municipalities:  ['Lake County, FL', 'Orange County, FL', 'Osceola County, FL', 'Seminole County, FL']
+calculating Orlando-Kissimmee-Sanford, FL stats
+saving Orlando-Kissimmee-Sanford, FL
+Processing MSA: Oshkosh-Neenah, WI; Municipalities:  ['Winnebago County, WI']
+calculating Oshkosh-Neenah, WI stats
+saving Oshkosh-Neenah, WI
+Processing MSA: Owensboro, KY; Municipalities:  ['Daviess County, KY', 'Hancock County, KY', 'McLean County, KY']
+calculating Owensboro, KY stats
+saving Owensboro, KY
+Processing MSA: Oxnard-Thousand Oaks-Ventura, CA; Municipalities:  ['Ventura County, CA']
+calculating Oxnard-Thousand Oaks-Ventura, CA stats
+saving Oxnard-Thousand Oaks-Ventura, CA
+Processing MSA: Palm Bay-Melbourne-Titusville, FL; Municipalities:  ['Brevard County, FL']
+calculating Palm Bay-Melbourne-Titusville, FL stats
+saving Palm Bay-Melbourne-Titusville, FL
+Processing MSA: Panama City, FL; Municipalities:  ['Bay County, FL']
+calculating Panama City, FL stats
+saving Panama City, FL
+Processing MSA: Parkersburg-Vienna, WV; Municipalities:  ['Wirt County, WV', 'Wood County, WV']
+calculating Parkersburg-Vienna, WV stats
+saving Parkersburg-Vienna, WV
+Processing MSA: Pensacola-Ferry Pass-Brent, FL; Municipalities:  ['Escambia County, FL', 'Santa Rosa County, FL']
+calculating Pensacola-Ferry Pass-Brent, FL stats
+saving Pensacola-Ferry Pass-Brent, FL
+Processing MSA: Peoria, IL; Municipalities:  ['Fulton County, IL', 'Marshall County, IL', 'Peoria County, IL', 'Stark County, IL', 'Tazewell County, IL', 'Woodford County, IL']
+calculating Peoria, IL stats
+saving Peoria, IL
+Processing MSA: Nashville-Davidson--Murfreesboro--Franklin, TN; Municipalities:  ['Cannon County, TN', 'Cheatham County, TN', 'Davidson County, TN', 'Dickson County, TN', 'Macon County, TN', 'Maury County, TN', 'Robertson County, TN', 'Rutherford County, TN', 'Smith County, TN', 'Sumner County, TN', 'Trousdale County, TN', 'Williamson County, TN', 'Wilson County, TN']
+calculating Nashville-Davidson--Murfreesboro--Franklin, TN stats
+saving Nashville-Davidson--Murfreesboro--Franklin, TN
+Processing MSA: New Orleans-Metairie, LA; Municipalities:  ['Jefferson County, LA', 'Orleans County, LA', 'Plaquemines County, LA', 'St. Bernard County, LA', 'St. Charles County, LA', 'St. James County, LA', 'St. John the Baptist County, LA', 'St. Tammany County, LA']
+Nominatim could not geocode query "Plaquemines County, LA" to polygonal boundaries
+New Orleans-Metairie, LA skipped
+Processing MSA: New York-Newark-Jersey City, NY-NJ-PA; Municipalities:  ['Bergen County, NJ', 'Essex County, NJ', 'Hudson County, NJ', 'Hunterdon County, NJ', 'Middlesex County, NJ', 'Monmouth County, NJ', 'Morris County, NJ', 'Ocean County, NJ', 'Passaic County, NJ', 'Somerset County, NJ', 'Sussex County, NJ', 'Union County, NJ', 'Bronx County, NY', 'Kings County, NY', 'Nassau County, NY', 'New York County, NY', 'Putnam County, NY', 'Queens County, NY', 'Richmond County, NY', 'Rockland County, NY', 'Suffolk County, NY', 'Westchester County, NY', 'Pike County, PA']
+calculating New York-Newark-Jersey City, NY-NJ-PA stats
+saving New York-Newark-Jersey City, NY-NJ-PA
+Processing MSA: Phoenix-Mesa-Chandler, AZ; Municipalities:  ['Maricopa County, AZ', 'Pinal County, AZ']
+calculating Phoenix-Mesa-Chandler, AZ stats
+saving Phoenix-Mesa-Chandler, AZ
+Processing MSA: Pocatello, ID; Municipalities:  ['Bannock County, ID', 'Power County, ID']
+calculating Pocatello, ID stats
+saving Pocatello, ID
+Processing MSA: Portland-Vancouver-Hillsboro, OR-WA; Municipalities:  ['Clackamas County, OR', 'Columbia County, OR', 'Multnomah County, OR', 'Washington County, OR', 'Yamhill County, OR', 'Clark County, WA', 'Skamania County, WA']
+calculating Portland-Vancouver-Hillsboro, OR-WA stats
+saving Portland-Vancouver-Hillsboro, OR-WA
+Processing MSA: Provo-Orem, UT; Municipalities:  ['Juab County, UT', 'Utah County, UT']
+calculating Provo-Orem, UT stats
+saving Provo-Orem, UT
+Processing MSA: Pueblo, CO; Municipalities:  ['Pueblo County, CO']
+calculating Pueblo, CO stats
+saving Pueblo, CO
+Processing MSA: Racine, WI; Municipalities:  ['Racine County, WI']
+calculating Racine, WI stats
+saving Racine, WI
+Processing MSA: Raleigh-Cary, NC; Municipalities:  ['Franklin County, NC', 'Johnston County, NC', 'Wake County, NC']
+calculating Raleigh-Cary, NC stats
+saving Raleigh-Cary, NC
+Processing MSA: Richmond, VA; Municipalities:  ['Amelia County, VA', 'Charles City County, VA', 'Chesterfield County, VA', 'Goochland County, VA', 'Hanover County, VA', 'Henrico County, VA', 'King and Queen County, VA', 'King William County, VA', 'New Kent County, VA', 'Powhatan County, VA', 'Sussex County, VA', 'Richmond, VA', 'Dinwiddie County, VA', 'Colonial Heights, VA', 'Petersburg, VA', 'Prince George County, VA', 'Hopewell, VA']
+calculating Richmond, VA stats
+saving Richmond, VA
+Processing MSA: Roanoke, VA; Municipalities:  ['Botetourt County, VA', 'Craig County, VA', 'Franklin County, VA', 'Roanoke, VA', 'Roanoke County, VA', 'Salem, VA']
+calculating Roanoke, VA stats
+saving Roanoke, VA
+Processing MSA: Rochester, MN; Municipalities:  ['Dodge County, MN', 'Fillmore County, MN', 'Olmsted County, MN', 'Wabasha County, MN']
+calculating Rochester, MN stats
+saving Rochester, MN
+Processing MSA: Rockford, IL; Municipalities:  ['Boone County, IL', 'Winnebago County, IL']
+calculating Rockford, IL stats
+saving Rockford, IL
+Processing MSA: Rocky Mount, NC; Municipalities:  ['Edgecombe County, NC', 'Nash County, NC']
+calculating Rocky Mount, NC stats
+saving Rocky Mount, NC
+Processing MSA: Rome, GA; Municipalities:  ['Floyd County, GA']
+calculating Rome, GA stats
+saving Rome, GA
+Processing MSA: Sacramento-Roseville-Folsom, CA; Municipalities:  ['El Dorado County, CA', 'Placer County, CA', 'Sacramento County, CA', 'Yolo County, CA']
+calculating Sacramento-Roseville-Folsom, CA stats
+saving Sacramento-Roseville-Folsom, CA
+Processing MSA: Salem, OR; Municipalities:  ['Marion County, OR', 'Polk County, OR']
+calculating Salem, OR stats
+saving Salem, OR
+Processing MSA: Salinas, CA; Municipalities:  ['Monterey County, CA']
+calculating Salinas, CA stats
+saving Salinas, CA
+Processing MSA: Salisbury, MD-DE; Municipalities:  ['Sussex County, DE', 'Somerset County, MD', 'Wicomico County, MD', 'Worcester County, MD']
+calculating Salisbury, MD-DE stats
+saving Salisbury, MD-DE
+Processing MSA: Salt Lake City, UT; Municipalities:  ['Salt Lake County, UT', 'Tooele County, UT']
+calculating Salt Lake City, UT stats
+saving Salt Lake City, UT
+Processing MSA: San Diego-Chula Vista-Carlsbad, CA; Municipalities:  ['San Diego County, CA']
+calculating San Diego-Chula Vista-Carlsbad, CA stats
+saving San Diego-Chula Vista-Carlsbad, CA
+Processing MSA: San Jose-Sunnyvale-Santa Clara, CA; Municipalities:  ['San Benito County, CA', 'Santa Clara County, CA']
+calculating San Jose-Sunnyvale-Santa Clara, CA stats
+saving San Jose-Sunnyvale-Santa Clara, CA
+Processing MSA: San Luis Obispo-Paso Robles, CA; Municipalities:  ['San Luis Obispo County, CA']
+calculating San Luis Obispo-Paso Robles, CA stats
+saving San Luis Obispo-Paso Robles, CA
+Processing MSA: Santa Cruz-Watsonville, CA; Municipalities:  ['Santa Cruz County, CA']
+calculating Santa Cruz-Watsonville, CA stats
+saving Santa Cruz-Watsonville, CA
+Processing MSA: Santa Fe, NM; Municipalities:  ['Santa Fe County, NM']
+calculating Santa Fe, NM stats
+saving Santa Fe, NM
+Processing MSA: Santa Maria-Santa Barbara, CA; Municipalities:  ['Santa Barbara County, CA']
+calculating Santa Maria-Santa Barbara, CA stats
+saving Santa Maria-Santa Barbara, CA
+Processing MSA: Santa Rosa-Petaluma, CA; Municipalities:  ['Sonoma County, CA']
+calculating Santa Rosa-Petaluma, CA stats
+saving Santa Rosa-Petaluma, CA
+Processing MSA: Scranton--Wilkes-Barre, PA; Municipalities:  ['Lackawanna County, PA', 'Luzerne County, PA', 'Wyoming County, PA']
+calculating Scranton--Wilkes-Barre, PA stats
+saving Scranton--Wilkes-Barre, PA
+Processing MSA: Sebastian-Vero Beach, FL; Municipalities:  ['Indian River County, FL']
+calculating Sebastian-Vero Beach, FL stats
+saving Sebastian-Vero Beach, FL
+Processing MSA: Sebring-Avon Park, FL; Municipalities:  ['Highlands County, FL']
+calculating Sebring-Avon Park, FL stats
+saving Sebring-Avon Park, FL
+Processing MSA: Sheboygan, WI; Municipalities:  ['Sheboygan County, WI']
+calculating Sheboygan, WI stats
+saving Sheboygan, WI
+Processing MSA: Sherman-Denison, TX; Municipalities:  ['Grayson County, TX']
+calculating Sherman-Denison, TX stats
+saving Sherman-Denison, TX
+Processing MSA: Shreveport-Bossier City, LA; Municipalities:  ['Bossier County, LA', 'Caddo County, LA', 'De Soto County, LA']
+Nominatim could not geocode query "Bossier County, LA" to polygonal boundaries
+Shreveport-Bossier City, LA skipped
+Processing MSA: Sierra Vista-Douglas, AZ; Municipalities:  ['Cochise County, AZ']
+calculating Sierra Vista-Douglas, AZ stats
+saving Sierra Vista-Douglas, AZ
+Processing MSA: Sioux City, IA-NE-SD; Municipalities:  ['Woodbury County, IA', 'Dakota County, NE', 'Dixon County, NE', 'Union County, SD']
+calculating Sioux City, IA-NE-SD stats
+saving Sioux City, IA-NE-SD
+Processing MSA: Sioux Falls, SD; Municipalities:  ['Lincoln County, SD', 'McCook County, SD', 'Minnehaha County, SD', 'Turner County, SD']
+calculating Sioux Falls, SD stats
+saving Sioux Falls, SD
+Processing MSA: South Bend-Mishawaka, IN-MI; Municipalities:  ['St. Joseph County, IN', 'Cass County, MI']
+calculating South Bend-Mishawaka, IN-MI stats
+saving South Bend-Mishawaka, IN-MI
+Processing MSA: Springfield, IL; Municipalities:  ['Menard County, IL', 'Sangamon County, IL']
+calculating Springfield, IL stats
+saving Springfield, IL
+Processing MSA: Springfield, MO; Municipalities:  Processing MSA: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD; Municipalities:  ['New Castle County, DE', 'Cecil County, MD', 'Burlington County, NJ', 'Camden County, NJ', 'Gloucester County, NJ', 'Salem County, NJ', 'Bucks County, PA', 'Chester County, PA', 'Delaware County, PA', 'Montgomery County, PA', 'Philadelphia County, PA']
+calculating Philadelphia-Camden-Wilmington, PA-NJ-DE-MD stats
+saving Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+Processing MSA: Pine Bluff, AR; Municipalities:  ['Cleveland County, AR', 'Jefferson County, AR', 'Lincoln County, AR']
+calculating Pine Bluff, AR stats
+saving Pine Bluff, AR
+Processing MSA: Pittsburgh, PA; Municipalities:  ['Allegheny County, PA', 'Armstrong County, PA', 'Beaver County, PA', 'Butler County, PA', 'Fayette County, PA', 'Washington County, PA', 'Westmoreland County, PA']
+calculating Pittsburgh, PA stats
+saving Pittsburgh, PA
+Processing MSA: Pittsfield, MA; Municipalities:  ['Berkshire County, MA']
+calculating Pittsfield, MA stats
+saving Pittsfield, MA
+Processing MSA: Portland-South Portland, ME; Municipalities:  ['Cumberland County, ME', 'Sagadahoc County, ME', 'York County, ME']
+calculating Portland-South Portland, ME stats
+saving Portland-South Portland, ME
+Processing MSA: Port St. Lucie, FL; Municipalities:  ['Martin County, FL', 'St. Lucie County, FL']
+calculating Port St. Lucie, FL stats
+saving Port St. Lucie, FL
+Processing MSA: Poughkeepsie-Newburgh-Middletown, NY; Municipalities:  ['Dutchess County, NY', 'Orange County, NY']
+calculating Poughkeepsie-Newburgh-Middletown, NY stats
+saving Poughkeepsie-Newburgh-Middletown, NY
+Processing MSA: Prescott Valley-Prescott, AZ; Municipalities:  ['Yavapai County, AZ']
+calculating Prescott Valley-Prescott, AZ stats
+saving Prescott Valley-Prescott, AZ
+Processing MSA: Providence-Warwick, RI-MA; Municipalities:  ['Bristol County, MA', 'Bristol County, RI', 'Kent County, RI', 'Newport County, RI', 'Providence County, RI', 'Washington County, RI']
+calculating Providence-Warwick, RI-MA stats
+saving Providence-Warwick, RI-MA
+Processing MSA: Punta Gorda, FL; Municipalities:  ['Charlotte County, FL']
+calculating Punta Gorda, FL stats
+saving Punta Gorda, FL
+Processing MSA: Rapid City, SD; Municipalities:  ['Meade County, SD', 'Pennington County, SD']
+calculating Rapid City, SD stats
+saving Rapid City, SD
+Processing MSA: Reading, PA; Municipalities:  ['Berks County, PA']
+calculating Reading, PA stats
+saving Reading, PA
+Processing MSA: Redding, CA; Municipalities:  ['Shasta County, CA']
+calculating Redding, CA stats
+saving Redding, CA
+Processing MSA: Reno, NV; Municipalities:  ['Storey County, NV', 'Washoe County, NV']
+calculating Reno, NV stats
+saving Reno, NV
+Processing MSA: Riverside-San Bernardino-Ontario, CA; Municipalities:  ['Riverside County, CA', 'San Bernardino County, CA']
+calculating Riverside-San Bernardino-Ontario, CA stats
+saving Riverside-San Bernardino-Ontario, CA
+Processing MSA: Rochester, NY; Municipalities:  ['Livingston County, NY', 'Monroe County, NY', 'Ontario County, NY', 'Orleans County, NY', 'Wayne County, NY', 'Yates County, NY']
+calculating Rochester, NY stats
+saving Rochester, NY
+Processing MSA: Saginaw, MI; Municipalities:  ['Saginaw County, MI']
+calculating Saginaw, MI stats
+saving Saginaw, MI
+Processing MSA: St. Cloud, MN; Municipalities:  ['Benton County, MN', 'Stearns County, MN']
+calculating St. Cloud, MN stats
+saving St. Cloud, MN
+Processing MSA: St. George, UT; Municipalities:  ['Washington County, UT']
+calculating St. George, UT stats
+saving St. George, UT
+Processing MSA: St. Joseph, MO-KS; Municipalities:  ['Doniphan County, KS', 'Andrew County, MO', 'Buchanan County, MO', 'DeKalb County, MO']
+calculating St. Joseph, MO-KS stats
+saving St. Joseph, MO-KS
+Processing MSA: St. Louis, MO-IL; Municipalities:  ['Bond County, IL', 'Calhoun County, IL', 'Clinton County, IL', 'Jersey County, IL', 'Macoupin County, IL', 'Madison County, IL', 'Monroe County, IL', 'St. Clair County, IL', 'Franklin County, MO', 'Jefferson County, MO', 'Lincoln County, MO', 'St. Charles County, MO', 'St. Louis County, MO', 'Warren County, MO', 'St. Louis, MO']
+calculating St. Louis, MO-IL stats
+saving St. Louis, MO-IL
+Processing MSA: San Angelo, TX; Municipalities:  ['Irion County, TX', 'Sterling County, TX', 'Tom Green County, TX']
+calculating San Angelo, TX stats
+saving San Angelo, TX
+Processing MSA: San Antonio-New Braunfels, TX; Municipalities:  ['Atascosa County, TX', 'Bandera County, TX', 'Bexar County, TX', 'Comal County, TX', 'Guadalupe County, TX', 'Kendall County, TX', 'Medina County, TX', 'Wilson County, TX']
+calculating San Antonio-New Braunfels, TX stats
+saving San Antonio-New Braunfels, TX
+Processing MSA: San Francisco-Oakland-Berkeley, CA; Municipalities:  ['Alameda County, CA', 'Contra Costa County, CA', 'Marin County, CA', 'San Francisco County, CA', 'San Mateo County, CA']
+calculating San Francisco-Oakland-Berkeley, CA stats
+saving San Francisco-Oakland-Berkeley, CA
+Processing MSA: Savannah, GA; Municipalities:  ['Bryan County, GA', 'Chatham County, GA', 'Effingham County, GA']
+calculating Savannah, GA stats
+saving Savannah, GA
+Processing MSA: Seattle-Tacoma-Bellevue, WA; Municipalities:  ['King County, WA', 'Pierce County, WA', 'Snohomish County, WA']
+calculating Seattle-Tacoma-Bellevue, WA stats
+saving Seattle-Tacoma-Bellevue, WA
+Processing MSA: Spartanburg, SC; Municipalities:  ['Spartanburg County, SC']
+calculating Spartanburg, SC stats
+saving Spartanburg, SC
+Processing MSA: Spokane-Spokane Valley, WA; Municipalities:  ['Spokane County, WA', 'Stevens County, WA']
+calculating Spokane-Spokane Valley, WA stats
+saving Spokane-Spokane Valley, WA
+Processing MSA: Springfield, MA; Municipalities:  ['Franklin County, MA', 'Hampden County, MA', 'Hampshire County, MA']
+calculating Springfield, MA stats
+saving Springfield, MA
+Processing MSA: Terre Haute, IN; Municipalities:  ['Clay County, IN', 'Parke County, IN', 'Sullivan County, IN', 'Vermillion County, IN', 'Vigo County, IN']
+calculating Terre Haute, IN stats
+saving Terre Haute, IN
+Processing MSA: Texarkana, TX-AR; Municipalities:  ['Little River County, AR', 'Miller County, AR', 'Bowie County, TX']
+calculating Texarkana, TX-AR stats
+saving Texarkana, TX-AR
+Processing MSA: The Villages, FL; Municipalities:  ['Sumter County, FL']
+calculating The Villages, FL stats
+saving The Villages, FL
+Processing MSA: Toledo, OH; Municipalities:  ['Fulton County, OH', 'Lucas County, OH', 'Ottawa County, OH', 'Wood County, OH']
+calculating Toledo, OH stats
+saving Toledo, OH
+Processing MSA: Tucson, AZ; Municipalities:  ['Pima County, AZ']
+calculating Tucson, AZ stats
+saving Tucson, AZ
+Processing MSA: Tuscaloosa, AL; Municipalities:  ['Greene County, AL', 'Hale County, AL', 'Pickens County, AL', 'Tuscaloosa County, AL']
+calculating Tuscaloosa, AL stats
+saving Tuscaloosa, AL
+Processing MSA: Utica-Rome, NY; Municipalities:  ['Herkimer County, NY', 'Oneida County, NY']
+calculating Utica-Rome, NY stats
+saving Utica-Rome, NY
+Processing MSA: Valdosta, GA; Municipalities:  ['Brooks County, GA', 'Echols County, GA', 'Lanier County, GA', 'Lowndes County, GA']
+calculating Valdosta, GA stats
+saving Valdosta, GA
+Processing MSA: Vallejo, CA; Municipalities:  ['Solano County, CA']
+calculating Vallejo, CA stats
+saving Vallejo, CA
+Processing MSA: Victoria, TX; Municipalities:  ['Goliad County, TX', 'Victoria County, TX']
+calculating Victoria, TX stats
+saving Victoria, TX
+Processing MSA: Vineland-Bridgeton, NJ; Municipalities:  ['Cumberland County, NJ']
+calculating Vineland-Bridgeton, NJ stats
+saving Vineland-Bridgeton, NJ
+Processing MSA: Virginia Beach-Norfolk-Newport News, VA-NC; Municipalities:  ['Camden County, NC', 'Currituck County, NC', 'Gates County, NC', 'Gloucester County, VA', 'Isle of Wight County, VA', 'Mathews County, VA', 'Chesapeake, VA', 'Hampton, VA', 'Newport News, VA', 'Norfolk, VA', 'Portsmouth, VA', 'Suffolk, VA', 'Virginia Beach, VA', 'James City County, VA', 'Williamsburg,, VA', 'Southampton County, VA', 'Franklin, VA', 'York County, VA', 'Poquoson, VA']
+calculating Virginia Beach-Norfolk-Newport News, VA-NC stats
+saving Virginia Beach-Norfolk-Newport News, VA-NC
+Network stats completed in (h/m/s/ms): 11:43:42.952022
+['Christian County, MO', 'Dallas County, MO', 'Greene County, MO', 'Polk County, MO', 'Webster County, MO']
+calculating Springfield, MO stats
+saving Springfield, MO
+Processing MSA: Springfield, OH; Municipalities:  ['Clark County, OH']
+calculating Springfield, OH stats
+saving Springfield, OH
+Processing MSA: State College, PA; Municipalities:  ['Centre County, PA']
+calculating State College, PA stats
+saving State College, PA
+Processing MSA: Staunton, VA; Municipalities:  ['Augusta County, VA', 'Staunton, VA', 'Waynesboro, VA']
+calculating Staunton, VA stats
+saving Staunton, VA
+Processing MSA: Stockton, CA; Municipalities:  ['San Joaquin County, CA']
+calculating Stockton, CA stats
+saving Stockton, CA
+Processing MSA: Sumter, SC; Municipalities:  ['Clarendon County, SC', 'Sumter County, SC']
+calculating Sumter, SC stats
+saving Sumter, SC
+Processing MSA: Syracuse, NY; Municipalities:  ['Madison County, NY', 'Onondaga County, NY', 'Oswego County, NY']
+calculating Syracuse, NY stats
+saving Syracuse, NY
+Processing MSA: Tallahassee, FL; Municipalities:  ['Gadsden County, FL', 'Jefferson County, FL', 'Leon County, FL', 'Wakulla County, FL']
+calculating Tallahassee, FL stats
+saving Tallahassee, FL
+Processing MSA: Tampa-St. Petersburg-Clearwater, FL; Municipalities:  ['Hernando County, FL', 'Hillsborough County, FL', 'Pasco County, FL', 'Pinellas County, FL']
+calculating Tampa-St. Petersburg-Clearwater, FL stats
+saving Tampa-St. Petersburg-Clearwater, FL
+Processing MSA: Topeka, KS; Municipalities:  ['Jackson County, KS', 'Jefferson County, KS', 'Osage County, KS', 'Shawnee County, KS', 'Wabaunsee County, KS']
+calculating Topeka, KS stats
+saving Topeka, KS
+Processing MSA: Trenton-Princeton, NJ; Municipalities:  ['Mercer County, NJ']
+calculating Trenton-Princeton, NJ stats
+saving Trenton-Princeton, NJ
+Processing MSA: Tulsa, OK; Municipalities:  ['Creek County, OK', 'Okmulgee County, OK', 'Osage County, OK', 'Pawnee County, OK', 'Rogers County, OK', 'Tulsa County, OK', 'Wagoner County, OK']
+calculating Tulsa, OK stats
+saving Tulsa, OK
+Processing MSA: Twin Falls, ID; Municipalities:  ['Jerome County, ID', 'Twin Falls County, ID']
+calculating Twin Falls, ID stats
+saving Twin Falls, ID
+Processing MSA: Tyler, TX; Municipalities:  ['Smith County, TX']
+calculating Tyler, TX stats
+saving Tyler, TX
+Processing MSA: Urban Honolulu, HI; Municipalities:  ['Honolulu County, HI']
+calculating Urban Honolulu, HI stats
+saving Urban Honolulu, HI
+Processing MSA: Visalia, CA; Municipalities:  ['Tulare County, CA']
+calculating Visalia, CA stats
+saving Visalia, CA
+Processing MSA: Waco, TX; Municipalities:  ['Falls County, TX', 'McLennan County, TX']
+calculating Waco, TX stats
+saving Waco, TX
+Processing MSA: Walla Walla, WA; Municipalities:  ['Walla Walla County, WA']
+calculating Walla Walla, WA stats
+saving Walla Walla, WA
+Processing MSA: Warner Robins, GA; Municipalities:  ['Houston County, GA', 'Peach County, GA']
+calculating Warner Robins, GA stats
+saving Warner Robins, GA
+Processing MSA: Washington-Arlington-Alexandria, DC-VA-MD-WV; Municipalities:  ['District of Columbia County, DC', 'Calvert County, MD', 'Charles County, MD', 'Frederick County, MD', 'Montgomery County, MD', "Prince George's County, MD", 'Arlington County, VA', 'Clarke County, VA', 'Culpeper County, VA', 'Fauquier County, VA', 'Loudoun County, VA', 'Madison County, VA', 'Rappahannock County, VA', 'Stafford County, VA', 'Warren County, VA', 'Alexandria, VA', 'Fairfax County, VA', 'Fairfax, VA', 'Falls Church, VA', 'Prince William County, VA', 'Manassas, VA', 'Manassas Park, VA', 'Spotsylvania County, VA', 'Fredericksburg, VA', 'Jefferson County, WV']
+Nominatim could not geocode query "District of Columbia County, DC" to polygonal boundaries
+Washington-Arlington-Alexandria, DC-VA-MD-WV skipped
+Processing MSA: Waterloo-Cedar Falls, IA; Municipalities:  ['Black Hawk County, IA', 'Bremer County, IA', 'Grundy County, IA']
+calculating Waterloo-Cedar Falls, IA stats
+saving Waterloo-Cedar Falls, IA
+Processing MSA: Watertown-Fort Drum, NY; Municipalities:  ['Jefferson County, NY']
+calculating Watertown-Fort Drum, NY stats
+saving Watertown-Fort Drum, NY
+Processing MSA: Wausau-Weston, WI; Municipalities:  ['Lincoln County, WI', 'Marathon County, WI']
+calculating Wausau-Weston, WI stats
+saving Wausau-Weston, WI
+Processing MSA: Weirton-Steubenville, WV-OH; Municipalities:  ['Jefferson County, OH', 'Brooke County, WV', 'Hancock County, WV']
+calculating Weirton-Steubenville, WV-OH stats
+saving Weirton-Steubenville, WV-OH
+Processing MSA: Wenatchee, WA; Municipalities:  ['Chelan County, WA', 'Douglas County, WA']
+calculating Wenatchee, WA stats
+saving Wenatchee, WA
+Processing MSA: Wheeling, WV-OH; Municipalities:  ['Belmont County, OH', 'Marshall County, WV', 'Ohio County, WV']
+calculating Wheeling, WV-OH stats
+saving Wheeling, WV-OH
+Processing MSA: Wichita, KS; Municipalities:  ['Butler County, KS', 'Harvey County, KS', 'Sedgwick County, KS', 'Sumner County, KS']
+calculating Wichita, KS stats
+saving Wichita, KS
+Processing MSA: Williamsport, PA; Municipalities:  ['Lycoming County, PA']
+calculating Williamsport, PA stats
+saving Williamsport, PA
+Processing MSA: Winchester, VA-WV; Municipalities:  ['Frederick County, VA', 'Winchester, VA', 'Hampshire County, WV']
+calculating Winchester, VA-WV stats
+saving Winchester, VA-WV
+Processing MSA: Worcester, MA-CT; Municipalities:  ['Windham County, CT', 'Worcester County, MA']
+calculating Worcester, MA-CT stats
+saving Worcester, MA-CT
+Processing MSA: Youngstown-Warren-Boardman, OH-PA; Municipalities:  ['Mahoning County, OH', 'Trumbull County, OH', 'Mercer County, PA']
+calculating Youngstown-Warren-Boardman, OH-PA stats
+saving Youngstown-Warren-Boardman, OH-PA
+Processing MSA: Wichita Falls, TX; Municipalities:  ['Archer County, TX', 'Clay County, TX', 'Wichita County, TX']
+calculating Wichita Falls, TX stats
+saving Wichita Falls, TX
+Processing MSA: Wilmington, NC; Municipalities:  ['New Hanover County, NC', 'Pender County, NC']
+calculating Wilmington, NC stats
+saving Wilmington, NC
+Processing MSA: Winston-Salem, NC; Municipalities:  ['Davidson County, NC', 'Davie County, NC', 'Forsyth County, NC', 'Stokes County, NC', 'Yadkin County, NC']
+calculating Winston-Salem, NC stats
+saving Winston-Salem, NC
+Processing MSA: Yakima, WA; Municipalities:  ['Yakima County, WA']
+calculating Yakima, WA stats
+saving Yakima, WA
+Processing MSA: York-Hanover, PA; Municipalities:  ['York County, PA']
+calculating York-Hanover, PA stats
+saving York-Hanover, PA
+Processing MSA: Yuba City, CA; Municipalities:  ['Sutter County, CA', 'Yuba County, CA']
+calculating Yuba City, CA stats
+saving Yuba City, CA
+Processing MSA: Yuma, AZ; Municipalities:  ['Yuma County, AZ']
+calculating Yuma, AZ stats
+saving Yuma, AZ
