@@ -3,6 +3,8 @@ cache
 
 data/raw/*
 
+.ipynb_checkpoints
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
