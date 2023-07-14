@@ -1,0 +1,389 @@
+msa,unemp
+"Abilene, TX",6.4
+"Aguadilla-Isabela, PR",25.2
+"Akron, OH",9.7
+"Albany, GA",15.0
+"Albany, OR",11.2
+"Albany-Schenectady-Troy, NY",7.4
+"Albuquerque, NM",9.1
+"Alexandria, LA",8.8
+"Allentown-Bethlehem-Easton, PA-NJ",9.2
+"Altoona, PA",6.7
+"Amarillo, TX",5.0
+"Ames, IA",5.7
+"Anchorage, AK",7.7
+"Ann Arbor, MI",8.4
+"Anniston-Oxford-Jacksonville, AL",13.5
+"Appleton, WI",4.5
+"Arecibo, PR",17.3
+"Asheville, NC",8.1
+"Athens-Clarke County, GA",8.6
+"Atlanta-Sandy Springs-Roswell, GA",10.8
+"Atlantic City-Hammonton, NJ",12.8
+"Auburn-Opelika, AL",8.4
+"Augusta-Richmond County, GA-SC",10.5
+"Austin-Round Rock, TX",6.9
+"Bakersfield, CA",13.2
+"Baltimore-Columbia-Towson, MD",8.2
+"Bangor, ME",8.0
+"Barnstable Town, MA",7.9
+"Baton Rouge, LA",7.8
+"Battle Creek, MI",11.6
+"Bay City, MI",10.5
+"Beaumont-Port Arthur, TX",9.5
+"Beckley, WV",7.9
+"Bellingham, WA",9.0
+"Bend-Redmond, OR",10.9
+"Billings, MT",4.5
+"Binghamton, NY",8.4
+"Birmingham-Hoover, AL",9.3
+"Bismarck, ND",3.3
+"Blacksburg-Christiansburg-Radford, VA",6.6
+"Bloomington, IL",6.2
+"Bloomington, IN",7.7
+"Bloomsburg-Berwick, PA",6.0
+"Boise City, ID",8.5
+"Boston-Cambridge-Newton, MA-NH",7.9
+"Boulder, CO",6.9
+"Bowling Green, KY",9.6
+"Bremerton-Silverdale, WA",9.0
+"Bridgeport-Stamford-Norwalk, CT",9.6
+"Brownsville-Harlingen, TX",10.5
+"Brunswick, GA",11.4
+"Buffalo-Cheektowaga-Niagara Falls, NY",8.0
+"Burlington, NC",9.5
+"Burlington-South Burlington, VT",5.8
+"California-Lexington Park, MD",5.4
+"Canton-Massillon, OH",9.5
+"Cape Coral-Fort Myers, FL",11.9
+"Cape Girardeau, MO-IL",7.7
+"Carbondale-Marion, IL",8.9
+"Carson City, NV",14.5
+"Casper, WY",5.5
+"Cedar Rapids, IA",5.1
+"Chambersburg-Waynesboro, PA",7.2
+"Champaign-Urbana, IL",7.1
+"Charleston, WV",7.3
+"Charleston-North Charleston, SC",9.6
+"Charlotte-Concord-Gastonia, NC-SC",10.7
+"Charlottesville, VA",5.5
+"Chattanooga, TN-GA",9.1
+"Cheyenne, WY",5.1
+"Chicago-Naperville-Elgin, IL-IN-WI",10.5
+"Chico, CA",13.1
+"Cincinnati, OH-KY-IN",8.4
+"Clarksville, TN-KY",10.7
+"Cleveland, TN",11.3
+"Cleveland-Elyria, OH",9.9
+"Coeur d'Alene, ID",9.5
+"College Station-Bryan, TX",7.9
+"Colorado Springs, CO",9.3
+"Columbia, MO",5.6
+"Columbia, SC",9.9
+"Columbus, GA-AL",11.3
+"Columbus, IN",5.6
+"Columbus, OH",7.6
+"Corpus Christi, TX",7.2
+"Corvallis, OR",8.7
+"Crestview-Fort Walton Beach-Destin, FL",8.1
+"Cumberland, MD-WV",10.4
+"Dallas-Fort Worth-Arlington, TX",7.6
+"Dalton, GA",11.8
+"Danville, IL",11.9
+"Daphne-Fairhope-Foley, AL",8.6
+"Davenport-Moline-Rock Island, IA-IL",6.8
+"Dayton, OH",9.8
+"Decatur, AL",11.0
+"Decatur, IL",11.9
+"Deltona-Daytona Beach-Ormond Beach, FL",10.5
+"Denver-Aurora-Lakewood, CO",7.5
+"Des Moines-West Des Moines, IA",5.6
+"Detroit-Warren-Dearborn, MI",12.6
+"Dothan, AL",8.9
+"Dover, DE",9.6
+"Dubuque, IA",4.7
+"Duluth, MN-WI",7.8
+"Durham-Chapel Hill, NC",8.5
+"East Stroudsburg, PA",13.7
+"Eau Claire, WI",6.1
+"El Centro, CA",18.1
+"Elizabethtown-Fort Knox, KY",9.8
+"Elkhart-Goshen, IN",8.7
+"Elmira, NY",6.1
+"El Paso, TX",9.0
+"Erie, PA",8.5
+"Eugene, OR",11.1
+"Evansville, IN-KY",7.0
+"Fairbanks, AK",8.2
+"Fargo, ND-MN",3.9
+"Farmington, NM",9.0
+"Fayetteville, NC",13.1
+"Fayetteville-Springdale-Rogers, AR-MO",6.2
+"Flagstaff, AZ",9.7
+"Flint, MI",15.5
+"Florence, SC",14.4
+"Florence-Muscle Shoals, AL",8.6
+"Fond du Lac, WI",6.7
+"Fort Collins, CO",7.5
+"Fort Smith, AR-OK",8.3
+"Fort Wayne, IN",8.5
+"Fresno, CA",14.3
+"Gadsden, AL",10.7
+"Gainesville, FL",8.9
+"Gainesville, GA",9.2
+"Gettysburg, PA",6.0
+"Glens Falls, NY",8.2
+"Goldsboro, NC",12.8
+"Grand Forks, ND-MN",4.5
+"Grand Island, NE",5.8
+"Grand Junction, CO",9.2
+"Grand Rapids-Wyoming, MI",8.7
+"Grants Pass, OR",13.7
+"Great Falls, MT",5.5
+"Greeley, CO",7.5
+"Green Bay, WI",6.9
+"Greensboro-High Point, NC",10.4
+"Greenville, NC",12.1
+"Greenville-Anderson-Mauldin, SC",9.3
+"Guayama, PR",23.9
+"Gulfport-Biloxi-Pascagoula, MS",10.1
+"Hagerstown-Martinsburg, MD-WV",10.0
+"Hammond, LA",12.5
+"Hanford-Corcoran, CA",14.2
+"Harrisburg-Carlisle, PA",6.8
+"Harrisonburg, VA",6.3
+"Hartford-West Hartford-East Hartford, CT",9.4
+"Hattiesburg, MS",10.9
+"Hickory-Lenoir-Morganton, NC",11.2
+"Hilton Head Island-Bluffton-Beaufort, SC",8.4
+"Hinesville, GA",14.0
+"Homosassa Springs, FL",14.1
+"Hot Springs, AR",10.0
+"Houma-Thibodaux, LA",6.9
+"Houston-The Woodlands-Sugar Land, TX",7.7
+"Huntington-Ashland, WV-KY-OH",8.3
+"Huntsville, AL",9.4
+"Idaho Falls, ID",6.2
+"Indianapolis-Carmel-Anderson, IN",8.9
+"Iowa City, IA",3.8
+"Ithaca, NY",5.8
+"Jackson, MI",11.8
+"Jackson, MS",9.1
+"Jackson, TN",10.6
+"Jacksonville, FL",10.6
+"Jacksonville, NC",12.3
+"Janesville-Beloit, WI",9.4
+"Jefferson City, MO",5.4
+"Johnson City, TN",7.5
+"Johnstown, PA",8.8
+"Jonesboro, AR",8.8
+"Joplin, MO",7.3
+"Kahului-Wailuku-Lahaina, HI",8.7
+"Kalamazoo-Portage, MI",10.1
+"Kankakee, IL",10.5
+"Kansas City, MO-KS",7.4
+"Kennewick-Richland, WA",7.3
+"Killeen-Temple, TX",9.5
+"Kingsport-Bristol-Bristol, TN-VA",9.1
+"Kingston, NY",10.2
+"Knoxville, TN",8.2
+"Kokomo, IN",10.3
+"La Crosse-Onalaska, WI-MN",5.6
+"Lafayette, LA",7.7
+"Lafayette-West Lafayette, IN",7.6
+"Lake Charles, LA",8.8
+"Lake Havasu City-Kingman, AZ",14.3
+"Lakeland-Winter Haven, FL",11.9
+"Lancaster, PA",6.7
+"Lansing-East Lansing, MI",9.4
+"Laredo, TX",6.7
+"Las Cruces, NM",12.2
+"Las Vegas-Henderson-Paradise, NV",12.1
+"Lawrence, KS",6.7
+"Lawton, OK",9.4
+"Lebanon, PA",7.8
+"Lewiston, ID-WA",7.1
+"Lewiston-Auburn, ME",8.9
+"Lexington-Fayette, KY",8.1
+"Lima, OH",11.1
+"Lincoln, NE",5.9
+"Little Rock-North Little Rock-Conway, AR",7.5
+"Logan, UT-ID",6.4
+"Longview, TX",6.7
+"Longview, WA",13.5
+"Los Angeles-Long Beach-Anaheim, CA",10.5
+"Louisville/Jefferson County, KY-IN",8.9
+"Lubbock, TX",6.5
+"Lynchburg, VA",7.8
+"Macon, GA",11.9
+"Madera, CA",9.5
+"Madison, WI",5.5
+"Manchester-Nashua, NH",6.7
+"Manhattan, KS",5.0
+"Mankato-North Mankato, MN",5.1
+"Mansfield, OH",9.8
+"Mayagüez, PR",21.2
+"McAllen-Edinburg-Mission, TX",10.4
+"Medford, OR",12.4
+"Memphis, TN-MS-AR",11.0
+"Merced, CA",17.5
+"Miami-Fort Lauderdale-West Palm Beach, FL",11.1
+"Michigan City-La Porte, IN",11.0
+"Midland, MI",8.8
+"Midland, TX",3.9
+"Milwaukee-Waukesha-West Allis, WI",8.4
+"Minneapolis-St. Paul-Bloomington, MN-WI",6.6
+"Missoula, MT",9.1
+"Mobile, AL",11.1
+"Modesto, CA",16.3
+"Monroe, LA",7.9
+"Monroe, MI",10.0
+"Montgomery, AL",9.0
+"Morgantown, WV",6.6
+"Morristown, TN",11.2
+"Mount Vernon-Anacortes, WA",8.9
+"Muncie, IN",11.4
+"Muskegon, MI",14.1
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",10.9
+"Napa, CA",8.4
+"Naples-Immokalee-Marco Island, FL",9.2
+"Nashville-Davidson--Murfreesboro--Franklin, TN",7.8
+"New Bern, NC",12.3
+"New Haven-Milford, CT",10.4
+"New Orleans-Metairie, LA",9.0
+"New York-Newark-Jersey City, NY-NJ-PA",9.3
+"Niles-Benton Harbor, MI",10.6
+"North Port-Sarasota-Bradenton, FL",9.8
+"Norwich-New London, CT",8.4
+"Ocala, FL",12.9
+"Ocean City, NJ",10.2
+"Odessa, TX",5.3
+"Ogden-Clearfield, UT",5.9
+"Oklahoma City, OK",6.1
+"Olympia-Tumwater, WA",9.1
+"Omaha-Council Bluffs, NE-IA",5.9
+"Orlando-Kissimmee-Sanford, FL",10.5
+"Oshkosh-Neenah, WI",5.7
+"Owensboro, KY",6.8
+"Oxnard-Thousand Oaks-Ventura, CA",9.4
+"Palm Bay-Melbourne-Titusville, FL",12.1
+"Panama City, FL",10.1
+"Parkersburg-Vienna, WV",9.8
+"Pensacola-Ferry Pass-Brent, FL",10.5
+"Peoria, IL",8.0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",9.9
+"Phoenix-Mesa-Scottsdale, AZ",9.1
+"Pine Bluff, AR",12.9
+"Pittsburgh, PA",7.4
+"Pittsfield, MA",9.4
+"Pocatello, ID",7.4
+"Ponce, PR",23.4
+"Portland-South Portland, ME",6.2
+"Portland-Vancouver-Hillsboro, OR-WA",9.6
+"Port St. Lucie, FL",12.7
+"Prescott, AZ",10.9
+"Providence-Warwick, RI-MA",9.7
+"Provo-Orem, UT",6.7
+"Pueblo, CO",11.1
+"Punta Gorda, FL",12.6
+"Racine, WI",9.4
+"Raleigh, NC",8.0
+"Rapid City, SD",4.9
+"Reading, PA",9.4
+"Redding, CA",12.2
+"Reno, NV",10.6
+"Richmond, VA",8.2
+"Riverside-San Bernardino-Ontario, CA",14.1
+"Roanoke, VA",6.6
+"Rochester, MN",4.5
+"Rochester, NY",7.8
+"Rockford, IL",12.3
+"Rocky Mount, NC",14.3
+"Rome, GA",12.1
+"Sacramento--Roseville--Arden-Arcade, CA",12.0
+"Saginaw, MI",12.1
+"St. Cloud, MN",6.7
+"St. George, UT",9.4
+"St. Joseph, MO-KS",8.1
+"St. Louis, MO-IL",8.9
+"Salem, OR",12.6
+"Salinas, CA",9.6
+"Salisbury, MD-DE",9.3
+"Salt Lake City, UT",7.1
+"San Angelo, TX",5.9
+"San Antonio-New Braunfels, TX",7.6
+"San Diego-Carlsbad, CA",9.6
+"San Francisco-Oakland-Hayward, CA",8.7
+"San Germán, PR",13.9
+"San Jose-Sunnyvale-Santa Clara, CA",9.0
+"San Juan-Carolina-Caguas, PR",16.9
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",8.0
+"Santa Cruz-Watsonville, CA",8.7
+"Santa Fe, NM",9.0
+"Santa Maria-Santa Barbara, CA",8.9
+"Santa Rosa, CA",9.6
+"Savannah, GA",9.1
+"Scranton--Wilkes-Barre--Hazleton, PA",8.2
+"Seattle-Tacoma-Bellevue, WA",8.2
+"Sebastian-Vero Beach, FL",13.6
+"Sebring, FL",14.9
+"Sheboygan, WI",6.8
+"Sherman-Denison, TX",9.1
+"Shreveport-Bossier City, LA",7.6
+"Sierra Vista-Douglas, AZ",9.3
+"Sioux City, IA-NE-SD",5.2
+"Sioux Falls, SD",3.9
+"South Bend-Mishawaka, IN-MI",10.3
+"Spartanburg, SC",10.6
+"Spokane-Spokane Valley, WA",9.2
+"Springfield, IL",8.0
+"Springfield, MA",9.9
+"Springfield, MO",8.0
+"Springfield, OH",10.8
+"State College, PA",5.3
+"Staunton-Waynesboro, VA",5.8
+"Stockton-Lodi, CA",15.0
+"Sumter, SC",13.9
+"Syracuse, NY",8.0
+"Tallahassee, FL",11.2
+"Tampa-St. Petersburg-Clearwater, FL",10.4
+"Terre Haute, IN",8.2
+"Texarkana, TX-AR",8.6
+"The Villages, FL",11.3
+"Toledo, OH",11.2
+"Topeka, KS",7.1
+"Trenton, NJ",10.4
+"Tucson, AZ",10.8
+"Tulsa, OK",7.0
+"Tuscaloosa, AL",9.1
+"Tyler, TX",7.7
+"Urban Honolulu, HI",5.9
+"Utica-Rome, NY",8.3
+"Valdosta, GA",13.5
+"Vallejo-Fairfield, CA",12.1
+"Victoria, TX",6.9
+"Vineland-Bridgeton, NJ",13.3
+"Virginia Beach-Norfolk-Newport News, VA-NC",8.3
+"Visalia-Porterville, CA",13.5
+"Waco, TX",7.0
+"Walla Walla, WA",6.9
+"Warner Robins, GA",10.7
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",6.9
+"Waterloo-Cedar Falls, IA",7.3
+"Watertown-Fort Drum, NY",11.3
+"Wausau, WI",6.8
+"Weirton-Steubenville, WV-OH",8.6
+"Wenatchee, WA",8.7
+"Wheeling, WV-OH",7.7
+"Wichita, KS",7.7
+"Wichita Falls, TX",6.4
+"Williamsport, PA",8.5
+"Wilmington, NC",10.2
+"Winchester, VA-WV",7.1
+"Winston-Salem, NC",10.2
+"Worcester, MA-CT",8.8
+"Yakima, WA",10.0
+"York-Hanover, PA",8.3
+"Youngstown-Warren-Boardman, OH-PA",9.4
+"Yuba City, CA",15.4
+"Yuma, AZ",13.4

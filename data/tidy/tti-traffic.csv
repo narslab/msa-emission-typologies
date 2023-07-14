@@ -1,4 +1,4 @@
-Geographic Area Name,auto_commuters,annual_excess_fuel_consumed_commuters,ahd,tti,dvmt_freeway,ahd_truck,vmt_arterial
+msa,auto_commuters,annual_excess_fuel_consumed_commuters,ahd,tti,dvmt_freeway,ahd_truck,vmt_arterial
 "Akron, OH",298,6453,14470,1.11,5703,608,4460
 "Albany-Schenectady, NY",300,5172,13605,1.14,7273,690,5623
 "Albuquerque, NM",380,8950,18864,1.15,5500,909,7887
