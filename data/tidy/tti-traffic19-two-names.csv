@@ -1,0 +1,360 @@
+msa (osm),msa,auto_commuters,annual_excess_fuel_consumed_commuters,Annual Hours of Delay (Person Hours),AHD per Auto Commuter,tti,ahd_truck
+"Abilene, TX","Abilene, TX",64,1282,2548,20,1.07,172
+"Akron, OH","Akron, OH",298,6741,15835,38,1.1,716
+"Albany, GA","Albany, GA",54,870,1905,18,1.08,96
+"Albany-Lebanon, OR","Albany, OR",35,465,1046,9,1.06,78
+"Albany-Schenectady-Troy, NY","Albany-Schenectady, NY",297,6240,15617,49,1.15,732
+"Albuquerque, NM","Albuquerque, NM",386,9099,21780,47,1.17,979
+"Allentown-Bethlehem-Easton, PA-NJ","Allentown, PA-NJ",343,5728,14953,37,1.16,601
+"Altoona, PA","Altoona, PA",45,644,1393,17,1.06,50
+"Amarillo, TX","Amarillo, TX",116,2198,4600,20,1.1,239
+"Ames, IA","Ames, IA",36,400,939,8,1.08,23
+"Ann Arbor, MI","Ann, Arbor",175,2706,6726,21,1.1,329
+"Anniston-Oxford, AL","Anniston-Oxford, AL",47,710,1818,21,1.06,66
+"Appleton, WI","Appleton, WI",128,1707,3821,16,1.05,173
+"Asheville, NC","Asheville, NC",175,3329,8689,28,1.08,318
+"Athens-Clarke County, GA","Athens-Clarke, County",78,1587,3772,26,1.1,128
+"Atlanta-Sandy Springs-Alpharetta, GA","Atlanta, GA",2417,121952,230899,78,1.3,10674
+"Atlantic City-Hammonton, NJ","Atlantic, City",139,2063,5097,21,1.07,220
+"Auburn-Opelika, AL","Auburn, AL",50,1181,2672,30,1.09,83
+"Augusta-Richmond County, GA-SC","Augusta-Richmond, County",225,3749,8536,26,1.09,435
+"Austin-Round Rock-Georgetown, TX","Austin, TX",893,30205,81069,68,1.35,3545
+"Bakersfield, CA","Bakersfield, CA",289,3598,9684,26,1.15,459
+"Baltimore-Columbia-Towson, MD","Baltimore, MD",1275,39125,102994,63,1.26,4231
+"Bangor, ME","Bangor, ME",36,723,1689,28,1.09,88
+"Barnstable Town, MA","Barnstable, Town",142,2195,5252,20,1.05,226
+"Battle Creek, MI","Battle, Creek",45,542,1313,15,1.05,88
+"Bay City, MI","Bay, City",42,526,1244,17,1.06,44
+"Beaumont-Port Arthur, TX","Beaumont, TX",82,1999,4772,42,1.12,210
+"Beckley, WV","Beckley, WV",37,517,1168,12,1.05,129
+"Bellingham, WA","Bellingham, WA",69,1417,3537,28,1.13,129
+"Bend, OR","Bend, OR",56,1237,2582,24,1.11,199
+"Billings, MT","Billings, MT",68,1217,2710,21,1.1,91
+"Binghamton, NY","Binghamton, NY-PA",91,1329,3539,20,1.06,145
+"Birmingham-Hoover, AL","Birmingham, AL",417,11276,28789,51,1.17,1473
+"Bismarck, ND","Bismarck, ND",52,791,1808,19,1.09,36
+"Blacksburg-Christiansburg, VA","Blacksburg, VA",53,598,1401,15,1.07,28
+"Bloomington, IL","Bloomington-Normal, IL",77,678,1581,11,1.04,52
+"Bloomington, IN","Bloomington, IN",67,847,1888,16,1.1,112
+"Bloomsburg-Berwick, PA","Bloomsburg-Berwick, PA",30,287,778,10,1.04,41
+"Boise City, ID","Boise, ID",204,5659,12525,44,1.18,486
+"Boston-Cambridge-Newton, MA-NH","Boston, MA-NH-RI",1755,86430,209231,86,1.28,7478
+"Boulder, CO","Boulder, CO",67,2285,4865,48,1.22,163
+"Bowling Green, KY","Bowling, Green",53,1397,2808,32,1.14,141
+"Bremerton-Silverdale-Port Orchard, WA","Bremerton, WA",123,2059,5142,25,1.14,183
+"Bridgeport-Stamford-Norwalk, CT","Bridgeport-Stamford, CT-NY",484,16449,39387,58,1.3,2365
+"Brownsville-Harlingen, TX","Brownsville, TX",123,2764,5944,36,1.13,231
+"Brunswick, GA","Brunswick, GA",44,687,1513,21,1.05,73
+"Buffalo-Cheektowaga, NY","Buffalo, NY",444,11904,27343,49,1.16,1019
+"Burlington, NC","Burlington, NC",78,948,2105,16,1.04,86
+"Burlington-South Burlington, VT","Burlington, VT",65,1289,3024,25,1.1,116
+"Cape Coral-Fort Myers, FL","Cape, Coral",322,8916,21377,45,1.19,725
+"Cape Girardeau, MO-IL","Cape, Girardeau",31,550,1224,18,1.08,55
+"Carbondale-Marion, IL","Carbondale, IL",40,319,784,11,1.05,28
+"Carson City, NV","Carson, City",34,512,1193,13,1.09,56
+"Casper, WY","Casper, WY",44,450,1116,15,1.09,57
+"Cedar Rapids, IA","Cedar, Rapids",108,1567,3752,19,1.09,181
+"Chambersburg-Waynesboro, PA","Chambersburg, PA",30,404,872,8,1.05,67
+"Champaign-Urbana, IL","Champaign, IL",87,826,1875,12,1.06,69
+"Charleston, WV","Charleston, WV",101,1087,2669,17,1.05,250
+"Charleston-North Charleston, SC","Charleston-North, Charleston",325,9369,24780,58,1.24,891
+"Charlotte-Concord-Gastonia, NC-SC","Charlotte, NC-SC",741,18348,51737,53,1.22,2041
+"Charlottesville, VA","Charlottesville, VA",60,1561,4026,38,1.18,83
+"Chattanooga, TN-GA","Chattanooga, TN-GA",228,6079,12878,32,1.13,1065
+"Cheyenne, WY","Cheyenne, WY",45,513,1193,14,1.06,48
+"Chicago-Naperville-Elgin, IL-IN-WI","Chicago, IL-IN",3446,136878,331657,74,1.29,16360
+"Chico, CA","Chico, CA",62,780,1793,17,1.1,72
+"Cincinnati, OH-KY-IN","Cincinnati, OH-KY-IN",858,25279,57734,52,1.17,2343
+"Clarksville, TN-KY","Clarksville, TN-KY",103,2049,3995,22,1.12,280
+"Cleveland-Elyria, OH","Cleveland, TN",47,882,1865,24,1.07,143
+"Cleveland, TN","Cleveland, OH",874,27628,53157,47,1.14,2274
+"Coeur d'Alene, ID","Coeur, d'Alene",65,1150,2632,23,1.09,70
+"College Station-Bryan, TX","College, Station-Bryan",114,2677,5657,32,1.16,254
+"Colorado Springs, CO","Colorado, Springs",303,7792,20010,48,1.16,652
+"Columbia, MO","Columbia, MO",76,1199,2845,20,1.1,186
+"Columbia, SC","Columbia, SC",306,6564,16893,44,1.15,629
+"Columbus, GA-AL","Columbus, GA-AL",152,2521,5458,20,1.08,266
+"Columbus, IN","Columbus, IN",34,387,877,10,1.05,52
+"Columbus, OH","Columbus, OH",778,19677,46578,49,1.18,1979
+"Corpus Christi, TX","Corpus, Christi",178,4907,9813,39,1.13,513
+"Corvallis, OR","Corvallis, OR",38,406,905,11,1.11,40
+"Cumberland, MD-WV","Cumberland, MD-WV-PA",30,687,1518,23,1.1,98
+"Dallas-Fort Worth-Arlington, TX","Dallas-Fort, Worth-Arlington",2684,83609,219759,65,1.25,9846
+"Dalton, GA","Dalton, GA",52,791,1772,20,1.05,92
+"Danville, IL","Danville, IL",28,247,541,9,1.05,22
+"Daphne-Fairhope-Foley, AL","Daphne-Fairhope, AL",40,1027,2564,26,1.11,83
+"Davenport-Moline-Rock Island, IA-IL","Davenport, IA-IL",166,1733,4002,14,1.05,138
+"Dayton-Kettering, OH","Dayton, OH",375,6379,14481,32,1.12,662
+"Decatur, AL","Decatur, AL",52,839,1876,24,1.08,82
+"Decatur, IL","Decatur, IL",36,463,1091,11,1.07,48
+"Deltona-Daytona Beach-Ormond Beach, FL","Deltona, FL",116,1540,3343,16,1.08,139
+"Denver-Aurora-Lakewood, CO","Denver-Aurora, CO",1358,44960,111366,62,1.32,4637
+"Des Moines-West Des Moines, IA","Des, Moines",287,3641,8791,17,1.07,353
+"Detroit-Warren-Dearborn, MI","Detroit, MI",2045,60243,159551,60,1.23,6457
+"Dothan, AL","Dothan, AL",47,1298,2901,33,1.11,131
+"Dover, DE","Dover, DE",67,1219,2777,22,1.09,120
+"Dubuque, IA","Dubuque, IA-IL",42,573,1214,14,1.09,61
+"Duluth, MN-WI","Duluth, MN-WI",72,875,2093,16,1.07,78
+"Durham-Chapel Hill, NC","Durham, NC",218,4613,12999,35,1.17,364
+"East Stroudsburg, PA","East, Stoudsburg",33,640,1480,9,1.05,91
+"Eau Claire, WI","Eau, Claire",62,611,1549,14,1.06,82
+"El Centro, CA","El, Centro-Calexico",68,844,1754,14,1.12,83
+"El Paso, TX","El, Paso",419,10965,24967,45,1.16,1233
+"Elizabethtown-Fort Knox, KY","Elizabethtown-Radcliff, KY",46,644,1496,16,1.09,63
+"Elkhart-Goshen, IN","Elkhart, IN-MI",83,1036,2252,14,1.07,133
+"Elmira, NY","Elmira, NY",40,424,974,13,1.05,47
+"Erie, PA","Erie, PA",113,1551,3547,17,1.08,121
+"Evansville, IN-KY","Evansville, IN-KY",135,2061,4685,18,1.09,187
+"Fargo, ND-MN","Fargo, ND-MN",117,1826,4052,21,1.16,111
+"Farmington, NM","Farmington, NM",32,597,1154,14,1.09,38
+"Fayetteville, NC","Fayetteville, NC",185,2807,7829,23,1.1,241
+"Fayetteville-Springdale-Rogers, AR","Fayetteville-Springdale-Rogers, AR-MO",195,4680,10490,32,1.14,419
+"Flagstaff, AZ","Flagstaff, AZ",46,681,1467,17,1.08,87
+"Flint, MI","Flint, MI",189,2274,5663,15,1.05,213
+"Florence-Muscle Shoals, AL","Florence, AL",48,1122,2481,29,1.12,84
+"Florence, SC","Florence, SC",56,1321,3186,31,1.12,147
+"Fond du Lac, WI","Fond, du",34,350,786,10,1.04,34
+"Fort Collins, CO","Fort, Collins",170,2671,6704,23,1.11,236
+"Fort Smith, AR-OK","Fort, Smith",73,1364,3068,23,1.06,84
+"Fort Wayne, IN","Fort, Wayne",183,2890,6291,19,1.09,344
+"Fresno, CA","Fresno, CA",359,7821,19335,40,1.15,875
+"Gadsden, AL","Gadsden, AL",38,906,2013,30,1.11,102
+"Gainesville, FL","Gainesville, FL",116,2727,5843,28,1.17,179
+"Gainesville, GA","Gainesville, GA",85,1599,3636,25,1.09,161
+"Glens Falls, NY","Glens, Falls",37,676,1580,22,1.05,53
+"Goldsboro, NC","Goldsboro, NC",36,570,1336,19,1.08,42
+"Grand Forks, ND-MN","Grand, Forks",38,1085,2338,23,1.08,65
+"Grand Island, NE","Grand, Island",30,314,744,9,1.08,26
+"Grand Junction, CO","Grand, Junction",76,689,1649,12,1.07,70
+"Grand Rapids-Kentwood, MI","Grand, Rapids",330,7101,17240,41,1.12,661
+"Grants Pass, OR","Grants, Pass",31,541,1192,13,1.05,74
+"Great Falls, MT","Great, Falls",38,426,960,13,1.11,32
+"Greeley, CO","Greeley, CO",79,1307,3312,26,1.16,134
+"Green Bay, WI","Green, Bay",121,1581,3703,16,1.06,205
+"Greensboro-High Point, NC","Greensboro, NC",172,3173,7697,36,1.13,339
+"Greenville, NC","Greenville, NC",74,1942,4259,31,1.16,130
+"Greenville-Anderson, SC","Greenville, SC",245,5500,13331,30,1.15,739
+"Gulfport-Biloxi, MS","Gulfport, MS",129,2386,5530,24,1.07,160
+"Hagerstown-Martinsburg, MD-WV","Hagerstown, MD-WV-PA",112,1568,3367,16,1.04,265
+"Hanford-Corcoran, CA","Hanford, CA",54,319,956,10,1.08,58
+"Harrisburg-Carlisle, PA","Harrisburg, PA",267,5017,11662,35,1.1,781
+"Harrisonburg, VA","Harrisonburg, VA",42,745,1703,24,1.07,44
+"Hartford-East Hartford-Middletown, CT","Hartford, CT",449,12053,28583,52,1.17,1307
+"Hattiesburg, MS","Hattiesburg, MS",47,1018,2378,27,1.1,74
+"Hickory-Lenoir-Morganton, NC","Hickory, NC",132,1839,4441,19,1.05,184
+"Hilton Head Island-Bluffton, SC","Hilton, Head",43,800,2065,21,1.17,111
+"Hinesville, GA","Hinesville, GA",30,298,719,11,1.08,24
+"Homosassa Springs, FL","Homosassa, Spr-Beverly",50,719,1600,16,1.08,80
+"Hot Springs, AR","Hot, Springs",32,637,1635,23,1.07,35
+"Houston-The Woodlands-Sugar Land, TX","Houston, TX",2616,105899,263239,76,1.34,12015
+"Huntington-Ashland, WV-KY-OH","Huntington, WV-KY-OH",117,1634,3952,19,1.06,198
+"Huntsville, AL","Huntsville, AL",174,3782,10482,28,1.12,267
+"Idaho Falls, ID","Idaho, Falls",57,631,1397,11,1.06,43
+"Indianapolis-Carmel-Anderson, IN","Indianapolis, IN",812,21655,47617,52,1.18,2488
+"Iowa City, IA","Iowa, City",71,878,2023,16,1.07,95
+"Ithaca, NY","Ithaca, NY",33,647,1637,28,1.17,57
+"Jackson, MI","Jackson, MI",53,627,1575,17,1.07,80
+"Jackson, MS","Jackson, MS",199,4989,12836,44,1.13,529
+"Jackson, TN","Jackson, TN",43,1178,2316,24,1.08,174
+"Jacksonville, FL","Jacksonville, FL",601,14458,40733,53,1.21,1501
+"Jacksonville, NC","Jacksonville, NC",63,1081,2557,20,1.11,74
+"Janesville-Beloit, WI","Janesville, WI",42,595,1528,19,1.07,83
+"Jefferson City, MO","Jefferson, City",32,575,1537,22,1.09,62
+"Johnson City, TN","Johnson, City",72,1256,2686,18,1.06,123
+"Johnstown, PA","Johnstown, PA",41,373,830,12,1.06,34
+"Jonesboro, AR","Jonesboro, AR",42,853,1995,26,1.09,104
+"Joplin, MO","Joplin, MO",50,841,1825,21,1.08,93
+"Kahului-Wailuku-Lahaina, HI","Kahului, HI",36,950,2074,23,1.15,77
+"Kalamazoo-Portage, MI","Kalamazoo, MI",124,1625,3807,17,1.05,116
+"Kankakee, IL","Kankakee, IL",49,553,1158,13,1.05,63
+"Kansas City, MO-KS","Kansas, City",834,20971,51326,50,1.16,3187
+"Kennewick-Richland, WA","Kennewick-Pasco, WA",135,1809,4270,17,1.08,224
+"Killeen-Temple, TX","Killeen, TX",129,1599,3639,14,1.1,151
+"Kingsport-Bristol, TN-VA","Kingsport, TN-VA",62,884,2159,18,1.05,100
+"Kingston, NY","Kingston, NY",64,797,2122,23,1.04,86
+"Knoxville, TN","Knoxville, TN",315,7705,17570,45,1.14,1124
+"Kokomo, IN","Kokomo, IN",38,379,844,9,1.06,40
+"La Crosse-Onalaska, WI-MN","La, Crosse",60,866,1865,16,1.07,84
+"Lafayette-West Lafayette, IN","Lafayette, IN",94,1391,2862,18,1.12,170
+"Lake Havasu City-Kingman, AZ","Lake, Havasu",32,215,498,6,1.07,25
+"Lakeland-Winter Haven, FL","Lakeland, FL",168,2907,6359,18,1.1,369
+"Lancaster, PA","Lancaster, PA",232,3483,7871,19,1.08,364
+"Lansing-East Lansing, MI","Lansing, MI",180,2139,5135,15,1.06,163
+"Laredo, TX","Laredo, TX",138,3755,7487,35,1.17,567
+"Las Cruces, NM","Las, Cruces",77,1328,2978,19,1.08,143
+"Las Vegas-Henderson-Paradise, NV","Las, Vegas-Henderson",1060,24594,60761,50,1.25,2343
+"Lawrence, KS","Lawrence, KS",55,744,1655,14,1.08,58
+"Lawton, OK","Lawton, OK",59,476,1078,7,1.05,45
+"Lebanon, PA","Lebanon, PA",48,332,762,9,1.08,38
+"Lewiston, ID-WA","Lewiston, ID-WA",31,353,770,11,1.08,31
+"Lewiston-Auburn, ME","Lewiston, ME",36,659,1534,22,1.08,88
+"Lexington-Fayette, KY","Lexington-Fayette, KY",175,5165,10993,36,1.18,580
+"Lima, OH","Lima, OH",45,448,1016,12,1.06,48
+"Lincoln, NE","Lincoln, NE",160,2393,5316,17,1.09,183
+"Little Rock-North Little Rock-Conway, AR","Little, Rock",246,10582,20266,46,1.14,2471
+"Logan, UT-ID","Logan, UT",62,492,864,8,1.07,122
+"Longview, TX","Longview, TX",61,1643,3569,34,1.13,196
+"Longview, WA","Longview, WA-OR",39,677,1554,23,1.08,83
+"Los Angeles-Long Beach-Anaheim, CA","Los, Angeles-Long",5796,345453,952183,119,1.52,36779
+"Louisville/Jefferson County, KY-IN","Louisville-Jefferson, County",587,13501,30610,48,1.17,1807
+"Lubbock, TX","Lubbock, TX",145,2181,4929,19,1.09,248
+"Lynchburg, VA","Lynchburg, VA",72,1546,3651,28,1.11,79
+"Macon-Bibb County, GA","Macon, GA",80,1548,3636,24,1.06,232
+"Madera, CA","Madera, CA",52,673,1486,15,1.11,112
+"Madison, WI","Madison, WI",201,5182,12064,42,1.16,690
+"Manhattan, KS","Manhattan, KS",34,291,694,9,1.07,28
+"Mankato, MN","Mankato, MN",35,300,768,10,1.06,30
+"Mansfield, OH","Mansfield, OH",45,500,1123,13,1.04,52
+"McAllen-Edinburg-Mission, TX","McAllen, TX",413,9266,22555,42,1.17,903
+"Medford, OR","Medford, OR",97,1317,2930,15,1.08,179
+"Memphis, TN-MS-AR","Memphis, TN-MS-AR",575,15133,31809,54,1.18,2183
+"Merced, CA","Merced, CA",84,871,2030,13,1.09,135
+"Miami-Fort Lauderdale-Pompano Beach, FL","Miami, FL",2827,120912,309019,74,1.34,11577
+"Michigan City-La Porte, IN","Michigan, City-La",40,356,794,11,1.05,56
+"Midland, MI","Midland, MI",35,359,921,11,1.05,25
+"Midland, TX","Midland, TX",81,2718,4805,27,1.11,501
+"Minneapolis-St. Paul-Bloomington, MN-WI","Minneapolis-St., Paul",1417,40837,110297,59,1.26,3975
+"Missoula, MT","Missoula, MT",52,971,2263,24,1.13,74
+"Mobile, AL","Mobile, AL",194,5148,12298,30,1.11,515
+"Modesto, CA","Modesto, CA",207,4659,11489,30,1.22,571
+"Monroe, LA","Monroe, LA",70,1043,2210,18,1.08,206
+"Monroe, MI","Monroe, MI",35,335,767,10,1.04,44
+"Montgomery, AL","Montgomery, AL",165,3075,7000,25,1.09,279
+"Morgantown, WV","Morgantown, WV",44,459,1089,12,1.06,82
+"Morristown, TN","Morristown, TN",36,570,1294,22,1.09,48
+"Mount Vernon-Anacortes, WA","Mount, Vernon",40,682,1583,26,1.1,79
+"Muncie, IN","Muncie, IN",53,473,1065,11,1.06,76
+"Muskegon, MI","Muskegon, MI",92,795,1852,11,1.05,84
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC","Myrtle, Beach-Socastee",152,3777,8900,33,1.14,423
+"Napa, CA","Napa, CA",48,1820,4190,46,1.2,164
+"Nashville-Davidson--Murfreesboro--Franklin, TN","Nashville-Davidson, TN",629,25006,59525,66,1.23,4350
+"New Bern, NC","New, Bern",29,387,922,12,1.07,32
+"New Haven-Milford, CT","New, Haven",265,6472,15397,44,1.15,634
+"New York-Newark-Jersey City, NY-NJ-PA","New, York-Newark",6005,335880,846704,96,1.36,36628
+"North Port-Sarasota-Bradenton, FL","North, Port-Port",113,1541,3331,17,1.09,134
+"Norwich-New London, CT","Norwich-New, London",126,1589,3983,24,1.06,226
+"Ocala, FL","Ocala, FL",100,2226,4704,27,1.1,231
+"Odessa, TX","Odessa, TX",85,2737,4949,40,1.11,449
+"Ogden-Clearfield, UT","Ogden-Layton, UT",328,4179,8503,14,1.1,1268
+"Oklahoma City, OK","Oklahoma, City",555,16039,41004,47,1.2,2434
+"Olympia-Lacey-Tumwater, WA","Olympia-Lacey, WA",115,2283,5551,28,1.12,246
+"Omaha-Council Bluffs, NE-IA","Omaha, NE-IA",409,9137,22404,44,1.18,612
+"Orlando-Kissimmee-Sanford, FL","Orlando, FL",879,28577,71267,61,1.24,2939
+"Oshkosh-Neenah, WI","Oshkosh, WI",48,458,1012,12,1.05,48
+"Owensboro, KY","Owensboro, KY",42,606,1188,15,1.07,106
+"Oxnard-Thousand Oaks-Ventura, CA","Oxnard, CA",191,2413,6499,34,1.16,342
+"Palm Bay-Melbourne-Titusville, FL","Palm, Bay-Melbourne",274,5429,11076,23,1.1,563
+"Panama City, FL","Panama, City",92,2345,4861,31,1.15,233
+"Parkersburg-Vienna, WV","Parkersburg, WV-OH",40,458,1013,11,1.05,47
+"Pensacola-Ferry Pass-Brent, FL","Pensacola, FL-AL",182,4539,10537,48,1.16,322
+"Peoria, IL","Peoria, IL",153,1578,3731,13,1.05,133
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia, PA-NJ-DE-MD",2308,69310,172804,63,1.24,6995
+"Phoenix-Mesa-Chandler, AZ","Phoenix-Mesa, AZ",2128,67049,168382,61,1.29,7765
+"Pine Bluff, AR","Pine, Bluff",31,404,867,11,1.05,34
+"Pittsburgh, PA","Pittsburgh, PA",847,19340,44556,45,1.18,1880
+"Pittsfield, MA","Pittsfield, MA",34,522,1214,15,1.08,35
+"Pocatello, ID","Pocatello, ID",43,465,1040,13,1.07,34
+"Port St. Lucie, FL","Port, St.",241,4999,10029,23,1.11,510
+"Portland-South Portland, ME","Portland, ME",117,2463,5830,28,1.1,251
+"Portland-Vancouver-Hillsboro, OR-WA","Portland, OR-WA",909,35070,78309,68,1.35,4039
+"Poughkeepsie-Newburgh-Middletown, NY","Poughkeepsie-Newburgh, NY-NJ",203,3611,8682,36,1.1,338
+"Prescott Valley-Prescott, AZ","Prescott, Valley-Prescott",57,954,2054,20,1.09,122
+"Providence-Warwick, RI-MA","Providence, RI-MA",614,15652,37425,47,1.16,1147
+"Provo-Orem, UT","Provo-Orem, UT",263,5132,9621,27,1.12,1047
+"Pueblo, CO","Pueblo, CO",82,1165,3125,20,1.11,126
+"Racine, WI","Racine, WI",77,1378,2886,20,1.12,274
+"Raleigh-Cary, NC","Raleigh, NC",541,9615,26220,40,1.17,1027
+"Rapid City, SD","Rapid, City",53,840,2010,20,1.07,76
+"Reading, PA","Reading, PA",155,2469,5558,21,1.08,263
+"Redding, CA","Redding, CA",69,1358,3148,23,1.1,156
+"Reno, NV","Reno, NV-CA",244,4728,11229,26,1.13,524
+"Richmond, VA","Richmond, VA",515,9287,23510,35,1.12,840
+"Riverside-San Bernardino-Ontario, CA","Riverside-San, Bernardino",1127,33296,99863,64,1.33,4488
+"Roanoke, VA","Roanoke, VA",122,2511,5684,25,1.1,164
+"Rochester, MN","Rochester, MN",66,912,2323,19,1.1,79
+"Rochester, NY","Rochester, NY",359,7115,16489,41,1.16,658
+"Rockford, IL","Rockford, IL",169,2579,5627,18,1.07,229
+"Rocky Mount, NC","Rocky, Mount",41,537,1220,18,1.05,37
+"Rome, GA","Rome, GA",36,1184,2720,33,1.11,98
+"Sacramento-Roseville-Folsom, CA","Sacramento, CA",940,23239,71079,56,1.27,2122
+"Saginaw, MI","Saginaw, MI",70,985,2181,17,1.05,90
+"Salem, OR","Salem, OR",130,3162,6772,40,1.15,304
+"Salinas, CA","Salinas, CA",107,2284,5420,27,1.15,261
+"Salisbury, MD-DE","Salisbury, MD-DE",59,863,1994,19,1.09,82
+"Salt Lake City, UT","Salt, Lake",544,14916,29571,46,1.17,1470
+"San Angelo, TX","San, Angelo",58,1186,2421,18,1.1,148
+"San Antonio-New Braunfels, TX","San, Antonio",1040,28260,71905,52,1.23,3471
+"San Diego-Chula Vista-Carlsbad, CA","San, Diego",1450,34240,145568,64,1.34,5394
+"San Francisco-Oakland-Berkeley, CA","San, Francisco-Oakland",1299,92997,255724,103,1.51,13453
+"San Jose-Sunnyvale-Santa Clara, CA","San, Jose",1014,41655,118687,80,1.44,5443
+"San Luis Obispo-Paso Robles, CA","San, Luis",35,636,1600,20,1.12,84
+"Santa Cruz-Watsonville, CA","Santa, Cruz",100,4393,10612,42,1.21,600
+"Santa Fe, NM","Santa, Fe",54,1293,2803,28,1.11,84
+"Santa Maria-Santa Barbara, CA","Santa, Maria",79,1016,2314,16,1.13,153
+"Santa Rosa-Petaluma, CA","Santa, Rosa",173,6630,18461,53,1.21,685
+"Savannah, GA","Savannah, GA",157,4418,9878,35,1.11,518
+"Scranton--Wilkes-Barre, PA","Scranton, PA",216,3193,7726,19,1.06,303
+"Seattle-Tacoma-Bellevue, WA","Seattle, WA",1588,67508,168998,77,1.37,6966
+"Sebastian-Vero Beach, FL","Sebastian-Vero, Bch",93,1142,2529,14,1.09,119
+"Sebring-Avon Park, FL","Sebring-Avon, Park",36,455,1039,11,1.11,72
+"Sheboygan, WI","Sheboygan, WI",43,397,845,11,1.06,31
+"Sherman-Denison, TX","Sherman, TX",43,667,1476,13,1.06,83
+"Sierra Vista-Douglas, AZ","Sierra, Vista",29,256,583,8,1.08,28
+"Sioux City, IA-NE-SD","Sioux, City",64,631,1587,14,1.07,88
+"Sioux Falls, SD","Sioux, Falls",99,1546,3529,19,1.07,108
+"South Bend-Mishawaka, IN-MI","South, Bend",157,1647,3716,13,1.06,247
+"Spartanburg, SC","Spartanburg, SC",117,2127,5577,26,1.1,207
+"Spokane-Spokane Valley, WA","Spokane, WA",215,5777,11913,47,1.16,548
+"Springfield, IL","Springfield, IL",93,1090,2510,14,1.06,129
+"Springfield, MA","Springfield, MA-CT",311,6986,15218,40,1.11,658
+"Springfield, MO","Springfield, MO",165,4020,10702,34,1.17,575
+"Springfield, OH","Springfield, OH",50,384,888,9,1.04,37
+"St. Cloud, MN","St., Cloud",67,901,2054,17,1.07,84
+"St. George, UT","St., George",66,887,1537,12,1.05,286
+"St. Joseph, MO-KS","St., Joseph",45,595,1259,14,1.06,65
+"St. Louis, MO-IL","St., Louis",1117,29582,71517,46,1.14,4358
+"State College, PA","State, College",54,550,1282,13,1.07,29
+"Staunton, VA","Staunton-Waynesboro, VA",34,525,1245,14,1.06,22
+"Stockton, CA","Stockton, CA",206,4031,10797,34,1.17,720
+"Sumter, SC","Sumter, SC",44,653,1528,19,1.11,92
+"Syracuse, NY","Syracuse, NY",239,3081,7819,18,1.07,284
+"Tallahassee, FL","Tallahassee, FL",143,3454,7460,33,1.15,224
+"Tampa-St. Petersburg-Clearwater, FL","Tampa-St., Petersburg",1380,40492,98821,53,1.25,3909
+"Terre Haute, IN","Terre, Haute",55,861,1905,18,1.07,111
+"Texarkana, TX-AR","Texarkana, TX-AR",50,1050,2269,20,1.06,100
+"Toledo, OH","Toledo, OH-MI",263,4075,11042,39,1.13,490
+"Topeka, KS","Topeka, KS",85,1422,3264,21,1.07,152
+"Trenton-Princeton, NJ","Trenton, NJ",167,3275,8467,28,1.11,311
+"Tucson, AZ","Tucson, AZ",433,13696,31552,50,1.2,1867
+"Tulsa, OK","Tulsa, OK",399,8317,21870,41,1.13,1021
+"Tuscaloosa, AL","Tuscaloosa, AL",85,2173,5089,31,1.12,179
+"Twin Falls, ID","Twin, Rivers-Highstown",40,767,1912,27,1.11,67
+"Tyler, TX","Tyler, TX",84,3048,5666,32,1.18,472
+"Utica-Rome, NY","Utica, NY",69,916,2208,18,1.05,84
+"Valdosta, GA","Valdosta, GA",48,912,1910,23,1.06,116
+"Vallejo, CA","Vallejo, CA",100,3134,8150,40,1.21,445
+"Victoria, TX","Victoria, TX",41,991,1972,29,1.11,115
+"Vineland-Bridgeton, NJ","Vineland, NJ",55,620,1505,14,1.07,49
+"Virginia Beach-Norfolk-Newport News, VA-NC","Virginia, Beach",751,14318,38378,43,1.16,1215
+"Visalia, CA","Visalia, CA",131,1940,4387,18,1.12,402
+"Waco, TX","Waco, TX",107,2912,5929,31,1.09,476
+"Walla Walla, WA","Walla, Walla-WA-OR",33,317,726,10,1.07,44
+"Warner Robins, GA","Warner, Robins",85,1073,2619,18,1.07,97
+"Waterloo-Cedar Falls, IA","Waterloo, IA",67,491,1328,8,1.05,51
+"Watertown-Fort Drum, NY","Watertown, NY",32,331,790,9,1.04,37
+"Wausau-Weston, WI","Wausau, WI",46,526,1213,14,1.04,66
+"Weirton-Steubenville, WV-OH","Weirton-Steubenville, WV-OH-PA",40,572,1196,17,1.04,89
+"Wenatchee, WA","Wenatchee, WA",43,805,2061,26,1.16,72
+"Wheeling, WV-OH","Wheeling, WV-OH",58,1004,2133,26,1.04,186
+"Wichita Falls, TX","Wichita, Falls",59,864,1922,13,1.07,78
+"Wichita, KS","Wichita, KS",278,4021,10790,36,1.13,426
+"Williamsport, PA","Williamsport, PA",31,439,1054,20,1.04,39
+"Wilmington, NC","Wilmington, NC",145,3014,7113,28,1.14,197
+"Winchester, VA-WV","Winchester, VA",41,1118,2610,31,1.1,101
+"Winston-Salem, NC","Winston-Salem, NC",217,2794,7752,26,1.1,290
+"Worcester, MA-CT","Worcester, MA-CT",251,5575,13085,42,1.13,570
+"Yakima, WA","Yakima, WA",77,1385,2961,19,1.11,173
+"York-Hanover, PA","York, PA",134,2418,5225,21,1.09,261
+"Youngstown-Warren-Boardman, OH-PA","Youngstown, OH-PA",220,3014,6885,18,1.05,330
+"Yuba City, CA","Yuba, City",69,1117,2573,20,1.16,164
+"Yuma, AZ","Yuma, AZ-CA",78,1248,2689,19,1.09,153
